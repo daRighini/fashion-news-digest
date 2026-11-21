@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T22:08:14+01:00",
+  "drive_day_folder_url": null,
+  "sources_checked": [
+    "x.com (signed in: home For you, Fashion tab, Explore trending, searches)",
+    "tiktok.com (signed in: searches 'fashion news', 'AI fashion model')",
+    "theinterline.com",
+    "businessoffashion.com",
+    "techcrunch.com",
+    "cnbc.com",
+    "forbes.com",
+    "the-race.com",
+    "fashionunited.com",
+    "retailgazette.co.uk",
+    "ansa.it",
+    "soompi.com",
+    "koreadaily.com",
+    "iphoneincanada.ca",
+    "techfundingnews.com",
+    "WebSearch (WWD, Vogue Business, Hello!, W Magazine and others)"
+  ],
+  "items": [
+    {
+      "id": "2026-11-21-nike-formula-one-apparel-partner",
+      "rank": 1,
+      "category": "Brands, launches & deals",
+      "headline": "Nike returns to Formula 1 as official apparel and uniform partner from 2027",
+      "summary": "Formula 1 named Nike its official apparel and uniform provider in a multi-year deal that fully starts with the 2027 season, taking over the role from Puma according to The Race. Nike will dress F1 staff worldwide, sell official fan merchandise and become the sporting apparel partner of F1 Academy. A limited Las Vegas Grand Prix capsule went on sale on 20 November at the F1 Hub at the Venetian and Nike's Las Vegas stores. Financial terms were not disclosed; the deal lands days after an investor day (17 November) where Nike targeted a return to market-level growth only in fiscal 2029 and shares fell about 6%.",
+      "why_it_matters": "Sport-fashion crossovers multiply product drops and capsules that need fast on-model imagery; a signal for sportswear e-commerce content volume in 2027.",
+      "influence_score": 8,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Nike",
+          "Puma",
+          "Formula 1",
+          "F1 Academy"
+        ],
+        "people": [
+          "Elliott Hill"
+        ],
+        "companies": [
+          "Nike",
+          "Formula One Group"
+        ],
+        "events": [
+          "Las Vegas Grand Prix 2026",
+          "Nike Investor Day 2026"
+        ]
+      },
+      "source_urls": [
+        "https://www.forbes.com/sites/maurybrown/2026/11/20/nike-announces-long-term-partnership-with-formula-1/",
+        "https://www.the-race.com/business/nike-to-return-to-f1-after-24-years/",
+        "https://www.businessoffashion.com/news/sports/nike-to-become-formula-ones-official-apparel-and-uniform-partner/",
+        "https://fashionunited.com/news/business/nike-ceo-elliott-hill-reportedly-rallies-staff-after-investor-day-fails-to-lift-shares/2026111975852"
+      ],
+      "image": {
+        "preview_path": "images/2026/11-21/nike-formula-one-apparel-partner.jpg",
+        "drive_url": null,
+        "drive_file_id": null,
+        "original_url": "https://imageio.forbes.com/specials-images/imageserve/6b00631bf78ef39d51c2d55e/0x0.jpg",
+        "image_link": "https://imageio.forbes.com/specials-images/imageserve/6b00631bf78ef39d51c2d55e/0x0.jpg",
+        "width": 800,
+        "height": 450,
+        "bytes": 13202,
+        "note": "Preview is a browser render of the source image; original could not be transferred to the workspace, so no Drive copy. Use image_link for full resolution."
+      },
+      "published_at": "2026-11-20",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-21-ai-shopping-agents-virtual-try-on",
+      "rank": 2,
+      "category": "Fashion tech & AI",
+      "headline": "AI shopping agents add virtual try-on: Meta's Muse and Daydream move into fashion",
+      "summary": "Meta's personal agent Muse now offers a Try On feature that previews the exact clothing listing it found on the shopper before ordering, positioned as a look preview rather than a fit guarantee (iPhone in Canada, 19 November). Two days earlier, Julie Bornstein's startup Daydream launched Daydream Agent, which remembers style, fit and budget, reuses an uploaded photo to try on saved items and checks out in one click across a catalogue of 10,000+ brands (TechCrunch). TechCrunch also reports Zuckerberg saying shopping is a top Muse activity among its 10M+ users. On X, some founders question whether consumer try-on drives lasting engagement.",
+      "why_it_matters": "Try-on is becoming a default layer of agentic shopping; brands will need consistent, high-quality on-model product imagery that these agents can render from.",
+      "influence_score": 8,
+      "engagement": {
+        "x_post_philipqiu_views": 3988,
+        "x_post_philipqiu_likes": 37,
+        "x_post_philipqiu_replies": 28
+      },
+      "entities": {
+        "brands": [
+          "Muse",
+          "Daydream"
+        ],
+        "people": [
+          "Julie Bornstein",
+          "Mark Zuckerberg"
+        ],
+        "companies": [
+          "Meta",
+          "Daydream"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://www.iphoneincanada.ca/2026/11/19/meta-muse-try-on-clothes/",
+        "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+        "https://x.com/PhilipQiu5/status/2123605444002263131"
+      ],
+      "image": {
+        "preview_path": "images/2026/11-21/ai-shopping-agents-virtual-try-on.jpg",
+        "drive_url": null,
+        "drive_file_id": null,
+        "original_url": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg",
+        "image_link": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg",
+        "width": 800,
+        "height": 600,
+        "bytes": 34392,
+        "note": "Preview is a browser render of the source image; original could not be transferred to the workspace, so no Drive copy. Use image_link for full resolution."
+      },
+      "published_at": "2026-11-19",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-21-mama-awards-2026-red-carpet",
+      "rank": 3,
+      "category": "Celebrity & red carpet",
+      "headline": "2026 MAMA Awards red carpet in Osaka dominates fashion talk on X",
+      "summary": "The 2026 MAMA Awards red carpet at Osaka's Kyocera Dome (second day on 21 November) produced the weekend's biggest outfit conversation on X, with fan and official posts on TWICE's Nayeon, IVE, LE SSERAFIM, BABYMONSTER, TREASURE and Park Bo Gum reaching tens of thousands to over a million views. Korea Daily describes LE SSERAFIM in coordinated black-and-white ensembles; coverage so far (Soompi, Korea Daily) names no designers. No photos stored, per policy; follow the links for the looks.",
+      "why_it_matters": null,
+      "influence_score": 7,
+      "engagement": {
+        "x_aboutmusic_nayeon_views": 1280274,
+        "x_aboutmusic_nayeon_likes": 9514,
+        "x_sserapics_lesserafim_views": 122548,
+        "x_sserapics_lesserafim_likes": 8889,
+        "x_twice_official_views": 146956,
+        "x_twice_official_likes": 8621
+      },
+      "entities": {
+        "brands": [],
+        "people": [
+          "Nayeon",
+          "Park Bo Gum"
+        ],
+        "companies": [
+          "CJ ENM",
+          "Mnet"
+        ],
+        "events": [
+          "2026 MAMA Awards"
+        ]
+      },
+      "source_urls": [
+        "https://www.soompi.com/article/1889423wpp/stars-light-up-red-carpet-at-2026-mama-awards-chapter-2",
+        "https://en.koreadaily.com/le-sserafim-2026-mama-awards-red-carpet/",
+        "https://x.com/AboutMusicYT/status/2124000339468996678",
+        "https://x.com/sserapics/status/2123994841164271997",
+        "https://x.com/JYPETWICE/status/2124018045140300116"
+      ],
+      "image": null,
+      "published_at": "2026-11-21",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-21-gap-q3-athleta-ceo-ross",
+      "rank": 4,
+      "category": "E-commerce & retail business",
+      "headline": "Gap names a new Athleta CEO and trims its outlook, yet shares jump 11%",
+      "summary": "Gap Inc. reported flat comparable sales for its fiscal third quarter (net sales +2%, online +3%), blamed warm weather for a soft October and cut its full-year sales outlook to roughly flat, with adjusted EPS now guided at $2.29-$2.34 (CNBC, 19 November). It named former Vuori global president Ashley Kechter as Athleta CEO from 14 December after Athleta sales fell 14%. Signs of progress at Old Navy sent shares up more than 11% on Friday. Off-price rival Ross Stores went the other way: BoF reports the stock plunged as rising fuel costs weighed on its profit outlook despite sales beating estimates.",
+      "why_it_matters": "Weather-driven demand swings and margin pressure keep US apparel retailers focused on cutting content and production costs before the holidays.",
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Gap",
+          "Old Navy",
+          "Banana Republic",
+          "Athleta",
+          "Ross Stores",
+          "Vuori"
+        ],
+        "people": [
+          "Ashley Kechter",
+          "Richard Dickson"
+        ],
+        "companies": [
+          "Gap Inc.",
+          "Ross Stores"
+        ],
+        "events": [
+          "Gap Q3 2026 earnings"
+        ]
+      },
+      "source_urls": [
+        "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+        "https://www.businessoffashion.com/news/retail/ross-stores-plunges-on-weaker-profit-outlook-as-fuel-costs-rise/"
+      ],
+      "image": null,
+      "published_at": "2026-11-20",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-21-raffaella-curiel-dies",
+      "rank": 5,
+      "category": "Brands, launches & deals",
+      "headline": "Italian couturier Raffaella Curiel dies in Milan at 83",
+      "summary": "Raffaella Curiel, the Milanese couturier often called the intellectual of Italian fashion, died overnight in a Milan hospital where she was being treated for pneumonia, ANSA reported on 21 November; her children Gaetano and Gigliola announced the news. After training at Balmain in Paris she built her own maison on her mother's tailoring atelier, opened a New York showroom in 1992 and expanded to Japan. The brand was sold to China's Red Stone in 2016, with creative direction staying in the family. The story is trending in Italian fashion media and on TikTok.",
+      "why_it_matters": null,
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Curiel"
+        ],
+        "people": [
+          "Raffaella Curiel",
+          "Gigliola Curiel"
+        ],
+        "companies": [
+          "Red Stone"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/21/morta-la-stilista-raffaella-curiel-lintellettuale-della-moda_f9c6a36c-fde8-42ad-8236-9c8009f2b064.html",
+        "https://www.adnkronos.com/moda/morta-raffaella-curiel_7KD9sbapMrEccTjaBABL3G",
+        "https://www.tiktok.com/@_modami__/video/7710680332172823841"
+      ],
+      "image": null,
+      "published_at": "2026-11-21",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-21-tony-fadell-smartex-chairman",
+      "rank": 6,
+      "category": "Fashion tech & AI",
+      "headline": "Nest founder Tony Fadell becomes Smartex.ai chairman and co-designs AI fabric inspection hardware",
+      "summary": "Smartex.ai appointed Tony Fadell, of iPod, iPhone and Nest fame, as chairman; he also co-designed Inspect, a camera-and-sensor retrofit for mills' existing inspection machines that logs fabric defects and shade by roll position. Paired with Smartex's IQ software, it gives mills, factories and brands a shared view of fabric quality before material ships. The Interline (19 November) says the industry debut is planned at SmartCollab Hong Kong on 27 November.",
+      "why_it_matters": "Shows AI investment in fashion moving upstream; quality data tied to rolls and orders could eventually feed product data used for imagery.",
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [],
+        "people": [
+          "Tony Fadell"
+        ],
+        "companies": [
+          "Smartex.ai"
+        ],
+        "events": [
+          "SmartCollab Hong Kong 2026"
+        ]
+      },
+      "source_urls": [
+        "https://www.theinterline.com/2026/11/19/tony-fadell-smartex-ai-fashion-hardware/"
+      ],
+      "image": null,
+      "published_at": "2026-11-19",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-21-fermat-8m-seed",
+      "rank": 7,
+      "category": "Fashion tech & AI",
+      "headline": "Barcelona's Fermat raises $8M seed for AI design and tech-pack platform",
+      "summary": "Fermat, whose platform turns sketches and moodboards into garment visuals and lets designers test fabrics and colours before sampling, raised an $8M seed led by Kibo Ventures and Lunar Ventures. It counts 350+ customers in 14 countries, including ASOS, J.Crew Group, New Look, s.Oliver and Tendam, and launched a Techpacks tool that generates technical flats, measurements and bills of materials. Revenue has tripled in 2026, the US is a third of it, and a New York office is next (Tech Funding News, 17 November).",
+      "why_it_matters": "Adjacent AI player upstream of On-Model in the design-to-PDP pipeline; same retailer accounts (ASOS, New Look) are potential partners or prospects.",
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "ASOS",
+          "J.Crew",
+          "New Look",
+          "s.Oliver",
+          "Tendam"
+        ],
+        "people": [
+          "Oscar Cuatrecasas",
+          "Pol Baladas"
+        ],
+        "companies": [
+          "Fermat",
+          "Kibo Ventures",
+          "Lunar Ventures"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://techfundingnews.com/fermat-raises-8m-seed-as-ai-fashion-platform-triples-revenue-and-prepares-new-york-expansion/",
+        "https://www.theinterline.com/2026/11/17/fermat-8m-seed-funding-ai-techpacks/"
+      ],
+      "image": null,
+      "published_at": "2026-11-17",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-21-luxury-stocks-ai-selloff-black-friday",
+      "rank": 8,
+      "category": "E-commerce & retail business",
+      "headline": "AI stock jitters hit luxury shares as Black Friday tests consumer spending",
+      "summary": "European luxury stocks fell about 2% on 17 November on fears that an AI-led market sell-off could curb wealthy shoppers' spending; Hermès dropped over 4% and Moncler 4.3% to a four-year low after a Morgan Stanley downgrade (Retail Gazette). Morgan Stanley went underweight on European luxury in its 2027 outlook, citing weak Chinese demand. Heading into Black Friday, BoF notes investors are now watching US consumer spending to steady a market shaken by the AI trade.",
+      "why_it_matters": "Tighter budgets at brands usually accelerate cost-cutting in photo production, a tailwind for AI imagery pitches.",
+      "influence_score": 5,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Hermès",
+          "Moncler",
+          "Burberry",
+          "LVMH",
+          "Kering"
+        ],
+        "people": [],
+        "companies": [
+          "Morgan Stanley",
+          "LVMH",
+          "Kering"
+        ],
+        "events": [
+          "Black Friday 2026"
+        ]
+      },
+      "source_urls": [
+        "https://www.retailgazette.co.uk/blog/2026/11/luxury-brands-hit-by-fears-ai-stock-sell-off-could-dent-wealthy-shoppers-spending/",
+        "https://www.businessoffashion.com/news/retail/black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market/"
+      ],
+      "image": null,
+      "published_at": "2026-11-20",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-21-ykk-ces-2027-zippilot",
+      "rank": 9,
+      "category": "Fashion tech & AI",
+      "headline": "YKK returns to CES with a motorised zip and other connected trims",
+      "summary": "YKK will exhibit at CES in Las Vegas on 6-9 January 2027, its second year at the show, under the theme The Future of Connection. The headline exhibit is Zippilot, a motorised slider that opens and closes a zip, alongside an illuminated Glow Coil Zipper, a conductive top-stop that turns a zip into an electrical switch, and an on-demand trim fabrication system (The Interline, 19 November).",
+      "why_it_matters": null,
+      "influence_score": 5,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "YKK"
+        ],
+        "people": [],
+        "companies": [
+          "YKK"
+        ],
+        "events": [
+          "CES 2027"
+        ]
+      },
+      "source_urls": [
+        "https://www.theinterline.com/2026/11/19/ykk-ces-2027-zippilot-fashion-trims/"
+      ],
+      "image": {
+        "preview_path": "images/2026/11-21/ykk-ces-2027-zippilot.jpg",
+        "drive_url": null,
+        "drive_file_id": null,
+        "original_url": "https://www.theinterline.com/wp-content/uploads/2026/11/20261117_im01.jpg",
+        "image_link": "https://www.theinterline.com/wp-content/uploads/2026/11/20261117_im01.jpg",
+        "width": 690,
+        "height": 667,
+        "bytes": 40586,
+        "note": "Preview is a browser render of the source image; original could not be transferred to the workspace, so no Drive copy. Use image_link for full resolution."
+      },
+      "published_at": "2026-11-19",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-21-gta6-fashion-calendars",
+      "rank": 10,
+      "category": "Fashion tech & AI",
+      "headline": "The Interline: GTA 6 exposed how slow fashion calendars miss cultural moments",
+      "summary": "An Interline analysis (20 November) argues fashion largely missed the GTA 6 launch, one of the year's biggest cultural events, because 6-9 month lead times and fixed product calendars left brands unable to react, with brand-safety worries holding others back. It points to faster digital-print models and better trend sensing as the fix, citing activity around Selfridges, Nike, Cactus Jack, Oakley and New Era. BoF separately notes brands are now courting gaming's audience offline as the game's sales outpace Hollywood blockbusters.",
+      "why_it_matters": "Speed-to-market argument fits On-Model: imagery for reactive drops can be produced without a shoot.",
+      "influence_score": 5,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Selfridges",
+          "Nike",
+          "Cactus Jack",
+          "Oakley",
+          "New Era",
+          "Rimowa"
+        ],
+        "people": [],
+        "companies": [
+          "Rockstar Games"
+        ],
+        "events": [
+          "GTA 6 launch"
+        ]
+      },
+      "source_urls": [
+        "https://www.theinterline.com/2026/11/20/gta-6-fashion-collections-product-calendar/"
+      ],
+      "image": null,
+      "published_at": "2026-11-20",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-21-versace-alpha-drive-one-osaka",
+      "rank": 11,
+      "category": "Social trends (X/TikTok)",
+      "headline": "K-pop boutique visit is the luxury post of the day on X",
+      "summary": "Versace's post on the ALPHA DRIVE ONE members Leo, Sangwon and Anxin visiting its Osaka boutique, with signed postcards offered at its Hankyu Umeda and Ginza stores, drew about 149K views and 7.3K likes, far above the brand's holiday campaign post (about 2.9K views) the same day. It fits the weekend's pattern on fashion X, where K-pop red carpet and idol content (MAMA week in Osaka) outperformed brand-led posts.",
+      "why_it_matters": null,
+      "influence_score": 4,
+      "engagement": {
+        "views": 149342,
+        "likes": 7290,
+        "reposts": 2888,
+        "replies": 240
+      },
+      "entities": {
+        "brands": [
+          "Versace"
+        ],
+        "people": [],
+        "companies": [
+          "Versace"
+        ],
+        "events": [
+          "2026 MAMA Awards"
+        ]
+      },
+      "source_urls": [
+        "https://x.com/Versace/status/2123929386533753212",
+        "https://x.com/Versace/status/2124186077061579176"
+      ],
+      "image": null,
+      "published_at": "2026-11-21",
+      "verified": true,
+      "is_update": false
+    }
+  ]
+}
