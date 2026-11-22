@@ -1,147 +1,147 @@
-# Fashion news digest – 21 November 2026
-
-_First edition: as there is no previous digest, the window covers 17-21 November, weighted to the last 24-48 hours._
+# Fashion news digest – 22 November 2026
 
 ## Top of the night
 
-1. Nike replaces Puma as Formula 1's official apparel partner from 2027; Las Vegas capsule already on sale.
-2. Virtual try-on goes agentic: Meta's Muse and Daydream let AI shoppers preview clothes on you before buying.
-3. Italian couture mourns Raffaella Curiel (83); Gap names a new Athleta CEO as shares rise 11%.
+1. SSENSE confirms some product photos came from virtual try-on tech after Reese Cooper and Gerrit Jacob flag distorted garments: AI imagery's fidelity problem goes mainstream.
+2. Paolo Bulgari, the gemstone expert who chaired the Roman jeweller from 1984, dies at 89.
+3. AI scrutiny spreads to luxury campaigns (Dior's interpolated animation) while retailers report AI assistants converting at 2x (Target).
 
 ## Fashion tech & AI
 
-### 2. AI shopping agents add virtual try-on: Meta's Muse and Daydream move into fashion
+### 1. SSENSE admits some product photos came from virtual try-on tech after designers flag distorted garments
 
-Meta's personal agent Muse now offers a Try On feature that previews the exact clothing listing it found on the shopper before ordering, positioned as a look preview rather than a fit guarantee (iPhone in Canada, 19 November). Two days earlier, Julie Bornstein's startup Daydream launched Daydream Agent, which remembers style, fit and budget, reuses an uploaded photo to try on saved items and checks out in one click across a catalogue of 10,000+ brands (TechCrunch). TechCrunch also reports Zuckerberg saying shopping is a top Muse activity among its 10M+ users. On X, some founders question whether consumer try-on drives lasting engagement.
+Designers Reese Cooper (RCOS) and Gerrit Jacob called out SSENSE on Instagram for product images that warped details of their pieces, such as an oversized hook and altered embroidery and zips on an RCOS puffer. Per The New York Times (via Quartz), an SSENSE spokeswoman said some site photos are produced with virtual try-on technology and confirmed layoffs in its visuals team over the summer, but would not say whether the tool uses AI. Complex Style reports the affected products were pulled from the site. The Fader traces the shift back to July reports that SSENSE cut most of its photo team after its 2025 creditor-protection filing.
 
-**Why it matters for On-Model/PiktID:** Try-on is becoming a default layer of agentic shopping; brands will need consistent, high-quality on-model product imagery that these agents can render from.
+**Why it matters for On-Model/PiktID:** The clearest public case yet that garment fidelity, not just realism, decides whether AI on-model imagery helps or hurts a retailer and its brands: exactly On-Model's quality bar.
 
-![AI shopping agents add virtual try-on: Meta's Muse and Daydream move into fashion](images/2026/11-21/ai-shopping-agents-virtual-try-on.jpg)
+![SSENSE admits some product photos came from virtual try-on tech after designers flag distorted garments](images/2026/11-22/ssense-virtual-try-on-product-photos.jpg)
 
-Full resolution: [source image](https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg) (no Drive copy this run; image credit: original publisher, internal reference only)
+[Full resolution (Drive)](https://drive.google.com/file/d/1_1y9w9jJEt8LaSD3MvfS8cHKqbubtgak/view) · [Source image](https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_1870,w_3420,x_0,y_88,f_auto,q_auto:eco/Screenshot_2026-11-19_at_3.30.20_PM_eugnp0/Screenshot_2026-11-19_at_3.30.20_PM_eugnp0.jpg) · image credit: source outlet, internal reference only
 
-Sources: [iphoneincanada.ca](https://www.iphoneincanada.ca/2026/11/19/meta-muse-try-on-clothes/) · [techcrunch.com](https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/) · [x.com](https://x.com/PhilipQiu5/status/2123605444002263131)
+Sources: [qz.com](https://qz.com/ssense-virtual-try-on-designers-images-112026) · [thefader.com](https://www.thefader.com/2026/11/19/ssense-ai-product-photos-explainer) · [complex.com](https://www.complex.com/style/a/alex-ocho/reese-cooper-ssense-ai-product-images) · [x.com](https://x.com/ComplexStyle/status/2123409047864906149)
 
-Influence score: 8/10 · Engagement seen: x post philipqiu views: 3,988, x post philipqiu likes: 37, x post philipqiu replies: 28 · Published: 2026-11-19
+Influence score: 9/10 · Engagement seen: x complexstyle views: 4,701, x complexstyle likes: 31, x complexstyle reposts: 3 · Published: 2026-11-20
 
-### 6. Nest founder Tony Fadell becomes Smartex.ai chairman and co-designs AI fabric inspection hardware
+### 3. Dior's hand-drawn-style holiday film draws fire after director confirms AI interpolation
 
-Smartex.ai appointed Tony Fadell, of iPod, iPhone and Nest fame, as chairman; he also co-designed Inspect, a camera-and-sensor retrofit for mills' existing inspection machines that logs fabric defects and shade by roll position. Paired with Smartex's IQ software, it gives mills, factories and brands a shared view of fabric quality before material ships. The Interline (19 November) says the industry debut is planned at SmartCollab Hong Kong on 27 November.
+Dior's Autumn-Winter 26/27 animated campaign by Sylvain Chomet was pitched as a return to traditional animation, but viewers spotted extra fingers, unstable faces and five-legged chairs. FashionNetwork reports Chomet told Variety he used AI interpolation to generate in-between frames, framing it as automating repetitive work rather than creative work. The piece sets it against Prada's animated campaign and a wider luxury debate about AI and craft jobs.
 
-**Why it matters for On-Model/PiktID:** Shows AI investment in fashion moving upstream; quality data tied to rolls and orders could eventually feed product data used for imagery.
+**Why it matters for On-Model/PiktID:** Luxury audiences now audit campaigns frame by frame for AI artefacts; disclosure and consistency control matter as much as the output.
 
-Sources: [theinterline.com](https://www.theinterline.com/2026/11/19/tony-fadell-smartex-ai-fashion-hardware/)
+Sources: [ww.fashionnetwork.com](https://ww.fashionnetwork.com/news/Dior-prada-levi-s-why-are-animated-campaigns-sparking-controversy-amid-the-rise-of-ai-,1886266.html)
 
-Influence score: 6/10 · Engagement seen: not shown · Published: 2026-11-19
+Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-18
 
-### 7. Barcelona's Fermat raises $8M seed for AI design and tech-pack platform
+### 5. AI wholesale platform Everful raises $48.5M Series A to scale in the US and Europe
 
-Fermat, whose platform turns sketches and moodboards into garment visuals and lets designers test fabrics and colours before sampling, raised an $8M seed led by Kibo Ventures and Lunar Ventures. It counts 350+ customers in 14 countries, including ASOS, J.Crew Group, New Look, s.Oliver and Tendam, and launched a Techpacks tool that generates technical flats, measurements and bills of materials. Revenue has tripled in 2026, the US is a third of it, and a New York office is next (Tech Funding News, 17 November).
+Everful, founded by ex-Alibaba executive Sisi Song and Kevin Han (whose Orbeus was bought by Amazon), closed a $48.5M Series A led by Vertex Ventures Southeast Asia & India and January Capital, with Square Peg and Lightspeed. The marketplace says it ships over 5 million pieces a month across fashion, footwear and other categories to retailers in 60+ countries, from a network of 30,000+ factories and a 20M-item catalogue, and expects $100M annualised revenue by year-end. Funds go to US and European growth and its AI agents and fulfilment stack.
 
-**Why it matters for On-Model/PiktID:** Adjacent AI player upstream of On-Model in the design-to-PDP pipeline; same retailer accounts (ASOS, New Look) are potential partners or prospects.
+**Why it matters for On-Model/PiktID:** Sourcing is being rebuilt around AI catalogues with millions of SKUs, each needing sell-ready imagery fast: a scale use case for automated on-model content.
 
-Sources: [techfundingnews.com](https://techfundingnews.com/fermat-raises-8m-seed-as-ai-fashion-platform-triples-revenue-and-prepares-new-york-expansion/) · [theinterline.com](https://www.theinterline.com/2026/11/17/fermat-8m-seed-funding-ai-techpacks/)
+Sources: [wwd.com](https://wwd.com/sourcing-journal/industry-news/everful-raises-48-5-million-funding-round-ai-commerce-1239429533/)
 
-Influence score: 6/10 · Engagement seen: not shown · Published: 2026-11-17
+Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-20
 
-### 9. YKK returns to CES with a motorised zip and other connected trims
+### 9. The Interline: AI agents may reshape product creation in the messy space PLM never covered
 
-YKK will exhibit at CES in Las Vegas on 6-9 January 2027, its second year at the show, under the theme The Future of Connection. The headline exhibit is Zippilot, a motorised slider that opens and closes a zip, alongside an illuminated Glow Coil Zipper, a conductive top-stop that turns a zip into an electrical switch, and an on-demand trim fabrication system (The Interline, 19 November).
+In an Interline podcast with VibeIQ's Brian Lindauer, the host argues AI makes a single source of product truth more vital, yet much of the work between a brand's plan and its execution still lives in Miro boards and spreadsheets. The episode explores how agents could take on that unstructured planning and merchandising work. No new articles were published on The Interline within tonight's window; this is its most recent piece not yet covered.
 
-![YKK returns to CES with a motorised zip and other connected trims](images/2026/11-21/ykk-ces-2027-zippilot.jpg)
+**Why it matters for On-Model/PiktID:** Upstream product data quality is what downstream AI imagery and try-on rely on; tools that structure it widen the integration surface for On-Model.
 
-Full resolution: [source image](https://www.theinterline.com/wp-content/uploads/2026/11/20261117_im01.jpg) (no Drive copy this run; image credit: original publisher, internal reference only)
+Sources: [theinterline.com](https://www.theinterline.com/2026/11/19/how-will-ai-agents-change-the-way-we-create-products-brian-lindauer-vibeiq/)
 
-Sources: [theinterline.com](https://www.theinterline.com/2026/11/19/ykk-ces-2027-zippilot-fashion-trims/)
-
-Influence score: 5/10 · Engagement seen: not shown · Published: 2026-11-19
-
-### 10. The Interline: GTA 6 exposed how slow fashion calendars miss cultural moments
-
-An Interline analysis (20 November) argues fashion largely missed the GTA 6 launch, one of the year's biggest cultural events, because 6-9 month lead times and fixed product calendars left brands unable to react, with brand-safety worries holding others back. It points to faster digital-print models and better trend sensing as the fix, citing activity around Selfridges, Nike, Cactus Jack, Oakley and New Era. BoF separately notes brands are now courting gaming's audience offline as the game's sales outpace Hollywood blockbusters.
-
-**Why it matters for On-Model/PiktID:** Speed-to-market argument fits On-Model: imagery for reactive drops can be produced without a shoot.
-
-Sources: [theinterline.com](https://www.theinterline.com/2026/11/20/gta-6-fashion-collections-product-calendar/)
-
-Influence score: 5/10 · Engagement seen: not shown · Published: 2026-11-20
+Influence score: 4/10 · Engagement seen: none visible · Published: 2026-11-19
 
 ## E-commerce & retail business
 
-### 4. Gap names a new Athleta CEO and trims its outlook, yet shares jump 11%
+### 4. Target says shoppers using its Ask Target AI assistant buy at about twice the usual rate
 
-Gap Inc. reported flat comparable sales for its fiscal third quarter (net sales +2%, online +3%), blamed warm weather for a soft October and cut its full-year sales outlook to roughly flat, with adjusted EPS now guided at $2.29-$2.34 (CNBC, 19 November). It named former Vuori global president Ashley Kechter as Athleta CEO from 14 December after Athleta sales fell 14%. Signs of progress at Old Navy sent shares up more than 11% on Friday. Off-price rival Ross Stores went the other way: BoF reports the stock plunged as rising fuel costs weighed on its profit outlook despite sales beating estimates.
+On its Q3 call, Target CEO Michael Fiddelke said the beta of Ask Target, the retailer's AI shopping assistant launched in October, is converting customers at roughly double the rate seen elsewhere on its channels. He said more capabilities are coming in the next few months and positioned Target to stay ahead of shifts in how shoppers find products in the agentic-commerce era.
 
-**Why it matters for On-Model/PiktID:** Weather-driven demand swings and margin pressure keep US apparel retailers focused on cutting content and production costs before the holidays.
+**Why it matters for On-Model/PiktID:** Conversational shopping that converts at 2x raises the value of rich, consistent product imagery that assistants can surface and show on-body.
 
-Sources: [cnbc.com](https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html) · [businessoffashion.com](https://www.businessoffashion.com/news/retail/ross-stores-plunges-on-weaker-profit-outlook-as-fuel-costs-rise/)
+![Target says shoppers using its Ask Target AI assistant buy at about twice the usual rate](images/2026/11-22/target-ask-target-ai-assistant.jpg)
 
-Influence score: 6/10 · Engagement seen: not shown · Published: 2026-11-20
+[Full resolution (Drive)](https://drive.google.com/file/d/12PZXt_BI9saq9SSKZjUOrJCnPw1vJMvt/view) · [Source image](https://imgproxy.divecdn.com/q5V9BQKlDUQVgSXd6EC8LSvSMo8eUsxzvKLUHkKt5-I/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp) · image credit: source outlet, internal reference only
 
-### 8. AI stock jitters hit luxury shares as Black Friday tests consumer spending
+Sources: [retaildive.com](https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/)
 
-European luxury stocks fell about 2% on 17 November on fears that an AI-led market sell-off could curb wealthy shoppers' spending; Hermès dropped over 4% and Moncler 4.3% to a four-year low after a Morgan Stanley downgrade (Retail Gazette). Morgan Stanley went underweight on European luxury in its 2027 outlook, citing weak Chinese demand. Heading into Black Friday, BoF notes investors are now watching US consumer spending to steady a market shaken by the AI trade.
-
-**Why it matters for On-Model/PiktID:** Tighter budgets at brands usually accelerate cost-cutting in photo production, a tailwind for AI imagery pitches.
-
-Sources: [retailgazette.co.uk](https://www.retailgazette.co.uk/blog/2026/11/luxury-brands-hit-by-fears-ai-stock-sell-off-could-dent-wealthy-shoppers-spending/) · [businessoffashion.com](https://www.businessoffashion.com/news/retail/black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market/)
-
-Influence score: 5/10 · Engagement seen: not shown · Published: 2026-11-20
+Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-19
 
 ## Brands, launches & deals
 
-### 1. Nike returns to Formula 1 as official apparel and uniform partner from 2027
+### 2. Paolo Bulgari, the gem expert who helped build the modern Bulgari, dies in Rome at 89
 
-Formula 1 named Nike its official apparel and uniform provider in a multi-year deal that fully starts with the 2027 season, taking over the role from Puma according to The Race. Nike will dress F1 staff worldwide, sell official fan merchandise and become the sporting apparel partner of F1 Academy. A limited Las Vegas Grand Prix capsule went on sale on 20 November at the F1 Hub at the Venetian and Nike's Las Vegas stores. Financial terms were not disclosed; the deal lands days after an investor day (17 November) where Nike targeted a return to market-level growth only in fiscal 2029 and shares fell about 6%.
+Paolo Bulgari, grandson of founder Sotirio and chairman of the Roman jeweller since 1984, died in Rome; his family announced it on 21 November. He joined the house in 1960 and became known worldwide for his knowledge of gemstones, expanding the group internationally with his brother Nicola and nephew Francesco Trapani. LVMH, owner of Bulgari since 2011, paid tribute through Bernard Arnault, and Italian media and TikTok accounts (La Repubblica, Rai Radio 1) carried the news widely. The family called him "the greatest jeweller of our time" (Euronews translation).
 
-**Why it matters for On-Model/PiktID:** Sport-fashion crossovers multiply product drops and capsules that need fast on-model imagery; a signal for sportswear e-commerce content volume in 2027.
+Sources: [wwd.com](https://wwd.com/accessories-news/jewelry/paolo-bulgari-chairman-jewelry-roman-house-dies-rome-1239461393) · [it.euronews.com](https://it.euronews.com/2026/11/21/paolo-bulgari-gioielliere-e-imprenditore-italiano-muore-a-roma-a-89-anni) · [ilgiornale.it](https://www.ilgiornale.it/news/moda/e-morto-paolo-bulgari-limprenditore-della-maison-di-gioielli-aveva-89-anni/) · [tiktok.com](https://www.tiktok.com/@la.repubblica/video/7710618447339605281)
 
-![Nike returns to Formula 1 as official apparel and uniform partner from 2027](images/2026/11-21/nike-formula-one-apparel-partner.jpg)
+Influence score: 8/10 · Engagement seen: tiktok larepubblica likes: 27,800, tiktok larepubblica shares: 1,559, tiktok larepubblica comments: 88 · Published: 2026-11-21
 
-Full resolution: [source image](https://imageio.forbes.com/specials-images/imageserve/6b00631bf78ef39d51c2d55e/0x0.jpg) (no Drive copy this run; image credit: original publisher, internal reference only)
+### 7. Saint Laurent marks 60 years of Le Smoking with a star-heavy campaign that leads fashion search on X
 
-Sources: [forbes.com](https://www.forbes.com/sites/maurybrown/2026/11/20/nike-announces-long-term-partnership-with-formula-1/) · [the-race.com](https://www.the-race.com/business/nike-to-return-to-f1-after-24-years/) · [businessoffashion.com](https://www.businessoffashion.com/news/sports/nike-to-become-formula-ones-official-apparel-and-uniform-partner/) · [fashionunited.com](https://fashionunited.com/news/business/nike-ceo-elliott-hill-reportedly-rallies-staff-after-investor-day-fails-to-lift-shares/2026111975852)
+Saint Laurent's winter campaign celebrates the tuxedo suit Yves Saint Laurent introduced for women in 1966, cast with Anok Yai, Charlotte Gainsbourg, Rosé, Zoë Kravitz, Kate Moss, Charli XCX, Rauw Alejandro and CORTIS members, among others. Nylon notes Anthony Vaccarello's updated cut with a longer jacket and roomier trouser. The brand's X post was the top result for 'fashion' on X tonight with about 134K views.
 
-Influence score: 8/10 · Engagement seen: not shown · Published: 2026-11-20
+Sources: [nylon.com](https://www.nylon.com/fashion/saint-laurent-le-smoking-60-anniversary-campaign) · [x.com](https://x.com/YSL/status/2123429022860452009)
 
-### 5. Italian couturier Raffaella Curiel dies in Milan at 83
-
-Raffaella Curiel, the Milanese couturier often called the intellectual of Italian fashion, died overnight in a Milan hospital where she was being treated for pneumonia, ANSA reported on 21 November; her children Gaetano and Gigliola announced the news. After training at Balmain in Paris she built her own maison on her mother's tailoring atelier, opened a New York showroom in 1992 and expanded to Japan. The brand was sold to China's Red Stone in 2016, with creative direction staying in the family. The story is trending in Italian fashion media and on TikTok.
-
-Sources: [ansa.it](https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/21/morta-la-stilista-raffaella-curiel-lintellettuale-della-moda_f9c6a36c-fde8-42ad-8236-9c8009f2b064.html) · [adnkronos.com](https://www.adnkronos.com/moda/morta-raffaella-curiel_7KD9sbapMrEccTjaBABL3G) · [tiktok.com](https://www.tiktok.com/@_modami__/video/7710680332172823841)
-
-Influence score: 6/10 · Engagement seen: not shown · Published: 2026-11-21
+Influence score: 5/10 · Engagement seen: x ysl views: 134,299, x ysl likes: 6,090, x ysl reposts: 2,490, x ysl replies: 1,466 · Published: 2026-11-19
 
 ## Celebrity & red carpet
 
-### 3. 2026 MAMA Awards red carpet in Osaka dominates fashion talk on X
+### 6. Marion Cotillard wears three Chanel looks in two days as Marrakech jury president
 
-The 2026 MAMA Awards red carpet at Osaka's Kyocera Dome (second day on 21 November) produced the weekend's biggest outfit conversation on X, with fan and official posts on TWICE's Nayeon, IVE, LE SSERAFIM, BABYMONSTER, TREASURE and Park Bo Gum reaching tens of thousands to over a million views. Korea Daily describes LE SSERAFIM in coordinated black-and-white ensembles; coverage so far (Soompi, Korea Daily) names no designers. No photos stored, per policy; follow the links for the looks.
+Leading the 2026 Marrakech International Film Festival jury, Marion Cotillard opened in a Chanel Spring 2027 dress with a sheer skirt and scattered star-like embellishment, worn with Chanel High Jewellery and black sandals. Her press-conference look paired an embellished plaid skirt with an oversized vest and metallic gold pumps, and on 21 November she wore a red Chanel Spring 2026 Haute Couture dress covered in black, grey and white feathers with silver pumps. Red Carpet Fashion Awards rates only the opening dress a full success. No photos stored; see the source.
 
-Sources: [soompi.com](https://www.soompi.com/article/1889423wpp/stars-light-up-red-carpet-at-2026-mama-awards-chapter-2) · [en.koreadaily.com](https://en.koreadaily.com/le-sserafim-2026-mama-awards-red-carpet/) · [x.com](https://x.com/AboutMusicYT/status/2124000339468996678) · [x.com](https://x.com/sserapics/status/2123994841164271997) · [x.com](https://x.com/JYPETWICE/status/2124018045140300116)
+Sources: [redcarpet-fashionawards.com](https://www.redcarpet-fashionawards.com/2026/11/22/marion-cotillards-chanel-looks-at-marrakech-go-from-elegant-to-eccentric/)
 
-Influence score: 7/10 · Engagement seen: x aboutmusic nayeon views: 1,280,274, x aboutmusic nayeon likes: 9,514, x sserapics lesserafim views: 122,548, x sserapics lesserafim likes: 8,889, x twice official views: 146,956, x twice official likes: 8,621 · Published: 2026-11-21
+Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-22
+
+### 8. Hailee Steinfeld goes sculptural in Harris Reed at the London premiere of 'Hexed'
+
+At the 21 November European premiere of 'Hexed' in London, Hailee Steinfeld wore a Harris Reed look blending suiting and eveningwear: a rose-gold metallic jacket with exaggerated shoulders, black floral detailing and a nipped waist flaring at the hips, over a conical black skirt trimmed in the same metallic fabric. WWD links the padded-hip shape to 16th-17th century bum rolls. No photos stored; see the source.
+
+Sources: [wwd.com](https://wwd.com/pop-culture/celebrity-news/hailee-steinfeld-harris-reed-hexed-european-premiere-1239461370)
+
+Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-21
 
 ## Social trends (X/TikTok)
 
-### 11. K-pop boutique visit is the luxury post of the day on X
+### 10. DIY garment hacks and sewing projects lead TikTok's Beauty & Style trending posts
 
-Versace's post on the ALPHA DRIVE ONE members Leo, Sangwon and Anxin visiting its Osaka boutique, with signed postcards offered at its Hankyu Umeda and Ginza stores, drew about 149K views and 7.3K likes, far above the brand's holiday campaign post (about 2.9K views) the same day. It fits the weekend's pattern on fashion X, where K-pop red carpet and idol content (MAMA week in Osaka) outperformed brand-led posts.
+*Unverified social claim (platform data only).*
 
-Sources: [x.com](https://x.com/Versace/status/2123929386533753212) · [x.com](https://x.com/Versace/status/2124186077061579176)
+In TikTok Studio's Inspiration view (Beauty & Style, all regions), the fashion-related posts trending tonight are hands-on: a memory-quilt commission (about 3.1M / 269K as shown), a creator shrinking an XXL sweater to fit while campaigning for TikTok Awards UK fashion creator of the year (1.5M / 112K), and sewing posts recreating dresses. Polished brand content did not appear in the category's top ten.
 
-Influence score: 4/10 · Engagement seen: views: 149,342, likes: 7,290, reposts: 2,888, replies: 240 · Published: 2026-11-21
+**Why it matters for On-Model/PiktID:** Process and fit transformation content outperforms polished visuals; On-Model before/after (flat-lay to on-model) clips fit that format.
+
+Sources: [tiktok.com](https://www.tiktok.com/tiktokstudio/inspiration)
+
+Influence score: 3/10 · Engagement seen: memory quilt post shown: 3.1M / 269K, xxl sweater post shown: 1.5M / 112K, metric note: pairs as displayed in TikTok Studio Inspiration (likely views / likes) · Published: 2026-11-22
+
+## TikTok search insights
+
+- Creator Search Insights' keyword and content-gap view isn't offered on TikTok web for this account, so no search-keyword or content-gap figures tonight. Used TikTok Studio > Inspiration > Trending (Beauty & Style, all regions) instead; figures are the pairs shown there (likely views / likes).
+
+- memory quilt / #costuracreativa: 3.1M / 269K (as shown)
+- #fashion #DIY (shrinking an XXL sweater): 1.5M / 112K (as shown)
+- #fashion #design #sewing: 790K / 68K (as shown)
+- #hairstyle: 1.8M / 22K (as shown)
+- #skincare #facemask: 11M / 683K (as shown)
+
+- Gap On-Model could fill: fashion entries in the trending set are DIY fit/transformation clips; no brand shows a flat-lay to on-model transformation in that format.
 
 ## Sources checked
 
-- X: signed in (home For you and Fashion tab, Explore trending, searches on AI fashion / virtual try-on / fashion tech and red carpet / outfit / fashion week). Italian trending had no fashion topics.
-- TikTok: signed in (searches 'fashion news', 'AI fashion model'); mostly evergreen content, one lead (Curiel) used.
-- News: The Interline, Business of Fashion (several articles paywalled; only headlines and standfirsts used), TechCrunch, CNBC, Forbes, The Race, FashionUnited, Retail Gazette, ANSA, Soompi, Korea Daily, iPhone in Canada, Tech Funding News; WebSearch for WWD, Vogue Business, Hello!, W Magazine.
-- Not used: Governors Awards looks (event was 15 November, outside the window); Gucci's Avenue Montaigne flagship (opened late October).
-- Images: the workspace's network policy blocked downloading originals, so previews are browser renders of the source images (max 800 px) and full-resolution files stay at the source links (`image_link`). No Drive uploads this run. No photos of real people stored.
+- X: signed in. Home timeline (mostly tech/AI), Explore trending (Italy; no fashion topics), searches for fashion (Top), "fashion news" (Latest), "AI fashion", "virtual try-on", red carpet outfit, "fashion week", AMAs red carpet (no 2026 AMAs results).
+- TikTok: signed in. For You, searches 'fashion news', 'AI fashion', 'red carpet outfit', 'paolo bulgari'.
+- TikTok Creator Search Insights: unavailable on web (keyword/gap view); TikTok Studio Inspiration trending used.
+- News: The Interline (no new posts since 20 Nov), Business of Fashion (paywalled; headlines only, not used for claims), Vogue Business, WWD, FashionUnited, Just Style, Sourcing Journal, Retail Dive, Modern Retail, TechCrunch, FashionNetwork, Quartz, The Fader, Complex, Euronews, Il Giornale, Nylon, Red Carpet Fashion Awards. Drapers unreachable (proxy error).
+- Catch-ups: items 1, 3, 4, 7 and 9 were published 18-20 November but were not in earlier digests; SSENSE's confirmation (20 Nov) is the new development on that story.
+- Not used: Louis Vuitton x Keith Haring (announced 13 Nov), H&M Design Award winner (19 Nov), Rebecca Minkoff sale (16 Nov), Tommy Hilfiger Shinsaibashi store (13 Nov) as outside the window; Meta Muse try-on (covered 21 Nov).
+- Images: the workspace network blocks direct downloads, so images are browser renders at the size the source serves them; 2 uploaded to the [Drive day folder](https://drive.google.com/drive/folders/1zSgmcB63X8ip6gc3f3hKpcp9IB04seZb) and previewed here. No photos of real people stored (Bulgari, Everful and celebrity images skipped; Dior's animated still skipped as it may depict a real person).
 
 ## Possible LinkedIn angles
 
-- Try-on is becoming a feature of AI shopping agents (Meta Muse, Daydream): the imagery brands feed them is the new storefront.
-- Fashion missed GTA 6 because calendars are slow (The Interline): what AI imagery changes about reacting to culture in days, not seasons.
-- AI money is moving upstream too (Fermat $8M, Fadell at Smartex): mapping the AI stack from sketch to product page.
+- SSENSE shows the real risk in AI product imagery isn't realism, it's fidelity: a wrong hook or zip turns into a brand complaint. How we measure garment accuracy.
+- 'Hand-drawn' with AI in-betweens: Dior's campaign shows disclosure is now part of creative direction.
+- AI assistants convert at 2x (Target): when the shopper's first view is chosen by an agent, every SKU needs on-body imagery.

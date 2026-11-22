@@ -1,0 +1,418 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T03:52:15+01:00",
+  "drive_day_folder_url": "https://drive.google.com/drive/folders/1zSgmcB63X8ip6gc3f3hKpcp9IB04seZb",
+  "sources_checked": [
+    "x.com (signed in: home For you, Explore trending, searches: fashion, \"fashion news\" Latest, \"AI fashion\", \"virtual try-on\", red carpet outfit, \"fashion week\", AMAs red carpet)",
+    "tiktok.com (signed in: For You, searches 'fashion news', 'AI fashion', 'red carpet outfit', 'paolo bulgari')",
+    "TikTok Creator Search Insights: keyword/content-gap view unavailable on web; TikTok Studio Inspiration trending used",
+    "theinterline.com",
+    "businessoffashion.com (paywalled; headlines only)",
+    "voguebusiness.com / vogue.com",
+    "wwd.com",
+    "fashionunited.com",
+    "just-style.com",
+    "sourcingjournal.com (wwd.com)",
+    "retaildive.com",
+    "modernretail.co",
+    "techcrunch.com",
+    "fashionnetwork.com",
+    "qz.com",
+    "thefader.com",
+    "complex.com",
+    "euronews.com",
+    "ilgiornale.it",
+    "nylon.com",
+    "redcarpet-fashionawards.com",
+    "drapers.com (unreachable: proxy error)",
+    "Google Drive: day folder created, 2 images uploaded (browser renders at source size)"
+  ],
+  "tiktok_search_insights": {
+    "source": "TikTok Studio > Inspiration > Trending (Beauty & Style, all regions)",
+    "note": "The Creator Search Insights keyword and content-gap view is not offered on TikTok web for this account; trending posts used instead. No content-gap data available.",
+    "trending_keywords": [
+      {
+        "keyword": "memory quilt / #costuracreativa",
+        "category": "Beauty & Style",
+        "metric": "3.1M / 269K (as shown)"
+      },
+      {
+        "keyword": "#fashion #DIY (shrinking an XXL sweater)",
+        "category": "Beauty & Style",
+        "metric": "1.5M / 112K (as shown)"
+      },
+      {
+        "keyword": "#fashion #design #sewing",
+        "category": "Beauty & Style",
+        "metric": "790K / 68K (as shown)"
+      },
+      {
+        "keyword": "#hairstyle",
+        "category": "Beauty & Style",
+        "metric": "1.8M / 22K (as shown)"
+      },
+      {
+        "keyword": "#skincare #facemask",
+        "category": "Beauty & Style",
+        "metric": "11M / 683K (as shown)"
+      }
+    ],
+    "content_gaps": []
+  },
+  "items": [
+    {
+      "id": "2026-11-22-ssense-virtual-try-on-product-photos",
+      "rank": 1,
+      "category": "Fashion tech & AI",
+      "headline": "SSENSE admits some product photos came from virtual try-on tech after designers flag distorted garments",
+      "summary": "Designers Reese Cooper (RCOS) and Gerrit Jacob called out SSENSE on Instagram for product images that warped details of their pieces, such as an oversized hook and altered embroidery and zips on an RCOS puffer. Per The New York Times (via Quartz), an SSENSE spokeswoman said some site photos are produced with virtual try-on technology and confirmed layoffs in its visuals team over the summer, but would not say whether the tool uses AI. Complex Style reports the affected products were pulled from the site. The Fader traces the shift back to July reports that SSENSE cut most of its photo team after its 2025 creditor-protection filing.",
+      "why_it_matters": "The clearest public case yet that garment fidelity, not just realism, decides whether AI on-model imagery helps or hurts a retailer and its brands: exactly On-Model's quality bar.",
+      "influence_score": 9,
+      "engagement": {
+        "x_complexstyle_views": 4701,
+        "x_complexstyle_likes": 31,
+        "x_complexstyle_reposts": 3
+      },
+      "entities": {
+        "brands": [
+          "SSENSE",
+          "RCOS",
+          "Gerrit Jacob"
+        ],
+        "people": [
+          "Reese Cooper",
+          "Rami Atallah"
+        ],
+        "companies": [
+          "SSENSE",
+          "Bold Metrics"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://qz.com/ssense-virtual-try-on-designers-images-112026",
+        "https://www.thefader.com/2026/11/19/ssense-ai-product-photos-explainer",
+        "https://www.complex.com/style/a/alex-ocho/reese-cooper-ssense-ai-product-images",
+        "https://x.com/ComplexStyle/status/2123409047864906149"
+      ],
+      "image": {
+        "preview_path": "images/2026/11-22/ssense-virtual-try-on-product-photos.jpg",
+        "drive_url": "https://drive.google.com/file/d/1_1y9w9jJEt8LaSD3MvfS8cHKqbubtgak/view",
+        "drive_file_id": "1_1y9w9jJEt8LaSD3MvfS8cHKqbubtgak",
+        "original_url": "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_1870,w_3420,x_0,y_88,f_auto,q_auto:eco/Screenshot_2026-11-19_at_3.30.20_PM_eugnp0/Screenshot_2026-11-19_at_3.30.20_PM_eugnp0.jpg",
+        "image_link": "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_1870,w_3420,x_0,y_88,f_auto,q_auto:eco/Screenshot_2026-11-19_at_3.30.20_PM_eugnp0/Screenshot_2026-11-19_at_3.30.20_PM_eugnp0.jpg",
+        "width": 800,
+        "height": 390,
+        "bytes": 25931,
+        "note": "Browser render of the source image at the size the source serves it (the workspace network blocks direct downloads, so the byte-identical original could not be transferred). Drive holds this render; image_link is the source file."
+      },
+      "published_at": "2026-11-20",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-22-paolo-bulgari-dies",
+      "rank": 2,
+      "category": "Brands, launches & deals",
+      "headline": "Paolo Bulgari, the gem expert who helped build the modern Bulgari, dies in Rome at 89",
+      "summary": "Paolo Bulgari, grandson of founder Sotirio and chairman of the Roman jeweller since 1984, died in Rome; his family announced it on 21 November. He joined the house in 1960 and became known worldwide for his knowledge of gemstones, expanding the group internationally with his brother Nicola and nephew Francesco Trapani. LVMH, owner of Bulgari since 2011, paid tribute through Bernard Arnault, and Italian media and TikTok accounts (La Repubblica, Rai Radio 1) carried the news widely. The family called him \"the greatest jeweller of our time\" (Euronews translation).",
+      "why_it_matters": "",
+      "influence_score": 8,
+      "engagement": {
+        "tiktok_larepubblica_likes": 27800,
+        "tiktok_larepubblica_shares": 1559,
+        "tiktok_larepubblica_comments": 88
+      },
+      "entities": {
+        "brands": [
+          "Bulgari"
+        ],
+        "people": [
+          "Paolo Bulgari",
+          "Bernard Arnault",
+          "Nicola Bulgari",
+          "Francesco Trapani"
+        ],
+        "companies": [
+          "LVMH",
+          "Bulgari"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://wwd.com/accessories-news/jewelry/paolo-bulgari-chairman-jewelry-roman-house-dies-rome-1239461393",
+        "https://it.euronews.com/2026/11/21/paolo-bulgari-gioielliere-e-imprenditore-italiano-muore-a-roma-a-89-anni",
+        "https://www.ilgiornale.it/news/moda/e-morto-paolo-bulgari-limprenditore-della-maison-di-gioielli-aveva-89-anni/",
+        "https://www.tiktok.com/@la.repubblica/video/7710618447339605281"
+      ],
+      "image": null,
+      "published_at": "2026-11-21",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-22-dior-animated-campaign-ai-interpolation",
+      "rank": 3,
+      "category": "Fashion tech & AI",
+      "headline": "Dior's hand-drawn-style holiday film draws fire after director confirms AI interpolation",
+      "summary": "Dior's Autumn-Winter 26/27 animated campaign by Sylvain Chomet was pitched as a return to traditional animation, but viewers spotted extra fingers, unstable faces and five-legged chairs. FashionNetwork reports Chomet told Variety he used AI interpolation to generate in-between frames, framing it as automating repetitive work rather than creative work. The piece sets it against Prada's animated campaign and a wider luxury debate about AI and craft jobs.",
+      "why_it_matters": "Luxury audiences now audit campaigns frame by frame for AI artefacts; disclosure and consistency control matter as much as the output.",
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Dior",
+          "Prada",
+          "Levi's"
+        ],
+        "people": [
+          "Sylvain Chomet"
+        ],
+        "companies": [
+          "LVMH"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://ww.fashionnetwork.com/news/Dior-prada-levi-s-why-are-animated-campaigns-sparking-controversy-amid-the-rise-of-ai-,1886266.html"
+      ],
+      "image": null,
+      "published_at": "2026-11-18",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-22-target-ask-target-ai-assistant",
+      "rank": 4,
+      "category": "E-commerce & retail business",
+      "headline": "Target says shoppers using its Ask Target AI assistant buy at about twice the usual rate",
+      "summary": "On its Q3 call, Target CEO Michael Fiddelke said the beta of Ask Target, the retailer's AI shopping assistant launched in October, is converting customers at roughly double the rate seen elsewhere on its channels. He said more capabilities are coming in the next few months and positioned Target to stay ahead of shifts in how shoppers find products in the agentic-commerce era.",
+      "why_it_matters": "Conversational shopping that converts at 2x raises the value of rich, consistent product imagery that assistants can surface and show on-body.",
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Target"
+        ],
+        "people": [
+          "Michael Fiddelke"
+        ],
+        "companies": [
+          "Target"
+        ],
+        "events": [
+          "Target Q3 2026 earnings"
+        ]
+      },
+      "source_urls": [
+        "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/"
+      ],
+      "image": {
+        "preview_path": "images/2026/11-22/target-ask-target-ai-assistant.jpg",
+        "drive_url": "https://drive.google.com/file/d/12PZXt_BI9saq9SSKZjUOrJCnPw1vJMvt/view",
+        "drive_file_id": "12PZXt_BI9saq9SSKZjUOrJCnPw1vJMvt",
+        "original_url": "https://imgproxy.divecdn.com/q5V9BQKlDUQVgSXd6EC8LSvSMo8eUsxzvKLUHkKt5-I/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
+        "image_link": "https://imgproxy.divecdn.com/q5V9BQKlDUQVgSXd6EC8LSvSMo8eUsxzvKLUHkKt5-I/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
+        "width": 580,
+        "height": 436,
+        "bytes": 42186,
+        "note": "Browser render of the source image at the size the source serves it (the workspace network blocks direct downloads, so the byte-identical original could not be transferred). Drive holds this render; image_link is the source file."
+      },
+      "published_at": "2026-11-19",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-22-everful-series-a",
+      "rank": 5,
+      "category": "Fashion tech & AI",
+      "headline": "AI wholesale platform Everful raises $48.5M Series A to scale in the US and Europe",
+      "summary": "Everful, founded by ex-Alibaba executive Sisi Song and Kevin Han (whose Orbeus was bought by Amazon), closed a $48.5M Series A led by Vertex Ventures Southeast Asia & India and January Capital, with Square Peg and Lightspeed. The marketplace says it ships over 5 million pieces a month across fashion, footwear and other categories to retailers in 60+ countries, from a network of 30,000+ factories and a 20M-item catalogue, and expects $100M annualised revenue by year-end. Funds go to US and European growth and its AI agents and fulfilment stack.",
+      "why_it_matters": "Sourcing is being rebuilt around AI catalogues with millions of SKUs, each needing sell-ready imagery fast: a scale use case for automated on-model content.",
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [],
+        "people": [
+          "Sisi Song",
+          "Kevin Han"
+        ],
+        "companies": [
+          "Everful",
+          "Vertex Ventures",
+          "January Capital",
+          "Square Peg",
+          "Lightspeed"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://wwd.com/sourcing-journal/industry-news/everful-raises-48-5-million-funding-round-ai-commerce-1239429533/"
+      ],
+      "image": null,
+      "published_at": "2026-11-20",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-22-marion-cotillard-chanel-marrakech",
+      "rank": 6,
+      "category": "Celebrity & red carpet",
+      "headline": "Marion Cotillard wears three Chanel looks in two days as Marrakech jury president",
+      "summary": "Leading the 2026 Marrakech International Film Festival jury, Marion Cotillard opened in a Chanel Spring 2027 dress with a sheer skirt and scattered star-like embellishment, worn with Chanel High Jewellery and black sandals. Her press-conference look paired an embellished plaid skirt with an oversized vest and metallic gold pumps, and on 21 November she wore a red Chanel Spring 2026 Haute Couture dress covered in black, grey and white feathers with silver pumps. Red Carpet Fashion Awards rates only the opening dress a full success. No photos stored; see the source.",
+      "why_it_matters": "",
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Chanel"
+        ],
+        "people": [
+          "Marion Cotillard"
+        ],
+        "companies": [],
+        "events": [
+          "Marrakech International Film Festival 2026"
+        ]
+      },
+      "source_urls": [
+        "https://www.redcarpet-fashionawards.com/2026/11/22/marion-cotillards-chanel-looks-at-marrakech-go-from-elegant-to-eccentric/"
+      ],
+      "image": null,
+      "published_at": "2026-11-22",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-22-saint-laurent-le-smoking-60",
+      "rank": 7,
+      "category": "Brands, launches & deals",
+      "headline": "Saint Laurent marks 60 years of Le Smoking with a star-heavy campaign that leads fashion search on X",
+      "summary": "Saint Laurent's winter campaign celebrates the tuxedo suit Yves Saint Laurent introduced for women in 1966, cast with Anok Yai, Charlotte Gainsbourg, Rosé, Zoë Kravitz, Kate Moss, Charli XCX, Rauw Alejandro and CORTIS members, among others. Nylon notes Anthony Vaccarello's updated cut with a longer jacket and roomier trouser. The brand's X post was the top result for 'fashion' on X tonight with about 134K views.",
+      "why_it_matters": "",
+      "influence_score": 5,
+      "engagement": {
+        "x_ysl_views": 134299,
+        "x_ysl_likes": 6090,
+        "x_ysl_reposts": 2490,
+        "x_ysl_replies": 1466
+      },
+      "entities": {
+        "brands": [
+          "Saint Laurent"
+        ],
+        "people": [
+          "Anthony Vaccarello",
+          "Rosé",
+          "Kate Moss",
+          "Zoë Kravitz",
+          "Charli XCX",
+          "Charlotte Gainsbourg",
+          "Anok Yai",
+          "Rauw Alejandro"
+        ],
+        "companies": [
+          "Kering"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://www.nylon.com/fashion/saint-laurent-le-smoking-60-anniversary-campaign",
+        "https://x.com/YSL/status/2123429022860452009"
+      ],
+      "image": null,
+      "published_at": "2026-11-19",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-22-hailee-steinfeld-harris-reed-hexed",
+      "rank": 8,
+      "category": "Celebrity & red carpet",
+      "headline": "Hailee Steinfeld goes sculptural in Harris Reed at the London premiere of 'Hexed'",
+      "summary": "At the 21 November European premiere of 'Hexed' in London, Hailee Steinfeld wore a Harris Reed look blending suiting and eveningwear: a rose-gold metallic jacket with exaggerated shoulders, black floral detailing and a nipped waist flaring at the hips, over a conical black skirt trimmed in the same metallic fabric. WWD links the padded-hip shape to 16th-17th century bum rolls. No photos stored; see the source.",
+      "why_it_matters": "",
+      "influence_score": 5,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Harris Reed"
+        ],
+        "people": [
+          "Hailee Steinfeld",
+          "Harris Reed"
+        ],
+        "companies": [],
+        "events": [
+          "Hexed European premiere"
+        ]
+      },
+      "source_urls": [
+        "https://wwd.com/pop-culture/celebrity-news/hailee-steinfeld-harris-reed-hexed-european-premiere-1239461370"
+      ],
+      "image": null,
+      "published_at": "2026-11-21",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-22-interline-vibeiq-ai-agents-product-creation",
+      "rank": 9,
+      "category": "Fashion tech & AI",
+      "headline": "The Interline: AI agents may reshape product creation in the messy space PLM never covered",
+      "summary": "In an Interline podcast with VibeIQ's Brian Lindauer, the host argues AI makes a single source of product truth more vital, yet much of the work between a brand's plan and its execution still lives in Miro boards and spreadsheets. The episode explores how agents could take on that unstructured planning and merchandising work. No new articles were published on The Interline within tonight's window; this is its most recent piece not yet covered.",
+      "why_it_matters": "Upstream product data quality is what downstream AI imagery and try-on rely on; tools that structure it widen the integration surface for On-Model.",
+      "influence_score": 4,
+      "engagement": {},
+      "entities": {
+        "brands": [],
+        "people": [
+          "Brian Lindauer"
+        ],
+        "companies": [
+          "VibeIQ",
+          "The Interline"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://www.theinterline.com/2026/11/19/how-will-ai-agents-change-the-way-we-create-products-brian-lindauer-vibeiq/"
+      ],
+      "image": null,
+      "published_at": "2026-11-19",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-22-tiktok-diy-fashion-trending",
+      "rank": 10,
+      "category": "Social trends (X/TikTok)",
+      "headline": "DIY garment hacks and sewing projects lead TikTok's Beauty & Style trending posts",
+      "summary": "In TikTok Studio's Inspiration view (Beauty & Style, all regions), the fashion-related posts trending tonight are hands-on: a memory-quilt commission (about 3.1M / 269K as shown), a creator shrinking an XXL sweater to fit while campaigning for TikTok Awards UK fashion creator of the year (1.5M / 112K), and sewing posts recreating dresses. Polished brand content did not appear in the category's top ten.",
+      "why_it_matters": "Process and fit transformation content outperforms polished visuals; On-Model before/after (flat-lay to on-model) clips fit that format.",
+      "influence_score": 3,
+      "engagement": {
+        "memory_quilt_post_shown": "3.1M / 269K",
+        "xxl_sweater_post_shown": "1.5M / 112K",
+        "metric_note": "pairs as displayed in TikTok Studio Inspiration (likely views / likes)"
+      },
+      "entities": {
+        "brands": [],
+        "people": [],
+        "companies": [
+          "TikTok"
+        ],
+        "events": [
+          "TikTok Awards UK 2026"
+        ]
+      },
+      "source_urls": [
+        "https://www.tiktok.com/tiktokstudio/inspiration"
+      ],
+      "image": null,
+      "published_at": "2026-11-22",
+      "verified": false,
+      "is_update": false
+    }
+  ]
+}
