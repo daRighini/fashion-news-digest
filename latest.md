@@ -1,147 +1,152 @@
-# Fashion news digest – 22 November 2026
+# Fashion news digest – 23 November 2026
 
 ## Top of the night
 
-1. SSENSE confirms some product photos came from virtual try-on tech after Reese Cooper and Gerrit Jacob flag distorted garments: AI imagery's fidelity problem goes mainstream.
-2. Paolo Bulgari, the gemstone expert who chaired the Roman jeweller from 1984, dies at 89.
-3. AI scrutiny spreads to luxury campaigns (Dior's interpolated animation) while retailers report AI assistants converting at 2x (Target).
+1. Leaked Saint Laurent x Levi's 501 images draw about 380K views on X, one of the weekend's biggest brand posts; neither brand has confirmed.
+2. Agentic commerce gets real for holiday: ChatGPT wallet launches, Amazon blocks Meta's Muse shopping agent, Walmart adds agent spend caps.
+3. Quiet news weekend otherwise: Las Vegas GP celebrity style, an averted LA/Long Beach port strike and Nike's GYAKUSOU revival lead the rest.
 
 ## Fashion tech & AI
 
-### 1. SSENSE admits some product photos came from virtual try-on tech after designers flag distorted garments
+### 2. Holiday 2026 becomes the 'agentic commerce quarter': ChatGPT wallet launches, Amazon blocks Meta's Muse agent
 
-Designers Reese Cooper (RCOS) and Gerrit Jacob called out SSENSE on Instagram for product images that warped details of their pieces, such as an oversized hook and altered embroidery and zips on an RCOS puffer. Per The New York Times (via Quartz), an SSENSE spokeswoman said some site photos are produced with virtual try-on technology and confirmed layoffs in its visuals team over the summer, but would not say whether the tool uses AI. Complex Style reports the affected products were pulled from the site. The Fader traces the shift back to July reports that SSENSE cut most of its photo team after its 2025 creditor-protection filing.
+Digiday (via Modern Retail) rounds up a week in which OpenAI launched a ChatGPT wallet to push agent purchases through retailer checkouts, Google began rolling out agent checkout in Canada through AI Mode and Gemini, Amazon blocked Meta's Muse shopping agent from its site and Walmart let shoppers cap an agent's spend at $50, $100 or $200. Bain estimates roughly one in four online shoppers plan to start holiday shopping on an AI platform. Gartner data cited in the piece shows 61% of senior marketers have reworked content for machine readability, but only about 30% have built workflows for agent-led transactions.
 
-**Why it matters for On-Model/PiktID:** The clearest public case yet that garment fidelity, not just realism, decides whether AI on-model imagery helps or hurts a retailer and its brands: exactly On-Model's quality bar.
+**Why it matters for On-Model/PiktID:** When an agent picks the product, structured data and clean on-body imagery for every SKU decide whether a brand is shown at all.
 
-![SSENSE admits some product photos came from virtual try-on tech after designers flag distorted garments](images/2026/11-22/ssense-virtual-try-on-product-photos.jpg)
+Sources: [modernretail.co](https://www.modernretail.co/technology/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/)
 
-[Full resolution (Drive)](https://drive.google.com/file/d/1_1y9w9jJEt8LaSD3MvfS8cHKqbubtgak/view) · [Source image](https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_1870,w_3420,x_0,y_88,f_auto,q_auto:eco/Screenshot_2026-11-19_at_3.30.20_PM_eugnp0/Screenshot_2026-11-19_at_3.30.20_PM_eugnp0.jpg) · image credit: source outlet, internal reference only
+Influence score: 8/10 · Engagement seen: none visible · Published: 2026-11-19 · **update**
 
-Sources: [qz.com](https://qz.com/ssense-virtual-try-on-designers-images-112026) · [thefader.com](https://www.thefader.com/2026/11/19/ssense-ai-product-photos-explainer) · [complex.com](https://www.complex.com/style/a/alex-ocho/reese-cooper-ssense-ai-product-images) · [x.com](https://x.com/ComplexStyle/status/2123409047864906149)
+_Note: Update to 21 Nov item on Meta's Muse: Amazon has blocked the agent from its retail site._
 
-Influence score: 9/10 · Engagement seen: x complexstyle views: 4,701, x complexstyle likes: 31, x complexstyle reposts: 3 · Published: 2026-11-20
+### 8. Bodi.Me fit research: 'plus size' and 'curvy' need different patterns, and size labels vary by up to 46 cm
 
-### 3. Dior's hand-drawn-style holiday film draws fire after director confirms AI interpolation
+UK sizing-tech firm Bodi.Me presented two years of body-data research on curvy and plus-size wearers in the US, UK and EU at 3DBodyTech 2026 in Lugano. FashionUnited reports its core finding that plus size (a size range) and curvy (a waist-to-hip proportion) are different fit problems that brands often merge, so uniform grading fixes one area and creates excess fabric in another. A cross-brand check found a 2XL chest starting at 100.5 cm at Tom Tailor versus 146 cm at Universal Standard, and the firm argues size-mix data hides fit problems that then repeat in the next production run.
 
-Dior's Autumn-Winter 26/27 animated campaign by Sylvain Chomet was pitched as a return to traditional animation, but viewers spotted extra fingers, unstable faces and five-legged chairs. FashionNetwork reports Chomet told Variety he used AI interpolation to generate in-between frames, framing it as automating repetitive work rather than creative work. The piece sets it against Prada's animated campaign and a wider luxury debate about AI and craft jobs.
+**Why it matters for On-Model/PiktID:** Extended sizes are where model imagery is thinnest; showing each garment on the right body shape is a fit-communication tool, not just a visual.
 
-**Why it matters for On-Model/PiktID:** Luxury audiences now audit campaigns frame by frame for AI artefacts; disclosure and consistency control matter as much as the output.
+Sources: [fashionunited.com](https://fashionunited.com/news/fashion/how-better-sizing-eases-the-strain-on-the-fashion-supply-chain/2026112075876)
 
-Sources: [ww.fashionnetwork.com](https://ww.fashionnetwork.com/news/Dior-prada-levi-s-why-are-animated-campaigns-sparking-controversy-amid-the-rise-of-ai-,1886266.html)
+Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-20
 
-Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-18
+### 9. Moda Operandi co-founder relaunches Tinker Tailor as an AI made-to-order platform for creators
 
-### 5. AI wholesale platform Everful raises $48.5M Series A to scale in the US and Europe
+BoF reports that Áslaug Magnúsdóttir has relaunched Tinker Tailor as an AI creator platform backed by a $3 million pre-seed round. The made-to-order model gives influencers the design tools and supply chain to launch custom apparel lines, with the aim of cutting inventory waste. Details beyond BoF's summary are behind its paywall.
 
-Everful, founded by ex-Alibaba executive Sisi Song and Kevin Han (whose Orbeus was bought by Amazon), closed a $48.5M Series A led by Vertex Ventures Southeast Asia & India and January Capital, with Square Peg and Lightspeed. The marketplace says it ships over 5 million pieces a month across fashion, footwear and other categories to retailers in 60+ countries, from a network of 30,000+ factories and a 20M-item catalogue, and expects $100M annualised revenue by year-end. Funds go to US and European growth and its AI agents and fulfilment stack.
+**Why it matters for On-Model/PiktID:** Creator-led, made-to-order lines have no physical samples to shoot, so they need imagery generated from designs or first units.
 
-**Why it matters for On-Model/PiktID:** Sourcing is being rebuilt around AI catalogues with millions of SKUs, each needing sell-ready imagery fast: a scale use case for automated on-model content.
+Sources: [businessoffashion.com](https://www.businessoffashion.com/articles/technology/tinker-tailor-relaunch/)
 
-Sources: [wwd.com](https://wwd.com/sourcing-journal/industry-news/everful-raises-48-5-million-funding-round-ai-commerce-1239429533/)
+Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-19
 
-Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-20
-
-### 9. The Interline: AI agents may reshape product creation in the messy space PLM never covered
-
-In an Interline podcast with VibeIQ's Brian Lindauer, the host argues AI makes a single source of product truth more vital, yet much of the work between a brand's plan and its execution still lives in Miro boards and spreadsheets. The episode explores how agents could take on that unstructured planning and merchandising work. No new articles were published on The Interline within tonight's window; this is its most recent piece not yet covered.
-
-**Why it matters for On-Model/PiktID:** Upstream product data quality is what downstream AI imagery and try-on rely on; tools that structure it widen the integration surface for On-Model.
-
-Sources: [theinterline.com](https://www.theinterline.com/2026/11/19/how-will-ai-agents-change-the-way-we-create-products-brian-lindauer-vibeiq/)
-
-Influence score: 4/10 · Engagement seen: none visible · Published: 2026-11-19
+_Note: Verified from BoF headline and standfirst only (paywalled)._
 
 ## E-commerce & retail business
 
-### 4. Target says shoppers using its Ask Target AI assistant buy at about twice the usual rate
+### 4. LA and Long Beach port strike averted days before peak holiday shipping
 
-On its Q3 call, Target CEO Michael Fiddelke said the beta of Ask Target, the retailer's AI shopping assistant launched in October, is converting customers at roughly double the rate seen elsewhere on its channels. He said more capabilities are coming in the next few months and positioned Target to stay ahead of shifts in how shoppers find products in the agentic-commerce era.
+The Pacific Maritime Association and ILWU Local 26 reached a tentative contract on Saturday for about 250 port watchmen, removing the threat of a picket line that thousands of dockworkers were expected to honour. Sourcing Journal says a stoppage would have hit six of the two ports' 13 container terminals and more than half of their cargo, at a time when rail-bound containers were already waiting about nine days for a rail car. More than 110 trade groups had urged a deal; terms were not disclosed and ratification is pending.
 
-**Why it matters for On-Model/PiktID:** Conversational shopping that converts at 2x raises the value of rich, consistent product imagery that assistants can surface and show on-body.
+![LA and Long Beach port strike averted days before peak holiday shipping](images/2026/11-23/la-long-beach-ports-strike-averted.jpg)
 
-![Target says shoppers using its Ask Target AI assistant buy at about twice the usual rate](images/2026/11-22/target-ask-target-ai-assistant.jpg)
+[Full resolution (Drive)](https://drive.google.com/file/d/1swuN-bN_pFWSF6N-D-UAnyoiO498yLMA/view) · [Source image](https://wwd.com/wp-content/uploads/2026/11/oneportlb.jpg) · image credit: source outlet/post, internal reference only
 
-[Full resolution (Drive)](https://drive.google.com/file/d/12PZXt_BI9saq9SSKZjUOrJCnPw1vJMvt/view) · [Source image](https://imgproxy.divecdn.com/q5V9BQKlDUQVgSXd6EC8LSvSMo8eUsxzvKLUHkKt5-I/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp) · image credit: source outlet, internal reference only
+Sources: [wwd.com](https://wwd.com/sourcing-journal/logistics/los-angeles-la-long-beach-ports-avert-strike-250-watchmen-tentative-deal-ilwu-pma-1239461394/)
 
-Sources: [retaildive.com](https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/)
-
-Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-19
+Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-21
 
 ## Brands, launches & deals
 
-### 2. Paolo Bulgari, the gem expert who helped build the modern Bulgari, dies in Rome at 89
+### 1. Leaked Saint Laurent x Levi's 501 images spread fast on X, but neither brand has confirmed
 
-Paolo Bulgari, grandson of founder Sotirio and chairman of the Roman jeweller since 1984, died in Rome; his family announced it on 21 November. He joined the house in 1960 and became known worldwide for his knowledge of gemstones, expanding the group internationally with his brother Nicola and nephew Francesco Trapani. LVMH, owner of Bulgari since 2011, paid tribute through Bernard Arnault, and Italian media and TikTok accounts (La Repubblica, Rai Radio 1) carried the news widely. The family called him "the greatest jeweller of our time" (Euronews translation).
+Images of what appears to be a co-branded Levi's 501 with Saint Laurent detailing are circulating online: Hypebeast describes light-wash, mid-wash and black versions with a co-branded leather back patch, 'Saint Laurent Paris' rivets and a gold-embroidered YSL monogram on the pocket. Neither Saint Laurent nor Levi's has confirmed the project. Online speculation puts the price far above a standard 501, though no official figure exists. A 'first look' post by @Ovrnundr was among the most-viewed fashion posts on X over the weekend.
 
-Sources: [wwd.com](https://wwd.com/accessories-news/jewelry/paolo-bulgari-chairman-jewelry-roman-house-dies-rome-1239461393) · [it.euronews.com](https://it.euronews.com/2026/11/21/paolo-bulgari-gioielliere-e-imprenditore-italiano-muore-a-roma-a-89-anni) · [ilgiornale.it](https://www.ilgiornale.it/news/moda/e-morto-paolo-bulgari-limprenditore-della-maison-di-gioielli-aveva-89-anni/) · [tiktok.com](https://www.tiktok.com/@la.repubblica/video/7710618447339605281)
+**Why it matters for On-Model/PiktID:** Luxury-on-heritage-basic collabs live or die on detail shots (patches, rivets, embroidery): the kind of close-up fidelity on-model generation has to preserve.
 
-Influence score: 8/10 · Engagement seen: tiktok larepubblica likes: 27,800, tiktok larepubblica shares: 1,559, tiktok larepubblica comments: 88 · Published: 2026-11-21
+![Leaked Saint Laurent x Levi's 501 images spread fast on X, but neither brand has confirmed](images/2026/11-23/saint-laurent-levis-501-leak.jpg)
 
-### 7. Saint Laurent marks 60 years of Le Smoking with a star-heavy campaign that leads fashion search on X
+[Full resolution (Drive)](https://drive.google.com/file/d/1lG4nkqWvFJqPTsYZ-M59WMombED5ahIf/view) · [Source image](https://pbs.twimg.com/media/HXprntYWAAAO0Yg?format=jpg&name=orig) · image credit: source outlet/post, internal reference only
 
-Saint Laurent's winter campaign celebrates the tuxedo suit Yves Saint Laurent introduced for women in 1966, cast with Anok Yai, Charlotte Gainsbourg, Rosé, Zoë Kravitz, Kate Moss, Charli XCX, Rauw Alejandro and CORTIS members, among others. Nylon notes Anthony Vaccarello's updated cut with a longer jacket and roomier trouser. The brand's X post was the top result for 'fashion' on X tonight with about 134K views.
+Sources: [hypebeast.com](https://hypebeast.com/2026/11/saint-laurent-ysl-levis-501-jeans-collaboration-surfaces-online-teaser) · [x.com](https://x.com/Ovrnundr/status/2124128511900389495)
 
-Sources: [nylon.com](https://www.nylon.com/fashion/saint-laurent-le-smoking-60-anniversary-campaign) · [x.com](https://x.com/YSL/status/2123429022860452009)
+Influence score: 8/10 · Engagement seen: x ovrnundr views: 379,640, x ovrnundr likes: 4,670, x ovrnundr reposts: 743, x ovrnundr replies: 91 · Published: 2026-11-21 · **unverified: leak not confirmed by the brands**
 
-Influence score: 5/10 · Engagement seen: x ysl views: 134,299, x ysl likes: 6,090, x ysl reposts: 2,490, x ysl replies: 1,466 · Published: 2026-11-19
+_Note: Unconfirmed leak: images verified as circulating (Hypebeast), collaboration not confirmed by either brand._
+
+### 5. Nike and Jun Takahashi revive GYAKUSOU after a five-year pause
+
+Undercover founder Jun Takahashi announced on social media that GYAKUSOU, his Nike running sub-label launched in 2010 and paused in 2021, is coming back, with its first film in seven years featuring the three original members of his GIRA running crew. Hypebeast reports a new collection is expected for Holiday 2026, and runners have been seen in a collaborative Alphafly 4.
+
+Sources: [hypebeast.com](https://hypebeast.com/2026/11/nike-jun-takahashi-gyakusou-official-return-announcement) · [sneakernews.com](https://sneakernews.com/2026/11/19/jun-takahashi-announces-the-return-of-nike-gyakusou/)
+
+Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-19
+
+_Note: Campaign image shows real people (from behind); not stored._
+
+### 6. Dior signs Stray Kids' Hyunjin as ambassador for beauty and Jonathan Anderson's collections
+
+Dior has named Stray Kids member Hyunjin a brand ambassador covering Dior Beauty and the collections designed by creative director Jonathan Anderson. Hypebeast notes he sat front row at Dior's January men's show and two women's shows, and that a September Instagram post of him in a Dior x A24 tee drew 2.6 million likes. The deal lands during Stray Kids' world tour, which runs to July 2027.
+
+Sources: [hypebeast.com](https://hypebeast.com/2026/11/dior-names-stray-kids-hyunjin-new-brand-ambassador-announcement) · [x.com](https://x.com/LooxMagazine/status/2124091098423525854)
+
+Influence score: 6/10 · Engagement seen: x looxmagazine views: 3,089, x looxmagazine likes: 413, x looxmagazine reposts: 91 · Published: 2026-11-21
+
+### 10. Gucci will show Cruise 2028 in Shanghai, Demna's first show in the city
+
+Gucci will stage its Cruise 2028 runway in Shanghai on 17 May 2027, Demna's first show there, timed to the 30th anniversary of the house's first store in the region (Hypebeast). It follows his Cruise debut in New York's Times Square and joins planned China shows by Dior and Zegna. In the same week sacai announced its first Hong Kong runway, for SS27, on 13 December.
+
+Sources: [hypebeast.com](https://hypebeast.com/2026/11/gentle-monster-joaquin-phoenix-gucci-beams-adidas-sacai-willy-chavarria)
+
+Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-20
 
 ## Celebrity & red carpet
 
-### 6. Marion Cotillard wears three Chanel looks in two days as Marrakech jury president
+### 3. Las Vegas Grand Prix doubles as a runway: archival Dior on Kim Kardashian, Balenciaga boots on Teyana Taylor
 
-Leading the 2026 Marrakech International Film Festival jury, Marion Cotillard opened in a Chanel Spring 2027 dress with a sheer skirt and scattered star-like embellishment, worn with Chanel High Jewellery and black sandals. Her press-conference look paired an embellished plaid skirt with an oversized vest and metallic gold pumps, and on 21 November she wore a red Chanel Spring 2026 Haute Couture dress covered in black, grey and white feathers with silver pumps. Red Carpet Fashion Awards rates only the opening dress a full success. No photos stored; see the source.
+Styled by Law Roach, Kim Kardashian went Ferrari red and black: a black leather trench over the red lace-up latex trousers from John Galliano's Dior Fall 2003 collection, with red gladiator heels from Roberto Cavalli Spring 2005 (Red Carpet Fashion Awards); other outlets also reported a custom Chrome Hearts leather look. WWD says Teyana Taylor paired a handcrafted Alpinestars racing jacket, one of eight, in black with cobalt stripes, with a Y2K flame tee and Balenciaga's 34-inch over-the-knee Motocross heel boots. Complex Style posted LISA wearing Ferrari at the race.
 
-Sources: [redcarpet-fashionawards.com](https://www.redcarpet-fashionawards.com/2026/11/22/marion-cotillards-chanel-looks-at-marrakech-go-from-elegant-to-eccentric/)
+Sources: [redcarpet-fashionawards.com](https://www.redcarpet-fashionawards.com/2026/11/22/kim-kardashians-ferrari-red-for-the-las-vegas-grand-prix/) · [wwd.com](https://wwd.com/footwear-news/shoe-trends/teyana-taylor-racer-jacket-balenciaga-boots-grand-prix-1239461809/) · [fashiontimes.com](https://www.fashiontimes.com/kim-kardashian-wears-custom-chrome-hearts-leather-look-las-vegas-grand-prix-15414) · [x.com](https://x.com/ComplexStyle/status/2124499628343087557) · [x.com](https://x.com/leandek15/status/2124343569234452965)
 
-Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-22
+Influence score: 7/10 · Engagement seen: x leandek15 kim views: 69,106, x leandek15 kim likes: 3,226, x complexstyle lisa views: 17,465, x complexstyle lisa likes: 2,811, x complexstyle lisa reposts: 945 · Published: 2026-11-22
 
-### 8. Hailee Steinfeld goes sculptural in Harris Reed at the London premiere of 'Hexed'
-
-At the 21 November European premiere of 'Hexed' in London, Hailee Steinfeld wore a Harris Reed look blending suiting and eveningwear: a rose-gold metallic jacket with exaggerated shoulders, black floral detailing and a nipped waist flaring at the hips, over a conical black skirt trimmed in the same metallic fabric. WWD links the padded-hip shape to 16th-17th century bum rolls. No photos stored; see the source.
-
-Sources: [wwd.com](https://wwd.com/pop-culture/celebrity-news/hailee-steinfeld-harris-reed-hexed-european-premiere-1239461370)
-
-Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-21
+_Note: Chrome Hearts look reported by Fashion Times and X posts; not opened. LISA outfit details beyond 'Ferrari' not verified._
 
 ## Social trends (X/TikTok)
 
-### 10. DIY garment hacks and sewing projects lead TikTok's Beauty & Style trending posts
+### 7. Miss Universe 2026 prelims: the Philippines' gold-and-teal 'Golden Seas of Sulu' gown leads pageant fashion talk
 
-*Unverified social claim (platform data only).*
+At the preliminary competition in Puerto Rico, Bea Millan-Windorski wore a gold and deep-blue gown by Filipino designer Anthony Ramirez, with radiating beadwork on a fitted bodice and floor-length skirt, a thigh-high slit and sheer teal panels from the arms that read as a cape, meant to evoke Mindanao goldwork and the Sulu Sea (GMA News). Her swimsuit segment look, a blue two-piece with a sheer white cape, was by Rian Fernandez. A fan clip of the gown passed 65,000 views on X within an hour; the final is on 25 November (Manila time).
 
-In TikTok Studio's Inspiration view (Beauty & Style, all regions), the fashion-related posts trending tonight are hands-on: a memory-quilt commission (about 3.1M / 269K as shown), a creator shrinking an XXL sweater to fit while campaigning for TikTok Awards UK fashion creator of the year (1.5M / 112K), and sewing posts recreating dresses. Polished brand content did not appear in the category's top ten.
+Sources: [gmanetwork.com](https://www.gmanetwork.com/news/lifestyle/shoppingandfashion/1010453/bea-millan-windorski-showcases-golden-seas-of-sulu-at-miss-universe-2026-preliminaries/story/) · [manilatimes.net](https://www.manilatimes.net/2026/11/23/entertainment-lifestyle/show-times/bea-millan-windorski-showcases-golden-seas-of-sulu-gown-at-miss-universe-2026-preliminaries/2475809) · [x.com](https://x.com/Dainsleif_10/status/2124678879604506671)
 
-**Why it matters for On-Model/PiktID:** Process and fit transformation content outperforms polished visuals; On-Model before/after (flat-lay to on-model) clips fit that format.
-
-Sources: [tiktok.com](https://www.tiktok.com/tiktokstudio/inspiration)
-
-Influence score: 3/10 · Engagement seen: memory quilt post shown: 3.1M / 269K, xxl sweater post shown: 1.5M / 112K, metric note: pairs as displayed in TikTok Studio Inspiration (likely views / likes) · Published: 2026-11-22
+Influence score: 6/10 · Engagement seen: x dainsleif 10 views: 65,400, x dainsleif 10 likes: 2,105, x dainsleif 10 reposts: 394 · Published: 2026-11-23
 
 ## TikTok search insights
 
-- Creator Search Insights' keyword and content-gap view isn't offered on TikTok web for this account, so no search-keyword or content-gap figures tonight. Used TikTok Studio > Inspiration > Trending (Beauty & Style, all regions) instead; figures are the pairs shown there (likely views / likes).
+- Creator Search Insights' keyword and content-gap view still isn't offered on TikTok web for this account, so no search-keyword or content-gap figures tonight. TikTok Studio > Inspiration > Trending (Beauty & Style, all regions) used instead; figures are the pairs shown (likely views / likes).
 
-- memory quilt / #costuracreativa: 3.1M / 269K (as shown)
-- #fashion #DIY (shrinking an XXL sweater): 1.5M / 112K (as shown)
-- #fashion #design #sewing: 790K / 68K (as shown)
-- #hairstyle: 1.8M / 22K (as shown)
-- #skincare #facemask: 11M / 683K (as shown)
+- #skincare #facemask (blackheads): 11M / 723K (as shown)
+- #memoryquilt #costuracreativa: 3.2M / 278K (as shown)
+- #fashion #DIY (shrinking an XXL sweater): 1.6M / 117K (as shown)
+- #hairstyle: 1.9M / 22K (as shown)
+- #fashion #design #sewing: 833K / 72K (as shown)
+- fabric unboxing to recreate a wedding dress: 750K / 75K (as shown)
 
-- Gap On-Model could fill: fashion entries in the trending set are DIY fit/transformation clips; no brand shows a flat-lay to on-model transformation in that format.
+- Gap On-Model could fill: fashion in the trending set is again DIY/transformation (resizing a sweater, sewing, recreating a dress from fabric). A 'flat garment to on-body' transformation in the same before/after format is still absent.
 
 ## Sources checked
 
-- X: signed in. Home timeline (mostly tech/AI), Explore trending (Italy; no fashion topics), searches for fashion (Top), "fashion news" (Latest), "AI fashion", "virtual try-on", red carpet outfit, "fashion week", AMAs red carpet (no 2026 AMAs results).
-- TikTok: signed in. For You, searches 'fashion news', 'AI fashion', 'red carpet outfit', 'paolo bulgari'.
+- X: signed in. Explore trending (Italy; football/F1, no fashion topics), searches for fashion (Top, 500+ likes), AI fashion / virtual try-on / AI models / fashion tech (Top; only low-reach posts), red carpet / outfit / fashion week / Vogue (Top, 2,000+ likes), Hyunjin Dior.
+- TikTok: signed in. Searches 'fashion news' (mostly older posts) and 'creator search insights'.
 - TikTok Creator Search Insights: unavailable on web (keyword/gap view); TikTok Studio Inspiration trending used.
-- News: The Interline (no new posts since 20 Nov), Business of Fashion (paywalled; headlines only, not used for claims), Vogue Business, WWD, FashionUnited, Just Style, Sourcing Journal, Retail Dive, Modern Retail, TechCrunch, FashionNetwork, Quartz, The Fader, Complex, Euronews, Il Giornale, Nylon, Red Carpet Fashion Awards. Drapers unreachable (proxy error).
-- Catch-ups: items 1, 3, 4, 7 and 9 were published 18-20 November but were not in earlier digests; SSENSE's confirmation (20 Nov) is the new development on that story.
-- Not used: Louis Vuitton x Keith Haring (announced 13 Nov), H&M Design Award winner (19 Nov), Rebecca Minkoff sale (16 Nov), Tommy Hilfiger Shinsaibashi store (13 Nov) as outside the window; Meta Muse try-on (covered 21 Nov).
-- Images: the workspace network blocks direct downloads, so images are browser renders at the size the source serves them; 2 uploaded to the [Drive day folder](https://drive.google.com/drive/folders/1zSgmcB63X8ip6gc3f3hKpcp9IB04seZb) and previewed here. No photos of real people stored (Bulgari, Everful and celebrity images skipped; Dior's animated still skipped as it may depict a real person).
+- News: The Interline (no new posts since 20 Nov), Business of Fashion (paywalled; standfirsts only), Vogue Business (nothing new in window), WWD, Sourcing Journal, FashionUnited (some member pieces paywalled), Hypebeast, Modern Retail, TechCrunch (no fashion items), Red Carpet Fashion Awards, GMA News. Not reached this run: Drapers, Just Style, Retail Dive, The Verge, Highsnobiety.
+- Weekend window was thin, so items 2, 5, 8, 9 and 10 are 19-21 November stories not in earlier digests.
+- Not used: MAMA red carpet (covered 21 Nov), Paolo Bulgari (covered 22 Nov), Gentle Monster x Joaquin Phoenix smart-glasses film (launched 6-12 Nov; US/Korea launch 10 Dec), Vestiaire Collective ChatGPT app (~16 Nov), Zara Fifth Avenue reopening and Wandler v Loewe (paywalled), Zalando AI piece (BoF, Sept).
+- Images: the workspace network blocks direct downloads, so images are browser renders at the source's native size; 2 uploaded to the [Drive day folder](https://drive.google.com/drive/folders/1DKjvC--RLCnogRD039_f4j0Ubu6cSjkl) and previewed here. No photos of real people stored (celebrity, pageant and GYAKUSOU campaign images skipped).
 
 ## Possible LinkedIn angles
 
-- SSENSE shows the real risk in AI product imagery isn't realism, it's fidelity: a wrong hook or zip turns into a brand complaint. How we measure garment accuracy.
-- 'Hand-drawn' with AI in-betweens: Dior's campaign shows disclosure is now part of creative direction.
-- AI assistants convert at 2x (Target): when the shopper's first view is chosen by an agent, every SKU needs on-body imagery.
+- A leaked jeans patch got 380K views: in luxury collabs the detail shot is the product. Why garment fidelity is the bar for AI imagery.
+- Amazon just blocked Meta's shopping agent. In agentic commerce, your product data and images are your storefront; who gets to read them is the new channel war.
+- 'Plus size' isn't 'curvy' (Bodi.Me): extended sizes need images on the right body shape, not one model scaled up.

@@ -1,0 +1,437 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T03:55:00+01:00",
+  "drive_day_folder_url": "https://drive.google.com/drive/folders/1DKjvC--RLCnogRD039_f4j0Ubu6cSjkl",
+  "sources_checked": [
+    "x.com (signed in: Explore trending (Italy, no fashion topics), searches: fashion min_faves:500 (Top), \"AI fashion\"/\"virtual try-on\"/\"AI models\"/\"fashion tech\" (Top), red carpet/outfit/fashion week/Vogue min_faves:2000 (Top), Hyunjin Dior)",
+    "tiktok.com (signed in: searches 'fashion news', 'creator search insights')",
+    "TikTok Creator Search Insights: keyword/content-gap view unavailable on web; TikTok Studio Inspiration trending used",
+    "theinterline.com (no new posts since 20 Nov)",
+    "businessoffashion.com (paywalled; headlines/standfirsts only)",
+    "vogue.com/business (no new items in window)",
+    "wwd.com",
+    "sourcingjournal.com (wwd.com)",
+    "fashionunited.com (some member articles paywalled)",
+    "hypebeast.com",
+    "modernretail.co",
+    "techcrunch.com (no fashion items)",
+    "redcarpet-fashionawards.com",
+    "gmanetwork.com",
+    "manilatimes.net (search result)",
+    "WebSearch for Las Vegas GP, Miss Universe, Gentle Monster, Gyakusou",
+    "Not reached this run: Drapers, Just Style, Retail Dive, The Verge, Highsnobiety",
+    "Google Drive: day folder 2026/11-23 created, 2 images uploaded (browser renders at source size)"
+  ],
+  "tiktok_search_insights": {
+    "source": "TikTok Studio > Inspiration > Trending (Beauty & Style, all regions)",
+    "note": "The Creator Search Insights keyword and content-gap view is not offered on TikTok web for this account; trending posts used instead (figures are the two numbers shown, likely views / likes). No content-gap data available.",
+    "trending_keywords": [
+      {
+        "keyword": "#skincare #facemask (blackheads)",
+        "category": "Beauty & Style",
+        "metric": "11M / 723K"
+      },
+      {
+        "keyword": "#memoryquilt #costuracreativa",
+        "category": "Beauty & Style",
+        "metric": "3.2M / 278K"
+      },
+      {
+        "keyword": "#fashion #DIY (shrinking an XXL sweater)",
+        "category": "Beauty & Style",
+        "metric": "1.6M / 117K"
+      },
+      {
+        "keyword": "#hairstyle",
+        "category": "Beauty & Style",
+        "metric": "1.9M / 22K"
+      },
+      {
+        "keyword": "#fashion #design #sewing",
+        "category": "Beauty & Style",
+        "metric": "833K / 72K"
+      },
+      {
+        "keyword": "fabric unboxing to recreate a wedding dress",
+        "category": "Beauty & Style",
+        "metric": "750K / 75K"
+      }
+    ],
+    "content_gaps": []
+  },
+  "items": [
+    {
+      "id": "2026-11-23-saint-laurent-levis-501-leak",
+      "rank": 1,
+      "category": "Brands, launches & deals",
+      "headline": "Leaked Saint Laurent x Levi's 501 images spread fast on X, but neither brand has confirmed",
+      "summary": "Images of what appears to be a co-branded Levi's 501 with Saint Laurent detailing are circulating online: Hypebeast describes light-wash, mid-wash and black versions with a co-branded leather back patch, 'Saint Laurent Paris' rivets and a gold-embroidered YSL monogram on the pocket. Neither Saint Laurent nor Levi's has confirmed the project. Online speculation puts the price far above a standard 501, though no official figure exists. A 'first look' post by @Ovrnundr was among the most-viewed fashion posts on X over the weekend.",
+      "why_it_matters": "Luxury-on-heritage-basic collabs live or die on detail shots (patches, rivets, embroidery): the kind of close-up fidelity on-model generation has to preserve.",
+      "influence_score": 8,
+      "engagement": {
+        "x_ovrnundr_views": 379640,
+        "x_ovrnundr_likes": 4670,
+        "x_ovrnundr_reposts": 743,
+        "x_ovrnundr_replies": 91
+      },
+      "entities": {
+        "brands": [
+          "Saint Laurent",
+          "Levi's"
+        ],
+        "people": [],
+        "companies": [
+          "Kering",
+          "Levi Strauss & Co."
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://hypebeast.com/2026/11/saint-laurent-ysl-levis-501-jeans-collaboration-surfaces-online-teaser",
+        "https://x.com/Ovrnundr/status/2124128511900389495"
+      ],
+      "image": {
+        "preview_path": "images/2026/11-23/saint-laurent-levis-501-leak.jpg",
+        "drive_url": "https://drive.google.com/file/d/1lG4nkqWvFJqPTsYZ-M59WMombED5ahIf/view",
+        "drive_file_id": "1lG4nkqWvFJqPTsYZ-M59WMombED5ahIf",
+        "original_url": "https://pbs.twimg.com/media/HXprntYWAAAO0Yg?format=jpg&name=orig",
+        "width": 762,
+        "height": 1017,
+        "bytes": 227235
+      },
+      "published_at": "2026-11-21",
+      "verified": false,
+      "is_update": false,
+      "notes": "Unconfirmed leak: images verified as circulating (Hypebeast), collaboration not confirmed by either brand."
+    },
+    {
+      "id": "2026-11-23-agentic-commerce-holiday-quarter",
+      "rank": 2,
+      "category": "Fashion tech & AI",
+      "headline": "Holiday 2026 becomes the 'agentic commerce quarter': ChatGPT wallet launches, Amazon blocks Meta's Muse agent",
+      "summary": "Digiday (via Modern Retail) rounds up a week in which OpenAI launched a ChatGPT wallet to push agent purchases through retailer checkouts, Google began rolling out agent checkout in Canada through AI Mode and Gemini, Amazon blocked Meta's Muse shopping agent from its site and Walmart let shoppers cap an agent's spend at $50, $100 or $200. Bain estimates roughly one in four online shoppers plan to start holiday shopping on an AI platform. Gartner data cited in the piece shows 61% of senior marketers have reworked content for machine readability, but only about 30% have built workflows for agent-led transactions.",
+      "why_it_matters": "When an agent picks the product, structured data and clean on-body imagery for every SKU decide whether a brand is shown at all.",
+      "influence_score": 8,
+      "engagement": {},
+      "entities": {
+        "brands": [],
+        "people": [],
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Amazon",
+          "Meta",
+          "Walmart",
+          "Bain & Company",
+          "Gartner",
+          "eMarketer"
+        ],
+        "events": [
+          "Holiday 2026"
+        ]
+      },
+      "source_urls": [
+        "https://www.modernretail.co/technology/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/"
+      ],
+      "image": null,
+      "published_at": "2026-11-19",
+      "verified": true,
+      "is_update": true,
+      "notes": "Update to 21 Nov item on Meta's Muse: Amazon has blocked the agent from its retail site."
+    },
+    {
+      "id": "2026-11-23-las-vegas-grand-prix-celebrity-style",
+      "rank": 3,
+      "category": "Celebrity & red carpet",
+      "headline": "Las Vegas Grand Prix doubles as a runway: archival Dior on Kim Kardashian, Balenciaga boots on Teyana Taylor",
+      "summary": "Styled by Law Roach, Kim Kardashian went Ferrari red and black: a black leather trench over the red lace-up latex trousers from John Galliano's Dior Fall 2003 collection, with red gladiator heels from Roberto Cavalli Spring 2005 (Red Carpet Fashion Awards); other outlets also reported a custom Chrome Hearts leather look. WWD says Teyana Taylor paired a handcrafted Alpinestars racing jacket, one of eight, in black with cobalt stripes, with a Y2K flame tee and Balenciaga's 34-inch over-the-knee Motocross heel boots. Complex Style posted LISA wearing Ferrari at the race.",
+      "why_it_matters": null,
+      "influence_score": 7,
+      "engagement": {
+        "x_leandek15_kim_views": 69106,
+        "x_leandek15_kim_likes": 3226,
+        "x_complexstyle_lisa_views": 17465,
+        "x_complexstyle_lisa_likes": 2811,
+        "x_complexstyle_lisa_reposts": 945
+      },
+      "entities": {
+        "brands": [
+          "Dior",
+          "Roberto Cavalli",
+          "Chrome Hearts",
+          "Balenciaga",
+          "Alpinestars",
+          "Ferrari"
+        ],
+        "people": [
+          "Kim Kardashian",
+          "Law Roach",
+          "Teyana Taylor",
+          "LISA"
+        ],
+        "companies": [
+          "Formula 1"
+        ],
+        "events": [
+          "Las Vegas Grand Prix 2026"
+        ]
+      },
+      "source_urls": [
+        "https://www.redcarpet-fashionawards.com/2026/11/22/kim-kardashians-ferrari-red-for-the-las-vegas-grand-prix/",
+        "https://wwd.com/footwear-news/shoe-trends/teyana-taylor-racer-jacket-balenciaga-boots-grand-prix-1239461809/",
+        "https://www.fashiontimes.com/kim-kardashian-wears-custom-chrome-hearts-leather-look-las-vegas-grand-prix-15414",
+        "https://x.com/ComplexStyle/status/2124499628343087557",
+        "https://x.com/leandek15/status/2124343569234452965"
+      ],
+      "image": null,
+      "published_at": "2026-11-22",
+      "verified": true,
+      "is_update": false,
+      "notes": "Chrome Hearts look reported by Fashion Times and X posts; not opened. LISA outfit details beyond 'Ferrari' not verified."
+    },
+    {
+      "id": "2026-11-23-la-long-beach-ports-strike-averted",
+      "rank": 4,
+      "category": "E-commerce & retail business",
+      "headline": "LA and Long Beach port strike averted days before peak holiday shipping",
+      "summary": "The Pacific Maritime Association and ILWU Local 26 reached a tentative contract on Saturday for about 250 port watchmen, removing the threat of a picket line that thousands of dockworkers were expected to honour. Sourcing Journal says a stoppage would have hit six of the two ports' 13 container terminals and more than half of their cargo, at a time when rail-bound containers were already waiting about nine days for a rail car. More than 110 trade groups had urged a deal; terms were not disclosed and ratification is pending.",
+      "why_it_matters": null,
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [],
+        "people": [],
+        "companies": [
+          "Pacific Maritime Association",
+          "ILWU"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://wwd.com/sourcing-journal/logistics/los-angeles-la-long-beach-ports-avert-strike-250-watchmen-tentative-deal-ilwu-pma-1239461394/"
+      ],
+      "image": {
+        "preview_path": "images/2026/11-23/la-long-beach-ports-strike-averted.jpg",
+        "drive_url": "https://drive.google.com/file/d/1swuN-bN_pFWSF6N-D-UAnyoiO498yLMA/view",
+        "drive_file_id": "1swuN-bN_pFWSF6N-D-UAnyoiO498yLMA",
+        "original_url": "https://wwd.com/wp-content/uploads/2026/11/oneportlb.jpg",
+        "width": 1500,
+        "height": 1000,
+        "bytes": 334384
+      },
+      "published_at": "2026-11-21",
+      "verified": true,
+      "is_update": false,
+      "notes": null
+    },
+    {
+      "id": "2026-11-23-nike-undercover-gyakusou-returns",
+      "rank": 5,
+      "category": "Brands, launches & deals",
+      "headline": "Nike and Jun Takahashi revive GYAKUSOU after a five-year pause",
+      "summary": "Undercover founder Jun Takahashi announced on social media that GYAKUSOU, his Nike running sub-label launched in 2010 and paused in 2021, is coming back, with its first film in seven years featuring the three original members of his GIRA running crew. Hypebeast reports a new collection is expected for Holiday 2026, and runners have been seen in a collaborative Alphafly 4.",
+      "why_it_matters": null,
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Nike",
+          "GYAKUSOU",
+          "Undercover"
+        ],
+        "people": [
+          "Jun Takahashi"
+        ],
+        "companies": [
+          "Nike"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://hypebeast.com/2026/11/nike-jun-takahashi-gyakusou-official-return-announcement",
+        "https://sneakernews.com/2026/11/19/jun-takahashi-announces-the-return-of-nike-gyakusou/"
+      ],
+      "image": null,
+      "published_at": "2026-11-19",
+      "verified": true,
+      "is_update": false,
+      "notes": "Campaign image shows real people (from behind); not stored."
+    },
+    {
+      "id": "2026-11-23-dior-hyunjin-brand-ambassador",
+      "rank": 6,
+      "category": "Brands, launches & deals",
+      "headline": "Dior signs Stray Kids' Hyunjin as ambassador for beauty and Jonathan Anderson's collections",
+      "summary": "Dior has named Stray Kids member Hyunjin a brand ambassador covering Dior Beauty and the collections designed by creative director Jonathan Anderson. Hypebeast notes he sat front row at Dior's January men's show and two women's shows, and that a September Instagram post of him in a Dior x A24 tee drew 2.6 million likes. The deal lands during Stray Kids' world tour, which runs to July 2027.",
+      "why_it_matters": null,
+      "influence_score": 6,
+      "engagement": {
+        "x_looxmagazine_views": 3089,
+        "x_looxmagazine_likes": 413,
+        "x_looxmagazine_reposts": 91
+      },
+      "entities": {
+        "brands": [
+          "Dior",
+          "Dior Beauty"
+        ],
+        "people": [
+          "Hyunjin",
+          "Jonathan Anderson"
+        ],
+        "companies": [
+          "LVMH"
+        ],
+        "events": [
+          "Stray Kids world tour"
+        ]
+      },
+      "source_urls": [
+        "https://hypebeast.com/2026/11/dior-names-stray-kids-hyunjin-new-brand-ambassador-announcement",
+        "https://x.com/LooxMagazine/status/2124091098423525854"
+      ],
+      "image": null,
+      "published_at": "2026-11-21",
+      "verified": true,
+      "is_update": false,
+      "notes": null
+    },
+    {
+      "id": "2026-11-23-miss-universe-2026-prelims-philippines-gown",
+      "rank": 7,
+      "category": "Social trends (X/TikTok)",
+      "headline": "Miss Universe 2026 prelims: the Philippines' gold-and-teal 'Golden Seas of Sulu' gown leads pageant fashion talk",
+      "summary": "At the preliminary competition in Puerto Rico, Bea Millan-Windorski wore a gold and deep-blue gown by Filipino designer Anthony Ramirez, with radiating beadwork on a fitted bodice and floor-length skirt, a thigh-high slit and sheer teal panels from the arms that read as a cape, meant to evoke Mindanao goldwork and the Sulu Sea (GMA News). Her swimsuit segment look, a blue two-piece with a sheer white cape, was by Rian Fernandez. A fan clip of the gown passed 65,000 views on X within an hour; the final is on 25 November (Manila time).",
+      "why_it_matters": null,
+      "influence_score": 6,
+      "engagement": {
+        "x_dainsleif_10_views": 65400,
+        "x_dainsleif_10_likes": 2105,
+        "x_dainsleif_10_reposts": 394
+      },
+      "entities": {
+        "brands": [],
+        "people": [
+          "Bea Millan-Windorski",
+          "Anthony Ramirez",
+          "Rian Fernandez"
+        ],
+        "companies": [
+          "Miss Universe Organization"
+        ],
+        "events": [
+          "Miss Universe 2026"
+        ]
+      },
+      "source_urls": [
+        "https://www.gmanetwork.com/news/lifestyle/shoppingandfashion/1010453/bea-millan-windorski-showcases-golden-seas-of-sulu-at-miss-universe-2026-preliminaries/story/",
+        "https://www.manilatimes.net/2026/11/23/entertainment-lifestyle/show-times/bea-millan-windorski-showcases-golden-seas-of-sulu-gown-at-miss-universe-2026-preliminaries/2475809",
+        "https://x.com/Dainsleif_10/status/2124678879604506671"
+      ],
+      "image": null,
+      "published_at": "2026-11-23",
+      "verified": true,
+      "is_update": false,
+      "notes": null
+    },
+    {
+      "id": "2026-11-23-bodi-me-plus-size-fit-research",
+      "rank": 8,
+      "category": "Fashion tech & AI",
+      "headline": "Bodi.Me fit research: 'plus size' and 'curvy' need different patterns, and size labels vary by up to 46 cm",
+      "summary": "UK sizing-tech firm Bodi.Me presented two years of body-data research on curvy and plus-size wearers in the US, UK and EU at 3DBodyTech 2026 in Lugano. FashionUnited reports its core finding that plus size (a size range) and curvy (a waist-to-hip proportion) are different fit problems that brands often merge, so uniform grading fixes one area and creates excess fabric in another. A cross-brand check found a 2XL chest starting at 100.5 cm at Tom Tailor versus 146 cm at Universal Standard, and the firm argues size-mix data hides fit problems that then repeat in the next production run.",
+      "why_it_matters": "Extended sizes are where model imagery is thinnest; showing each garment on the right body shape is a fit-communication tool, not just a visual.",
+      "influence_score": 5,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Tom Tailor",
+          "Universal Standard"
+        ],
+        "people": [
+          "Lara Mazzoni",
+          "Clementine Baldo"
+        ],
+        "companies": [
+          "Bodi.Me"
+        ],
+        "events": [
+          "3DBodyTech 2026"
+        ]
+      },
+      "source_urls": [
+        "https://fashionunited.com/news/fashion/how-better-sizing-eases-the-strain-on-the-fashion-supply-chain/2026112075876"
+      ],
+      "image": null,
+      "published_at": "2026-11-20",
+      "verified": true,
+      "is_update": false,
+      "notes": null
+    },
+    {
+      "id": "2026-11-23-tinker-tailor-ai-creator-platform",
+      "rank": 9,
+      "category": "Fashion tech & AI",
+      "headline": "Moda Operandi co-founder relaunches Tinker Tailor as an AI made-to-order platform for creators",
+      "summary": "BoF reports that Áslaug Magnúsdóttir has relaunched Tinker Tailor as an AI creator platform backed by a $3 million pre-seed round. The made-to-order model gives influencers the design tools and supply chain to launch custom apparel lines, with the aim of cutting inventory waste. Details beyond BoF's summary are behind its paywall.",
+      "why_it_matters": "Creator-led, made-to-order lines have no physical samples to shoot, so they need imagery generated from designs or first units.",
+      "influence_score": 5,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Tinker Tailor"
+        ],
+        "people": [
+          "Áslaug Magnúsdóttir"
+        ],
+        "companies": [
+          "Tinker Tailor"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://www.businessoffashion.com/articles/technology/tinker-tailor-relaunch/"
+      ],
+      "image": null,
+      "published_at": "2026-11-19",
+      "verified": true,
+      "is_update": false,
+      "notes": "Verified from BoF headline and standfirst only (paywalled)."
+    },
+    {
+      "id": "2026-11-23-gucci-cruise-2028-shanghai",
+      "rank": 10,
+      "category": "Brands, launches & deals",
+      "headline": "Gucci will show Cruise 2028 in Shanghai, Demna's first show in the city",
+      "summary": "Gucci will stage its Cruise 2028 runway in Shanghai on 17 May 2027, Demna's first show there, timed to the 30th anniversary of the house's first store in the region (Hypebeast). It follows his Cruise debut in New York's Times Square and joins planned China shows by Dior and Zegna. In the same week sacai announced its first Hong Kong runway, for SS27, on 13 December.",
+      "why_it_matters": null,
+      "influence_score": 5,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Gucci",
+          "Dior",
+          "Zegna",
+          "sacai"
+        ],
+        "people": [
+          "Demna"
+        ],
+        "companies": [
+          "Kering"
+        ],
+        "events": [
+          "Gucci Cruise 2028"
+        ]
+      },
+      "source_urls": [
+        "https://hypebeast.com/2026/11/gentle-monster-joaquin-phoenix-gucci-beams-adidas-sacai-willy-chavarria"
+      ],
+      "image": null,
+      "published_at": "2026-11-20",
+      "verified": true,
+      "is_update": false,
+      "notes": null
+    }
+  ]
+}
