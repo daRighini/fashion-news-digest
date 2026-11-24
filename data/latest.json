@@ -1,437 +1,565 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T03:55:00+01:00",
-  "drive_day_folder_url": "https://drive.google.com/drive/folders/1DKjvC--RLCnogRD039_f4j0Ubu6cSjkl",
-  "sources_checked": [
-    "x.com (signed in: Explore trending (Italy, no fashion topics), searches: fashion min_faves:500 (Top), \"AI fashion\"/\"virtual try-on\"/\"AI models\"/\"fashion tech\" (Top), red carpet/outfit/fashion week/Vogue min_faves:2000 (Top), Hyunjin Dior)",
-    "tiktok.com (signed in: searches 'fashion news', 'creator search insights')",
-    "TikTok Creator Search Insights: keyword/content-gap view unavailable on web; TikTok Studio Inspiration trending used",
-    "theinterline.com (no new posts since 20 Nov)",
-    "businessoffashion.com (paywalled; headlines/standfirsts only)",
-    "vogue.com/business (no new items in window)",
-    "wwd.com",
-    "sourcingjournal.com (wwd.com)",
-    "fashionunited.com (some member articles paywalled)",
-    "hypebeast.com",
-    "modernretail.co",
-    "techcrunch.com (no fashion items)",
-    "redcarpet-fashionawards.com",
-    "gmanetwork.com",
-    "manilatimes.net (search result)",
-    "WebSearch for Las Vegas GP, Miss Universe, Gentle Monster, Gyakusou",
-    "Not reached this run: Drapers, Just Style, Retail Dive, The Verge, Highsnobiety",
-    "Google Drive: day folder 2026/11-23 created, 2 images uploaded (browser renders at source size)"
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T03:55:00+01:00",
+ "drive_day_folder_url": "https://drive.google.com/drive/folders/15M0x3hFkFzUu_Qvrlcp2wzN_0stqTsMV",
+ "sources_checked": [
+  "x.com (signed in: searches 'fashion min_faves:500' (Top), outfit/red carpet/Dior/Chanel/Prada/Vogue min_faves:3000 (Top), AI fashion/virtual try-on/AI models/fashion tech/AI campaign min_faves:100 (Top), Ferragni; Explore trending (Italy))",
+  "tiktok.com (signed in: search 'fashion news' - mostly older recap videos)",
+  "TikTok Creator Search Insights: keyword/content-gap view unavailable on web; TikTok Studio Inspiration trending (Beauty & Style) used",
+  "theinterline.com (2 new posts on 23 Nov)",
+  "businessoffashion.com (paywalled; headlines/standfirsts)",
+  "fashionnetwork.com (Reuters wires)",
+  "wwd.com / Sourcing Journal",
+  "retaildive.com",
+  "modernretail.co (GTA VI promos piece, not fashion-specific)",
+  "vogue.com",
+  "hypebae.com",
+  "sneakerbardetroit.com",
+  "supremecommunity.com (product image)",
+  "ouispeakfashion.com",
+  "ilgiorno.it",
+  "donnaglamour.it",
+  "WebSearch for Supreme x TNF, Tyla/Dior, Miu Miu, Ferragni, fashion funding, AI try-on",
+  "Not reached this run: Vogue Business, FashionUnited, Drapers, Just Style, TechCrunch, The Verge, Highsnobiety (WebFetch unavailable; browser used for sites opened)",
+  "Google Drive: day folder 2026/11-24 created, 4 images uploaded (browser renders at source size)"
+ ],
+ "tiktok_search_insights": {
+  "source": "TikTok Studio > Inspiration > Trending (Beauty & Style, all regions)",
+  "note": "The Creator Search Insights keyword and content-gap view is not offered on TikTok web for this account; trending posts used instead (figures are the two numbers shown, likely views / likes). No content-gap data available.",
+  "trending_keywords": [
+   {
+    "keyword": "#skincare #facemask (blackheads)",
+    "category": "Beauty & Style",
+    "metric": "11M / 743K"
+   },
+   {
+    "keyword": "#memoryquilt #costuracreativa",
+    "category": "Beauty & Style",
+    "metric": "3.2M / 284K"
+   },
+   {
+    "keyword": "#hairstyle",
+    "category": "Beauty & Style",
+    "metric": "1.9M / 23K"
+   },
+   {
+    "keyword": "#fashion #DIY (shrinking an XXL sweater; TikTok Awards UK nominee)",
+    "category": "Beauty & Style",
+    "metric": "1.7M / 121K"
+   },
+   {
+    "keyword": "#barber transformation haircut",
+    "category": "Beauty & Style",
+    "metric": "1.1M / 154K"
+   },
+   {
+    "keyword": "#fashion #design #sewing #blackfashiondesigner",
+    "category": "Beauty & Style",
+    "metric": "1M / 90K"
+   },
+   {
+    "keyword": "#christmasnails #3dnails",
+    "category": "Beauty & Style",
+    "metric": "884K / 64K"
+   }
   ],
-  "tiktok_search_insights": {
-    "source": "TikTok Studio > Inspiration > Trending (Beauty & Style, all regions)",
-    "note": "The Creator Search Insights keyword and content-gap view is not offered on TikTok web for this account; trending posts used instead (figures are the two numbers shown, likely views / likes). No content-gap data available.",
-    "trending_keywords": [
-      {
-        "keyword": "#skincare #facemask (blackheads)",
-        "category": "Beauty & Style",
-        "metric": "11M / 723K"
-      },
-      {
-        "keyword": "#memoryquilt #costuracreativa",
-        "category": "Beauty & Style",
-        "metric": "3.2M / 278K"
-      },
-      {
-        "keyword": "#fashion #DIY (shrinking an XXL sweater)",
-        "category": "Beauty & Style",
-        "metric": "1.6M / 117K"
-      },
-      {
-        "keyword": "#hairstyle",
-        "category": "Beauty & Style",
-        "metric": "1.9M / 22K"
-      },
-      {
-        "keyword": "#fashion #design #sewing",
-        "category": "Beauty & Style",
-        "metric": "833K / 72K"
-      },
-      {
-        "keyword": "fabric unboxing to recreate a wedding dress",
-        "category": "Beauty & Style",
-        "metric": "750K / 75K"
-      }
+  "content_gaps": []
+ },
+ "items": [
+  {
+   "id": "2026-11-24-ai-pricing-black-friday-discounts",
+   "rank": 1,
+   "category": "Fashion tech & AI",
+   "headline": "AI pricing tools are quietly shrinking Black Friday discounts at Gap, Under Armour and others",
+   "summary": "Reuters, in a piece carried by BoF and FashionNetwork, reports that brands from Gap to Under Armour now use AI tools to set prices and decide when and how deeply to discount, and that the software often concludes promotions can be smaller without hurting demand. Examples from vendors include a beauty brand cutting a planned 40% Black Friday discount to 30% (Kapnova) and a buy-one-get-one offer trimmed from 50% to 40% (First Insight); Anaplan names Tiffany, Dolce & Gabbana and Saint Laurent as pricing clients. Centric Market Intelligence data show more sportswear on sale but shallower average markdowns, e.g. sports bras at 32% off versus 36% a year earlier.",
+   "why_it_matters": "AI is moving from content to margin decisions in fashion; the same buyers approving AI pricing are the ones who will approve AI product imagery, and both pitches rest on measurable margin impact.",
+   "influence_score": 8,
+   "engagement": {},
+   "entities": {
+    "brands": [
+     "Gap",
+     "Under Armour",
+     "New Balance",
+     "Tiffany",
+     "Dolce & Gabbana",
+     "Saint Laurent"
     ],
-    "content_gaps": []
+    "people": [],
+    "companies": [
+     "Impact Analytics",
+     "Kapnova",
+     "First Insight",
+     "Anaplan",
+     "Sparkbox",
+     "Centric Market Intelligence",
+     "Reuters"
+    ],
+    "events": [
+     "Black Friday 2026"
+    ]
+   },
+   "source_urls": [
+    "https://ww.fashionnetwork.com/news/Ai-tools-help-brands-curb-black-friday-deals-from-clothes-to-skincare,1887408.html",
+    "https://www.businessoffashion.com/news/retail/ai-tools-help-brands-curb-black-friday-deals-from-clothes-to-skincare/"
+   ],
+   "image": {
+    "preview_path": "images/2026/11-24/ai-pricing-black-friday-discounts.jpg",
+    "drive_url": "https://drive.google.com/file/d/1ly3VGJojijBa-X3DqsqEmOhvf1OKj6cl/view",
+    "drive_file_id": "1ly3VGJojijBa-X3DqsqEmOhvf1OKj6cl",
+    "original_url": "https://media.fashionnetwork.com/m/437d/5bcf/bc50/a978/09fa/7d71/4794/e144/89a9/b4ca/b4ca.jpg",
+    "width": 501,
+    "height": 501,
+    "bytes": 43923
+   },
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false
   },
-  "items": [
-    {
-      "id": "2026-11-23-saint-laurent-levis-501-leak",
-      "rank": 1,
-      "category": "Brands, launches & deals",
-      "headline": "Leaked Saint Laurent x Levi's 501 images spread fast on X, but neither brand has confirmed",
-      "summary": "Images of what appears to be a co-branded Levi's 501 with Saint Laurent detailing are circulating online: Hypebeast describes light-wash, mid-wash and black versions with a co-branded leather back patch, 'Saint Laurent Paris' rivets and a gold-embroidered YSL monogram on the pocket. Neither Saint Laurent nor Levi's has confirmed the project. Online speculation puts the price far above a standard 501, though no official figure exists. A 'first look' post by @Ovrnundr was among the most-viewed fashion posts on X over the weekend.",
-      "why_it_matters": "Luxury-on-heritage-basic collabs live or die on detail shots (patches, rivets, embroidery): the kind of close-up fidelity on-model generation has to preserve.",
-      "influence_score": 8,
-      "engagement": {
-        "x_ovrnundr_views": 379640,
-        "x_ovrnundr_likes": 4670,
-        "x_ovrnundr_reposts": 743,
-        "x_ovrnundr_replies": 91
-      },
-      "entities": {
-        "brands": [
-          "Saint Laurent",
-          "Levi's"
-        ],
-        "people": [],
-        "companies": [
-          "Kering",
-          "Levi Strauss & Co."
-        ],
-        "events": []
-      },
-      "source_urls": [
-        "https://hypebeast.com/2026/11/saint-laurent-ysl-levis-501-jeans-collaboration-surfaces-online-teaser",
-        "https://x.com/Ovrnundr/status/2124128511900389495"
-      ],
-      "image": {
-        "preview_path": "images/2026/11-23/saint-laurent-levis-501-leak.jpg",
-        "drive_url": "https://drive.google.com/file/d/1lG4nkqWvFJqPTsYZ-M59WMombED5ahIf/view",
-        "drive_file_id": "1lG4nkqWvFJqPTsYZ-M59WMombED5ahIf",
-        "original_url": "https://pbs.twimg.com/media/HXprntYWAAAO0Yg?format=jpg&name=orig",
-        "width": 762,
-        "height": 1017,
-        "bytes": 227235
-      },
-      "published_at": "2026-11-21",
-      "verified": false,
-      "is_update": false,
-      "notes": "Unconfirmed leak: images verified as circulating (Hypebeast), collaboration not confirmed by either brand."
-    },
-    {
-      "id": "2026-11-23-agentic-commerce-holiday-quarter",
-      "rank": 2,
-      "category": "Fashion tech & AI",
-      "headline": "Holiday 2026 becomes the 'agentic commerce quarter': ChatGPT wallet launches, Amazon blocks Meta's Muse agent",
-      "summary": "Digiday (via Modern Retail) rounds up a week in which OpenAI launched a ChatGPT wallet to push agent purchases through retailer checkouts, Google began rolling out agent checkout in Canada through AI Mode and Gemini, Amazon blocked Meta's Muse shopping agent from its site and Walmart let shoppers cap an agent's spend at $50, $100 or $200. Bain estimates roughly one in four online shoppers plan to start holiday shopping on an AI platform. Gartner data cited in the piece shows 61% of senior marketers have reworked content for machine readability, but only about 30% have built workflows for agent-led transactions.",
-      "why_it_matters": "When an agent picks the product, structured data and clean on-body imagery for every SKU decide whether a brand is shown at all.",
-      "influence_score": 8,
-      "engagement": {},
-      "entities": {
-        "brands": [],
-        "people": [],
-        "companies": [
-          "OpenAI",
-          "Google",
-          "Amazon",
-          "Meta",
-          "Walmart",
-          "Bain & Company",
-          "Gartner",
-          "eMarketer"
-        ],
-        "events": [
-          "Holiday 2026"
-        ]
-      },
-      "source_urls": [
-        "https://www.modernretail.co/technology/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/"
-      ],
-      "image": null,
-      "published_at": "2026-11-19",
-      "verified": true,
-      "is_update": true,
-      "notes": "Update to 21 Nov item on Meta's Muse: Amazon has blocked the agent from its retail site."
-    },
-    {
-      "id": "2026-11-23-las-vegas-grand-prix-celebrity-style",
-      "rank": 3,
-      "category": "Celebrity & red carpet",
-      "headline": "Las Vegas Grand Prix doubles as a runway: archival Dior on Kim Kardashian, Balenciaga boots on Teyana Taylor",
-      "summary": "Styled by Law Roach, Kim Kardashian went Ferrari red and black: a black leather trench over the red lace-up latex trousers from John Galliano's Dior Fall 2003 collection, with red gladiator heels from Roberto Cavalli Spring 2005 (Red Carpet Fashion Awards); other outlets also reported a custom Chrome Hearts leather look. WWD says Teyana Taylor paired a handcrafted Alpinestars racing jacket, one of eight, in black with cobalt stripes, with a Y2K flame tee and Balenciaga's 34-inch over-the-knee Motocross heel boots. Complex Style posted LISA wearing Ferrari at the race.",
-      "why_it_matters": null,
-      "influence_score": 7,
-      "engagement": {
-        "x_leandek15_kim_views": 69106,
-        "x_leandek15_kim_likes": 3226,
-        "x_complexstyle_lisa_views": 17465,
-        "x_complexstyle_lisa_likes": 2811,
-        "x_complexstyle_lisa_reposts": 945
-      },
-      "entities": {
-        "brands": [
-          "Dior",
-          "Roberto Cavalli",
-          "Chrome Hearts",
-          "Balenciaga",
-          "Alpinestars",
-          "Ferrari"
-        ],
-        "people": [
-          "Kim Kardashian",
-          "Law Roach",
-          "Teyana Taylor",
-          "LISA"
-        ],
-        "companies": [
-          "Formula 1"
-        ],
-        "events": [
-          "Las Vegas Grand Prix 2026"
-        ]
-      },
-      "source_urls": [
-        "https://www.redcarpet-fashionawards.com/2026/11/22/kim-kardashians-ferrari-red-for-the-las-vegas-grand-prix/",
-        "https://wwd.com/footwear-news/shoe-trends/teyana-taylor-racer-jacket-balenciaga-boots-grand-prix-1239461809/",
-        "https://www.fashiontimes.com/kim-kardashian-wears-custom-chrome-hearts-leather-look-las-vegas-grand-prix-15414",
-        "https://x.com/ComplexStyle/status/2124499628343087557",
-        "https://x.com/leandek15/status/2124343569234452965"
-      ],
-      "image": null,
-      "published_at": "2026-11-22",
-      "verified": true,
-      "is_update": false,
-      "notes": "Chrome Hearts look reported by Fashion Times and X posts; not opened. LISA outfit details beyond 'Ferrari' not verified."
-    },
-    {
-      "id": "2026-11-23-la-long-beach-ports-strike-averted",
-      "rank": 4,
-      "category": "E-commerce & retail business",
-      "headline": "LA and Long Beach port strike averted days before peak holiday shipping",
-      "summary": "The Pacific Maritime Association and ILWU Local 26 reached a tentative contract on Saturday for about 250 port watchmen, removing the threat of a picket line that thousands of dockworkers were expected to honour. Sourcing Journal says a stoppage would have hit six of the two ports' 13 container terminals and more than half of their cargo, at a time when rail-bound containers were already waiting about nine days for a rail car. More than 110 trade groups had urged a deal; terms were not disclosed and ratification is pending.",
-      "why_it_matters": null,
-      "influence_score": 6,
-      "engagement": {},
-      "entities": {
-        "brands": [],
-        "people": [],
-        "companies": [
-          "Pacific Maritime Association",
-          "ILWU"
-        ],
-        "events": []
-      },
-      "source_urls": [
-        "https://wwd.com/sourcing-journal/logistics/los-angeles-la-long-beach-ports-avert-strike-250-watchmen-tentative-deal-ilwu-pma-1239461394/"
-      ],
-      "image": {
-        "preview_path": "images/2026/11-23/la-long-beach-ports-strike-averted.jpg",
-        "drive_url": "https://drive.google.com/file/d/1swuN-bN_pFWSF6N-D-UAnyoiO498yLMA/view",
-        "drive_file_id": "1swuN-bN_pFWSF6N-D-UAnyoiO498yLMA",
-        "original_url": "https://wwd.com/wp-content/uploads/2026/11/oneportlb.jpg",
-        "width": 1500,
-        "height": 1000,
-        "bytes": 334384
-      },
-      "published_at": "2026-11-21",
-      "verified": true,
-      "is_update": false,
-      "notes": null
-    },
-    {
-      "id": "2026-11-23-nike-undercover-gyakusou-returns",
-      "rank": 5,
-      "category": "Brands, launches & deals",
-      "headline": "Nike and Jun Takahashi revive GYAKUSOU after a five-year pause",
-      "summary": "Undercover founder Jun Takahashi announced on social media that GYAKUSOU, his Nike running sub-label launched in 2010 and paused in 2021, is coming back, with its first film in seven years featuring the three original members of his GIRA running crew. Hypebeast reports a new collection is expected for Holiday 2026, and runners have been seen in a collaborative Alphafly 4.",
-      "why_it_matters": null,
-      "influence_score": 6,
-      "engagement": {},
-      "entities": {
-        "brands": [
-          "Nike",
-          "GYAKUSOU",
-          "Undercover"
-        ],
-        "people": [
-          "Jun Takahashi"
-        ],
-        "companies": [
-          "Nike"
-        ],
-        "events": []
-      },
-      "source_urls": [
-        "https://hypebeast.com/2026/11/nike-jun-takahashi-gyakusou-official-return-announcement",
-        "https://sneakernews.com/2026/11/19/jun-takahashi-announces-the-return-of-nike-gyakusou/"
-      ],
-      "image": null,
-      "published_at": "2026-11-19",
-      "verified": true,
-      "is_update": false,
-      "notes": "Campaign image shows real people (from behind); not stored."
-    },
-    {
-      "id": "2026-11-23-dior-hyunjin-brand-ambassador",
-      "rank": 6,
-      "category": "Brands, launches & deals",
-      "headline": "Dior signs Stray Kids' Hyunjin as ambassador for beauty and Jonathan Anderson's collections",
-      "summary": "Dior has named Stray Kids member Hyunjin a brand ambassador covering Dior Beauty and the collections designed by creative director Jonathan Anderson. Hypebeast notes he sat front row at Dior's January men's show and two women's shows, and that a September Instagram post of him in a Dior x A24 tee drew 2.6 million likes. The deal lands during Stray Kids' world tour, which runs to July 2027.",
-      "why_it_matters": null,
-      "influence_score": 6,
-      "engagement": {
-        "x_looxmagazine_views": 3089,
-        "x_looxmagazine_likes": 413,
-        "x_looxmagazine_reposts": 91
-      },
-      "entities": {
-        "brands": [
-          "Dior",
-          "Dior Beauty"
-        ],
-        "people": [
-          "Hyunjin",
-          "Jonathan Anderson"
-        ],
-        "companies": [
-          "LVMH"
-        ],
-        "events": [
-          "Stray Kids world tour"
-        ]
-      },
-      "source_urls": [
-        "https://hypebeast.com/2026/11/dior-names-stray-kids-hyunjin-new-brand-ambassador-announcement",
-        "https://x.com/LooxMagazine/status/2124091098423525854"
-      ],
-      "image": null,
-      "published_at": "2026-11-21",
-      "verified": true,
-      "is_update": false,
-      "notes": null
-    },
-    {
-      "id": "2026-11-23-miss-universe-2026-prelims-philippines-gown",
-      "rank": 7,
-      "category": "Social trends (X/TikTok)",
-      "headline": "Miss Universe 2026 prelims: the Philippines' gold-and-teal 'Golden Seas of Sulu' gown leads pageant fashion talk",
-      "summary": "At the preliminary competition in Puerto Rico, Bea Millan-Windorski wore a gold and deep-blue gown by Filipino designer Anthony Ramirez, with radiating beadwork on a fitted bodice and floor-length skirt, a thigh-high slit and sheer teal panels from the arms that read as a cape, meant to evoke Mindanao goldwork and the Sulu Sea (GMA News). Her swimsuit segment look, a blue two-piece with a sheer white cape, was by Rian Fernandez. A fan clip of the gown passed 65,000 views on X within an hour; the final is on 25 November (Manila time).",
-      "why_it_matters": null,
-      "influence_score": 6,
-      "engagement": {
-        "x_dainsleif_10_views": 65400,
-        "x_dainsleif_10_likes": 2105,
-        "x_dainsleif_10_reposts": 394
-      },
-      "entities": {
-        "brands": [],
-        "people": [
-          "Bea Millan-Windorski",
-          "Anthony Ramirez",
-          "Rian Fernandez"
-        ],
-        "companies": [
-          "Miss Universe Organization"
-        ],
-        "events": [
-          "Miss Universe 2026"
-        ]
-      },
-      "source_urls": [
-        "https://www.gmanetwork.com/news/lifestyle/shoppingandfashion/1010453/bea-millan-windorski-showcases-golden-seas-of-sulu-at-miss-universe-2026-preliminaries/story/",
-        "https://www.manilatimes.net/2026/11/23/entertainment-lifestyle/show-times/bea-millan-windorski-showcases-golden-seas-of-sulu-gown-at-miss-universe-2026-preliminaries/2475809",
-        "https://x.com/Dainsleif_10/status/2124678879604506671"
-      ],
-      "image": null,
-      "published_at": "2026-11-23",
-      "verified": true,
-      "is_update": false,
-      "notes": null
-    },
-    {
-      "id": "2026-11-23-bodi-me-plus-size-fit-research",
-      "rank": 8,
-      "category": "Fashion tech & AI",
-      "headline": "Bodi.Me fit research: 'plus size' and 'curvy' need different patterns, and size labels vary by up to 46 cm",
-      "summary": "UK sizing-tech firm Bodi.Me presented two years of body-data research on curvy and plus-size wearers in the US, UK and EU at 3DBodyTech 2026 in Lugano. FashionUnited reports its core finding that plus size (a size range) and curvy (a waist-to-hip proportion) are different fit problems that brands often merge, so uniform grading fixes one area and creates excess fabric in another. A cross-brand check found a 2XL chest starting at 100.5 cm at Tom Tailor versus 146 cm at Universal Standard, and the firm argues size-mix data hides fit problems that then repeat in the next production run.",
-      "why_it_matters": "Extended sizes are where model imagery is thinnest; showing each garment on the right body shape is a fit-communication tool, not just a visual.",
-      "influence_score": 5,
-      "engagement": {},
-      "entities": {
-        "brands": [
-          "Tom Tailor",
-          "Universal Standard"
-        ],
-        "people": [
-          "Lara Mazzoni",
-          "Clementine Baldo"
-        ],
-        "companies": [
-          "Bodi.Me"
-        ],
-        "events": [
-          "3DBodyTech 2026"
-        ]
-      },
-      "source_urls": [
-        "https://fashionunited.com/news/fashion/how-better-sizing-eases-the-strain-on-the-fashion-supply-chain/2026112075876"
-      ],
-      "image": null,
-      "published_at": "2026-11-20",
-      "verified": true,
-      "is_update": false,
-      "notes": null
-    },
-    {
-      "id": "2026-11-23-tinker-tailor-ai-creator-platform",
-      "rank": 9,
-      "category": "Fashion tech & AI",
-      "headline": "Moda Operandi co-founder relaunches Tinker Tailor as an AI made-to-order platform for creators",
-      "summary": "BoF reports that Áslaug Magnúsdóttir has relaunched Tinker Tailor as an AI creator platform backed by a $3 million pre-seed round. The made-to-order model gives influencers the design tools and supply chain to launch custom apparel lines, with the aim of cutting inventory waste. Details beyond BoF's summary are behind its paywall.",
-      "why_it_matters": "Creator-led, made-to-order lines have no physical samples to shoot, so they need imagery generated from designs or first units.",
-      "influence_score": 5,
-      "engagement": {},
-      "entities": {
-        "brands": [
-          "Tinker Tailor"
-        ],
-        "people": [
-          "Áslaug Magnúsdóttir"
-        ],
-        "companies": [
-          "Tinker Tailor"
-        ],
-        "events": []
-      },
-      "source_urls": [
-        "https://www.businessoffashion.com/articles/technology/tinker-tailor-relaunch/"
-      ],
-      "image": null,
-      "published_at": "2026-11-19",
-      "verified": true,
-      "is_update": false,
-      "notes": "Verified from BoF headline and standfirst only (paywalled)."
-    },
-    {
-      "id": "2026-11-23-gucci-cruise-2028-shanghai",
-      "rank": 10,
-      "category": "Brands, launches & deals",
-      "headline": "Gucci will show Cruise 2028 in Shanghai, Demna's first show in the city",
-      "summary": "Gucci will stage its Cruise 2028 runway in Shanghai on 17 May 2027, Demna's first show there, timed to the 30th anniversary of the house's first store in the region (Hypebeast). It follows his Cruise debut in New York's Times Square and joins planned China shows by Dior and Zegna. In the same week sacai announced its first Hong Kong runway, for SS27, on 13 December.",
-      "why_it_matters": null,
-      "influence_score": 5,
-      "engagement": {},
-      "entities": {
-        "brands": [
-          "Gucci",
-          "Dior",
-          "Zegna",
-          "sacai"
-        ],
-        "people": [
-          "Demna"
-        ],
-        "companies": [
-          "Kering"
-        ],
-        "events": [
-          "Gucci Cruise 2028"
-        ]
-      },
-      "source_urls": [
-        "https://hypebeast.com/2026/11/gentle-monster-joaquin-phoenix-gucci-beams-adidas-sacai-willy-chavarria"
-      ],
-      "image": null,
-      "published_at": "2026-11-20",
-      "verified": true,
-      "is_update": false,
-      "notes": null
-    }
-  ]
+  {
+   "id": "2026-11-24-bangladesh-wage-talks-stall",
+   "rank": 2,
+   "category": "E-commerce & retail business",
+   "headline": "Bangladesh garment wage talks stall as unrest costs an estimated $428M and moves orders abroad",
+   "summary": "Sourcing Journal (WWD) reports that Bangladesh's minimum wage board failed to agree a new garment-worker wage on Monday after nine and a half hours of talks; an extended session follows on Tuesday. Workers' representatives want 32,000 taka ($257) a month, up from 12,500 taka, while owners call that untenable; the employers' undisclosed offer is said to exceed 14,500 taka. The BGMEA says buyers have moved confirmed orders for 59 million garments ($254M) to other countries, and a survey of 317 factories that halted work for 1-16 days this month puts losses at $428M FOB. Groups whose members include H&M, Gap, Primark, Levi's, Fast Retailing and Inditex have criticised the detention of union leaders.",
+   "why_it_matters": "Sourcing shocks push brands to shorten sampling and shoot cycles; imagery that doesn't wait for physical samples helps absorb late or rerouted production.",
+   "influence_score": 7,
+   "engagement": {},
+   "entities": {
+    "brands": [
+     "H&M",
+     "Gap",
+     "Primark",
+     "Levi's",
+     "Uniqlo",
+     "Zara"
+    ],
+    "people": [],
+    "companies": [
+     "BGMEA",
+     "Inditex",
+     "Fast Retailing",
+     "AAFA",
+     "Fair Labor Association"
+    ],
+    "events": [
+     "Bangladesh minimum wage review 2026"
+    ]
+   },
+   "source_urls": [
+    "https://wwd.com/sourcing-journal/sustainability/bangladesh-minimum-wage-garment-workers-loss-1239463170/"
+   ],
+   "image": null,
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false,
+   "notes": "Article image shows protesters (identifiable people); not stored."
+  },
+  {
+   "id": "2026-11-24-supreme-the-north-face-bones",
+   "rank": 3,
+   "category": "Brands, launches & deals",
+   "headline": "Supreme and The North Face drop a skeleton-print 'Bones' collection on 27 November",
+   "summary": "Supreme's first collection with The North Face in two years puts its Bones graphic on a 700-fill Nuptse puffer, a DryVent Mountain Jacket and matching pant, a pile fleece and a tee, plus a 34.5-litre rolltop backpack, balaclava and touchscreen gloves (Sneaker Bar Detroit). It releases on 27 November in Supreme stores and online. A preview post by @Ovrnundr passed 327,000 views on X within hours, and the campaign stars the Drain Gang collective.",
+   "why_it_matters": "Hype drops sell out on product imagery alone; the Bones graphic wrapping a puffer is exactly the kind of print-placement detail on-model renders must keep exact.",
+   "influence_score": 7,
+   "engagement": {
+    "x_ovrnundr_views": 327086,
+    "x_ovrnundr_likes": 2344,
+    "x_ovrnundr_reposts": 281,
+    "x_ovrnundr_replies": 65
+   },
+   "entities": {
+    "brands": [
+     "Supreme",
+     "The North Face"
+    ],
+    "people": [],
+    "companies": [
+     "VF Corporation",
+     "EssilorLuxottica"
+    ],
+    "events": []
+   },
+   "source_urls": [
+    "https://sneakerbardetroit.com/supreme-the-north-face-bones-collection/",
+    "https://modernnotoriety.com/supreme-the-north-face-bones-release-date/",
+    "https://x.com/Ovrnundr/status/2124834716608025042"
+   ],
+   "image": {
+    "preview_path": "images/2026/11-24/supreme-the-north-face-bones.jpg",
+    "drive_url": "https://drive.google.com/file/d/1oXniDO2nLRv_NWhhtGx3PxUq20epzsMG/view",
+    "drive_file_id": "1oXniDO2nLRv_NWhhtGx3PxUq20epzsMG",
+    "original_url": "https://cdn.supremecommunity.com/supremecommunity/prod/season/fall-winter2026/fall-winter2026-supreme-the-north-face-bones-nuptse-jacket-b6feaeaf.jpg",
+    "width": 1223,
+    "height": 1078,
+    "bytes": 277405
+   },
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false,
+   "notes": "Image is the product shot of the Nuptse (via SupremeCommunity); the campaign image shows people and is not stored."
+  },
+  {
+   "id": "2026-11-24-miu-miu-becky-armstrong",
+   "rank": 4,
+   "category": "Brands, launches & deals",
+   "headline": "Miu Miu names Thai-British actress Becky Armstrong brand ambassador",
+   "summary": "Miu Miu announced on its official X account that Becky Armstrong, the Thai-British actress, is its new brand ambassador. The announcement video drew about 483,000 views and nearly 11,000 likes in 17 hours, and Vogue Thailand's post on the news collected over 2,600 reposts. It extends the Prada Group label's push with Thai talent, whose fan bases routinely drive the highest engagement on luxury posts in the region.",
+   "why_it_matters": null,
+   "influence_score": 7,
+   "engagement": {
+    "x_miumiuofficial_views": 482543,
+    "x_miumiuofficial_likes": 10906,
+    "x_miumiuofficial_reposts": 6566,
+    "x_voguethailand_reposts": 2612
+   },
+   "entities": {
+    "brands": [
+     "Miu Miu"
+    ],
+    "people": [
+     "Becky Armstrong"
+    ],
+    "companies": [
+     "Prada Group"
+    ],
+    "events": []
+   },
+   "source_urls": [
+    "https://x.com/MIUMIUofficial/status/2124791286935007504",
+    "https://x.com/VogueThailand/status/2124791760295801131"
+   ],
+   "image": null,
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false,
+   "notes": "Verified from the brand's official X account; no news article opened. No photo stored (real person)."
+  },
+  {
+   "id": "2026-11-24-connor-storrie-vogue-best-dressed",
+   "rank": 5,
+   "category": "Celebrity & red carpet",
+   "headline": "Vogue picks 'Heated Rivalry' star Connor Storrie for its 2026 Best Dressed cover",
+   "summary": "Vogue named actor Connor Storrie, a Saint Laurent ambassador, its 2026 Best Dressed digital cover star, recapping a year that ran from a sharp-shouldered suit at the Golden Globes to a polka-dot halter top at the Met and PVC boots front row at Saint Laurent. In the Collier Schorr shoot, styled by Spencer Singer, he wears Loewe, Prada, Gucci, Versace, Loro Piana, Miu Miu, Calvin Klein Collection and The Row, often with Falke socks and Church's shoes. Pop Base's cover post passed 439,000 views on X, and several fan and film accounts drove another million-plus.",
+   "why_it_matters": null,
+   "influence_score": 7,
+   "engagement": {
+    "x_popbase_views": 439082,
+    "x_popbase_likes": 23024,
+    "x_popbase_reposts": 2019,
+    "x_filmupdates_views": 318447,
+    "x_filmupdates_likes": 19905
+   },
+   "entities": {
+    "brands": [
+     "Saint Laurent",
+     "Loewe",
+     "Prada",
+     "Gucci",
+     "Versace",
+     "Loro Piana",
+     "Miu Miu",
+     "The Row",
+     "Calvin Klein"
+    ],
+    "people": [
+     "Connor Storrie"
+    ],
+    "companies": [
+     "Condé Nast"
+    ],
+    "events": [
+     "Vogue Best Dressed 2026"
+    ]
+   },
+   "source_urls": [
+    "https://www.vogue.com/article/connor-storrie-best-dressed-2026-digital-cover",
+    "https://x.com/PopBase/status/2124854498384302445",
+    "https://x.com/FilmUpdates/status/2124853760375529564"
+   ],
+   "image": null,
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false,
+   "notes": "No photo stored (real person)."
+  },
+  {
+   "id": "2026-11-24-chiara-ferragni-netflix-doc",
+   "rank": 6,
+   "category": "Social trends (X/TikTok)",
+   "headline": "Chiara Ferragni's Netflix documentary 'Chiara' lands and puts her back at the top of Italian X",
+   "summary": "'Chiara', the documentary in which the Italian influencer-entrepreneur tells her side of the past three years, began streaming on Netflix on 23 November (DonnaGlamour, citing SkyTG24). In a Vanity Fair interview tied to the launch she called the pandoro charity-sales operation a mistake for which she, as CEO, was responsible (Il Giorno). 'Ferragni' was among Italy's top X trends overnight, with one post about the film passing 283,000 views; reactions are split between sympathy and accusations of self-justification.",
+   "why_it_matters": null,
+   "influence_score": 6,
+   "engagement": {
+    "x_trending_italy": "Ferragni in Italy trending list",
+    "x_fabiana_views": 283019,
+    "x_fabiana_likes": 3704
+   },
+   "entities": {
+    "brands": [
+     "Chiara Ferragni"
+    ],
+    "people": [
+     "Chiara Ferragni"
+    ],
+    "companies": [
+     "Netflix"
+    ],
+    "events": []
+   },
+   "source_urls": [
+    "https://www.donnaglamour.it/chiara-ferragni-quando-esce-documentario-netflix-data/people/amp/",
+    "https://www.ilgiorno.it/cronaca/chiara-ferragni-pandoro-operazione-sbagliata-con-fedez-mi-sentivo-sola-non-vivo-piu-per-lapplauso-della-gente-hfb86bwi",
+    "https://x.com/__Fabiana___/status/2124887532164796467"
+   ],
+   "image": null,
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false,
+   "notes": "No photo stored (real person)."
+  },
+  {
+   "id": "2026-11-24-nrf-thanksgiving-weekend-ai-shopping",
+   "rank": 7,
+   "category": "E-commerce & retail business",
+   "headline": "NRF expects fewer Thanksgiving-weekend shoppers, but 59% plan to use AI to shop this season",
+   "summary": "The National Retail Federation now expects 182.7 million people to shop over Thanksgiving weekend, down more than 2% on last year, as long pre-Black Friday sales pull spending forward (Retail Dive). Its survey of nearly 8,000 consumers found 59% plan to use AI to shop, mainly for product recommendations (32%) and gift ideas (31%), while 82% are reining in holiday budgets. Circana sees fourth-quarter holiday sales anywhere from -1% to +2.5% year over year.",
+   "why_it_matters": "With most shoppers asking AI what to buy, product pages need imagery and data that assistants can parse and trust, not just human-facing banners.",
+   "influence_score": 6,
+   "engagement": {},
+   "entities": {
+    "brands": [
+     "Walmart",
+     "Amazon",
+     "Target"
+    ],
+    "people": [],
+    "companies": [
+     "National Retail Federation",
+     "Prosper Insights & Analytics",
+     "Circana"
+    ],
+    "events": [
+     "Black Friday 2026",
+     "Cyber Monday 2026"
+    ]
+   },
+   "source_urls": [
+    "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/"
+   ],
+   "image": null,
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false,
+   "notes": "Article image is a stock photo of shoppers; not stored."
+  },
+  {
+   "id": "2026-11-24-debenhams-whatsapp-ai-gift-finder",
+   "rank": 8,
+   "category": "Fashion tech & AI",
+   "headline": "Debenhams Group launches a Meta-powered AI Gift Finder inside WhatsApp",
+   "summary": "Debenhams Group, which also runs boohoo, Karen Millen, PrettyLittleThing and Man, has launched a Gift Finder on WhatsApp built with Meta's AI (FashionNetwork). Shoppers arrive from Facebook and Instagram ads or a QR code, tell a business agent who they are buying for, their budget and preferences, and get recommendations plus a link to a pre-filled Debenhams basket. CEO Dan Finley frames it as in-store-style assistance on a platform customers already use.",
+   "why_it_matters": "Conversational shopping shows a handful of products at thumbnail size in a chat; each SKU's lead image has to sell on its own.",
+   "influence_score": 6,
+   "engagement": {},
+   "entities": {
+    "brands": [
+     "Debenhams",
+     "boohoo",
+     "Karen Millen",
+     "PrettyLittleThing"
+    ],
+    "people": [
+     "Dan Finley"
+    ],
+    "companies": [
+     "Debenhams Group",
+     "Meta"
+    ],
+    "events": [
+     "Christmas 2026"
+    ]
+   },
+   "source_urls": [
+    "https://ww.fashionnetwork.com/news/Debenhams-launches-ai-powered-gift-finder-on-whatsapp,1887542.html"
+   ],
+   "image": null,
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false,
+   "notes": "Campaign image shows models; not stored."
+  },
+  {
+   "id": "2026-11-24-mysize-going-concern",
+   "rank": 9,
+   "category": "Fashion tech & AI",
+   "headline": "Sizing-AI company MySize posts a 28% revenue drop and flags going-concern doubts",
+   "summary": "Israel's MySize, which sells AI sizing software alongside fashion e-commerce and resale, reported third-quarter revenue down about 28% to $1.86M and a net loss of $1.80M, mainly on lower Amazon sales from thin inventory (Oui Speak Fashion). Its SaaS revenue grew 25% to $240,000 at roughly 82% gross margin and resale rose about 19%, but the company says current cash may not fund the next 12 months, raising substantial doubt about its ability to continue as a going concern.",
+   "why_it_matters": "A reminder that fit-tech buyers will scrutinise vendor stability; standalone AI tools with small SaaS lines struggle when bundled with low-margin retail.",
+   "influence_score": 5,
+   "engagement": {},
+   "entities": {
+    "brands": [],
+    "people": [],
+    "companies": [
+     "MySize",
+     "Amazon"
+    ],
+    "events": []
+   },
+   "source_urls": [
+    "https://ouispeakfashion.com/mysize-q3-2026-results-going-concern"
+   ],
+   "image": null,
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false,
+   "notes": "Results released 20 Nov; article published 23 Nov. Article image shows models; not stored."
+  },
+  {
+   "id": "2026-11-24-phoebe-philo-dover-street-market-la",
+   "rank": 10,
+   "category": "Brands, launches & deals",
+   "headline": "Phoebe Philo opens a shop-in-shop at Dover Street Market Los Angeles",
+   "summary": "Phoebe Philo opened a dedicated space at Dover Street Market's downtown LA store on Monday, carrying ready-to-wear, leather goods, shoes and accessories from Collection E plus earlier pieces; Collection F arrives in early 2027 (WWD). The fit-out uses brushed steel rails, cherry-wood vitrines and Douglas fir shelving. It joins her DSM shops in London, New York, Ginza and Singapore; Philo remains majority owner, with LVMH holding a minority stake.",
+   "why_it_matters": null,
+   "influence_score": 5,
+   "engagement": {},
+   "entities": {
+    "brands": [
+     "Phoebe Philo",
+     "Dover Street Market"
+    ],
+    "people": [
+     "Phoebe Philo"
+    ],
+    "companies": [
+     "LVMH"
+    ],
+    "events": []
+   },
+   "source_urls": [
+    "https://wwd.com/fashion-news/fashion-scoops/phoebe-philo-dover-street-market-los-angeles-shop-1239463038/"
+   ],
+   "image": {
+    "preview_path": "images/2026/11-24/phoebe-philo-dover-street-market-la.jpg",
+    "drive_url": "https://drive.google.com/file/d/1gALcCQJUQaMShJPhgR1qLB8dfPXfUnJ3/view",
+    "drive_file_id": "1gALcCQJUQaMShJPhgR1qLB8dfPXfUnJ3",
+    "original_url": "https://wwd.com/wp-content/uploads/2026/11/PP_DSM_LA_3X4.jpg",
+    "width": 1080,
+    "height": 1440,
+    "bytes": 179250
+   },
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false
+  },
+  {
+   "id": "2026-11-24-rihanna-lady-dior-campaign-x",
+   "rank": 11,
+   "category": "Celebrity & red carpet",
+   "headline": "Rihanna's Lady Dior 2027 campaign is still one of the most-shared luxury images on X",
+   "summary": "Rihanna fronts Dior's 2027 Lady Dior campaign, shot by Sam Rock under Jonathan Anderson's creative direction, in portraits alone and with her youngest child (Hypebae, 19 November). The imagery kept circulating over the weekend: a post pairing her with singer Tyla 'for Dior' passed 890,000 views on X, and campaign posts by fan accounts added hundreds of thousands more. She has also been the face of Dior's J'adore fragrance since 2024.",
+   "why_it_matters": null,
+   "influence_score": 5,
+   "engagement": {
+    "x_amacvkaiu_views": 891777,
+    "x_amacvkaiu_likes": 15007,
+    "x_gabgonebad_views": 86911,
+    "x_robynement_views": 78605
+   },
+   "entities": {
+    "brands": [
+     "Dior",
+     "Lady Dior"
+    ],
+    "people": [
+     "Rihanna",
+     "Jonathan Anderson",
+     "Sam Rock",
+     "Tyla"
+    ],
+    "companies": [
+     "LVMH"
+    ],
+    "events": []
+   },
+   "source_urls": [
+    "https://hypebae.com/2026/11/rihanna-lady-dior-bags-campaign-daughter-rocki-jonathan-anderson-sam-rock-information",
+    "https://x.com/Amacvkaiu/status/2124693679382118632",
+    "https://x.com/gabgonebad/status/2124666427697512634"
+   ],
+   "image": null,
+   "published_at": "2026-11-19",
+   "verified": false,
+   "is_update": false,
+   "notes": "Campaign verified (Hypebae); the X post's pairing of Tyla with Dior is an unverified social claim (no news source found). No photos stored (real people, includes a minor)."
+  },
+  {
+   "id": "2026-11-24-next-supplier-cyber-breach",
+   "rank": 12,
+   "category": "E-commerce & retail business",
+   "headline": "Next says an online supplier was hacked but customer data appears safe",
+   "summary": "UK retailer Next said on Monday that a third-party online supplier suffered a cyber incident giving attackers access to some data relating to the company, adding that current evidence shows no customer personal data was compromised and the information cannot be used for fraud (Reuters via FashionNetwork). It is the latest in a run of UK retail cyber incidents, after last year's attack that halted Marks & Spencer's online sales for about six weeks.",
+   "why_it_matters": null,
+   "influence_score": 5,
+   "engagement": {},
+   "entities": {
+    "brands": [
+     "Next",
+     "Marks & Spencer"
+    ],
+    "people": [],
+    "companies": [
+     "Next plc"
+    ],
+    "events": []
+   },
+   "source_urls": [
+    "https://ww.fashionnetwork.com/news/Uk-s-next-flags-cyber-breach-at-online-supplier-says-no-customer-data-compromised,1887412.html",
+    "https://www.businessoffashion.com/news/retail/next-supplier-hit-by-cyberattack/"
+   ],
+   "image": null,
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false
+  },
+  {
+   "id": "2026-11-24-interline-straight-lines-ai",
+   "rank": 13,
+   "category": "Fashion tech & AI",
+   "headline": "The Interline: Straight Lines AI argues fashion needs AI image platforms, not one-off tools",
+   "summary": "In The Interline's 'All About AI' series, Dale Kort of Straight Lines AI says fashion should no longer accept generative tools that 'just hallucinate sometimes' or that make teams sift many outputs to find one usable image. He pitches a platform layered over several foundation models with fashion-specific controls for colour accuracy, material rendering, construction details and consistency across a line, plus plugins, open APIs and integration with existing 3D pipelines.",
+   "why_it_matters": "Same buyer objection On-Model faces daily: consistency and garment fidelity, not novelty, decide enterprise AI imagery deals.",
+   "influence_score": 4,
+   "engagement": {},
+   "entities": {
+    "brands": [],
+    "people": [
+     "Dale Kort"
+    ],
+    "companies": [
+     "Straight Lines AI",
+     "The Interline"
+    ],
+    "events": []
+   },
+   "source_urls": [
+    "https://www.theinterline.com/2026/11/23/all-about-ai-dale-kort-of-straight-lines-ai/"
+   ],
+   "image": {
+    "preview_path": "images/2026/11-24/interline-straight-lines-ai.jpg",
+    "drive_url": "https://drive.google.com/file/d/19X1K-YOrAY7WS6TGBYkCSV-yU750LQeV/view",
+    "drive_file_id": "19X1K-YOrAY7WS6TGBYkCSV-yU750LQeV",
+    "original_url": "https://www.theinterline.com/wp-content/uploads/2026/11/Dale-Straight-Lines-Header.jpg",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 217948
+   },
+   "published_at": "2026-11-23",
+   "verified": true,
+   "is_update": false
+  }
+ ]
 }
