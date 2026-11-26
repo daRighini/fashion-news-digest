@@ -1,207 +1,146 @@
-# Fashion news digest – 25 November 2026
+# Fashion news digest – 26 November 2026
+
+_Reduced run: X and TikTok were not checked (the browser connector needs reconnecting), and no images could be saved. 8 items from news sources only._
 
 ## Top of the night
 
-1. Vogue Business: SSENSE ties staff cuts to its switch to AI virtual try-on, and designers say inaccurate AI product images cost them sales.
-2. Agentic commerce spreads: Meta's Muse launches in the UK with Debenhams, JD Sports, M&S and ASOS; Walmart opens Black Friday deals to Muse.
-3. On X: Vogue Korea's Best Dressed 2026 (BTS post 171K views) and Jungkook's Chanel Beauty video (110K views within the hour) lead fashion talk.
+1. The US proposes new Section 301 tariffs on 14 economies, up to 35% on Vietnam and 18% on Bangladesh and Cambodia, naming garments and footwear; nothing applies before late January.
+2. Shein's adjusted Q3 profit rises ~27% to $790M despite a 27.6% fall in European revenue after the EU scrapped duty-free parcels.
+3. Veruschka, the 1960s supermodel of 'Blow-Up', dies at 87; Adobe says AI-referred retail traffic is up 127% heading into Thanksgiving.
 
 ## Fashion tech & AI
 
-### 1. Vogue Business: SSENSE confirms a move to virtual try-on as designers count the cost of inaccurate AI product images (update)
+### 4. Adobe: AI-referred visits to US retail sites are up 127% this season, ahead of a $6.9B Thanksgiving
 
-A Vogue Business feature on fashion's growing problem with synthetic images adds new detail to the SSENSE case: the retailer told the outlet that June job changes in its visual content team were made to prepare for its move to AI virtual try-on (VTON), admitted recent imagery got product details wrong, and said it has tightened quality controls, without confirming AI caused the errors. Reese Cooper says the images showed his trademarked hook at twice its size and that pulling them also removed the items from sale, hurting his sell-through. A lawyer notes most wholesale agreements say nothing about AI-generated product imagery; the piece also covers the AI-faked Jensen Huang Saint Laurent jacket images.
+US shoppers spent more than $82.5 billion online from 1 to 22 November, up 9.1% year on year, according to Adobe Analytics, with two days already above $4 billion. Visits referred by AI tools to US retailer sites are up 127%, and Adobe expects jumps of 159% on Thanksgiving and 95% on Black Friday; it forecasts $47.5 billion for the Cyber 5 period, with Black Friday at $12.9 billion and Thanksgiving at $6.9 billion. Salesforce separately expects $75.8 billion of $357 billion in global Cyber Week sales to be influenced by AI tools, including agents.
 
-**Why it matters for On-Model/PiktID:** The clearest statement yet of the buyer's fear On-Model must answer: garment and logo fidelity are a contractual and sell-through issue, not just aesthetics.
+**Why it matters for On-Model/PiktID:** AI assistants are now a real traffic source; brands need product images and data that read well to agents and convert when the shopper lands.
 
-Sources: [vogue.com](https://www.vogue.com/article/the-year-fashion-fakes-became-too-real)
+Sources: [digitalcommerce360.com](https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/)
 
-Influence score: 9/10 · Engagement seen: none visible · Published: 2026-11-24
+Influence score: 7/10 · Engagement seen: none visible · Published: 2026-11-25
 
-_Note: Follow-up to the SSENSE item of 22 Nov: new SSENSE statement and designer/legal reaction. Article art includes photos of real people; not stored._
+_Note: No apparel-specific figures given. Lead image not checked; not stored._
 
-### 2. Meta's Muse shopping agent lands in the UK with Debenhams, JD Sports, M&S and ASOS, and gets Walmart's Black Friday deals in the US
+### 6. Callimacus launches 'Magic', a self-serve AI site builder that rebuilds a fashion brand's website from its URL
 
-Meta has launched its Muse personal agent in the UK with retail connector partners including Debenhams Group (Debenhams, boohoo, Karen Millen, PrettyLittleThing), JD Sports, M&S and ASOS; shoppers describe what they want, the agent searches and compares, and it checks out only after approval (FashionNetwork). In the US, Walmart now lets Muse users shop its Black Friday deals through its Agent Gateway, with spending limits, purchase approval and no access to shopping history (TechCrunch). TechCrunch notes Amazon has taken the opposite route, blocking third-party agents.
+Callimacus has released Magic, a self-serve version of its composable website framework for fashion brands (The Interline). A brand enters its current web address and gets a new 'pageless' preview within hours, which it can adapt with natural-language prompts; the trial is free and paid plans publish to the brand's own domain or a subdomain. It connects to Salesforce Commerce Cloud, Shopify and WordPress, and The Interline links the concept to Solomei AI, the Brunello Cucinelli spin-out.
 
-**Why it matters for On-Model/PiktID:** Agents now browse fashion catalogues on the shopper's behalf; product images and attributes must be accurate enough for a machine to choose and a human to approve.
+**Why it matters for On-Model/PiktID:** Prompt-built storefronts will need a steady feed of on-brand imagery; a potential integration or co-marketing partner for On-Model.
 
-![Meta's Muse shopping agent lands in the UK with Debenhams, JD Sports, M&S and ASOS, and gets Walmart's Black Friday deals in the US](images/2026/11-25/meta-muse-uk-walmart.jpg)
+Image (not stored, link only): [theinterline.com](https://www.theinterline.com/wp-content/uploads/2026/11/callimacus-magic.jpg) (internal reference only)
 
-[Full resolution](https://drive.google.com/file/d/1mocBEk3jf-kK7mzacpNsbK0xYBs9Vbcd/view) · image source: [techcrunch.com](https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png) (internal reference only)
+Sources: [theinterline.com](https://www.theinterline.com/2026/11/25/callimacus-magic-composable-fashion-websites/)
 
-Sources: [fashionnetwork.com](https://ww.fashionnetwork.com/news/Debenhams-and-jd-sports-are-launch-partners-as-meta-s-muse-ai-agent-arrives-in-uk,1887683.html) · [techcrunch.com](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)
+Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-25
 
-Influence score: 8/10 · Engagement seen: none visible · Published: 2026-11-24
+_Note: Image is a supplied UI screenshot (credit: Callimacus); link kept, not downloaded (workspace network blocked)._
 
-_Note: Image credit: Walmart (via TechCrunch); shows hands only. Full-resolution file kept in its original WebP format._
+### 7. IFM's FashionReboot: L'Oreal chases AI-answer citations and LVMH tracks its AI footprint
 
-### 8. Authentic Brands Group plugs its licensees into Genesys, an AI platform that lists products on 400+ marketplaces
+FashionUnited's recap of four AI sessions at the Institut Francais de la Mode's FashionReboot 2026 conference: L'Oreal's global head of search said the group (40 brands, 700 websites) now optimises to be cited in AI answers and is testing in-AI purchasing with Google and OpenAI in the US. LVMH's VP of AI transformation said the group measures its AI footprint internally, and better forecasting let one beauty brand move shipments from air to sea. A final panel on image production raised copyright and image homogenisation concerns.
 
-Authentic Brands Group, owner of Reebok, Champion, Lucky Brand and Dockers, is partnering with Genesys so its 1,700+ licensees and partners can sell on more than 400 marketplaces in 190 countries through a single integration (Sourcing Journal). Genesys uses AI to automate listings, pricing, order processing and compliance; Authentic says an integration can go live within 24 hours and cut catalogue production costs. The deal follows Authentic's purchase of O'Neill's IP this week.
+**Why it matters for On-Model/PiktID:** Big luxury and beauty groups are worried about AI imagery looking generic; brand-consistent, controllable output is the counter-argument.
 
-**Why it matters for On-Model/PiktID:** Licensee catalogues pushed to hundreds of marketplaces need on-model imagery at scale; a platform partner like Genesys is a natural integration target.
+Sources: [fashionunited.uk](https://fashionunited.uk/news/business/effectively-integrating-ai-into-fashion-ifm-takeaways/2026112491510)
 
-Sources: [wwd.com](https://wwd.com/sourcing-journal/industry-news/authentic-brands-group-genesys-ai-partnership-1239464339/)
+Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-24
 
-Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-24
-
-_Note: Article image is an event photo with people; not stored._
-
-### 9. New ShellBench benchmark: top AI agents fail more than a third of everyday tasks people delegate to them
-
-ShellBench, built by researchers from The OpenClaw Foundation, Parsewave, Hugging Face, Red Hat and UC Berkeley on more than 10 million anonymised agent interactions, found even the best models from OpenAI, Anthropic and Meta failed over a third of everyday tasks, and 15.7% of attempts broke at least one safety requirement (TechCrunch). Results were also inconsistent across repeated runs. It lands as Muse, Dots and Claude Duet are being pitched as shopping agents.
-
-**Why it matters for On-Model/PiktID:** A counterweight to the agentic-commerce hype; brands will still need clean, accurate product data and images for agents to get purchases right.
-
-Sources: [techcrunch.com](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)
-
-Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-24
-
-_Note: Article image not checked for people; not stored._
+_Note: Published 24 Nov 06:00 UTC, just before this window; not in earlier digests. Conference photos; not stored._
 
 ## E-commerce & retail business
 
-### 5. Bangladesh unions reject a 15,700-taka wage offer as clashes continue; watchdog names Primark and Next supplier in union-busting report (update)
+### 1. US proposes new Section 301 tariffs on 14 economies, with apparel hubs Vietnam, Bangladesh and Cambodia named
 
-Worker representatives on Bangladesh's wage committee rejected employers' offer of a 15,700-taka (about EUR115) monthly minimum against a demand of 22,000 taka (about EUR160); the committee chair said the gap had narrowed, and workers blocking roads in Gazipur clashed with security forces (AFP via FashionNetwork). Separately, the Worker Rights Consortium published a report calling Libas Textiles, a Fresh Group knitwear factory in Gazipur, the decade's most severe case of union repression at a single Bangladeshi factory; it says the plant still produces for Aldi South, Next and Primark (Sourcing Journal).
+USTR Jamieson Greer found that 'structural excess capacity' practices in 14 economies are actionable under Section 301 and proposed extra tariffs: up to 35% on Vietnam (20% with a deal), up to 25% on India (17% with a deal), up to 20% on China and Singapore, up to 18% on Bangladesh, Cambodia, Indonesia, Malaysia and Thailand, and 15% caps for the EU, Japan, Korea, Switzerland and Taiwan. USTR singles out ready-made garments for Bangladesh, apparel for Cambodia, textiles and apparel for Indonesia, and textiles, apparel and footwear for Vietnam. Nothing takes effect yet: comments are due 5 January 2027 and hearings start 25 January 2027, and Flexport notes final rates could differ.
 
-Sources: [fashionnetwork.com](https://ww.fashionnetwork.com/news/Bangladesh-s-textile-unions-reject-employers-wage-increase-offer,1887861.html) · [wwd.com](https://wwd.com/sourcing-journal/sustainability/worker-rights-consortium-libas-textiles-primark-next-1239465329/)
+**Why it matters for On-Model/PiktID:** Sourcing-cost pressure on brands buying from Asia squeezes content budgets too; cheaper, faster product imagery becomes an easier sell in 2027 planning.
 
-Influence score: 7/10 · Engagement seen: none visible · Published: 2026-11-24
+Image (not stored, link only): [ustr.gov](https://ustr.gov/sites/default/files/2026-11/Meta%20Tag_7.png) (internal reference only)
 
-_Note: Update to the 24 Nov item on stalled wage talks: first figures from the negotiating table, plus the WRC report. News photos show protesters; not stored._
+Sources: [ustr.gov](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural) · [flexport.com](https://www.flexport.com/blog/ustr-proposes-section-301-tariffs-on-14-economies/)
 
-### 7. Abercrombie & Fitch posts a record third quarter and raises its holiday outlook
+Influence score: 9/10 · Engagement seen: none visible · Published: 2026-11-25
 
-Abercrombie & Fitch Co. grew net sales 11% to $1.4 billion in the quarter to 31 October, with comparable sales up 6% and operating margin rising to 15.5% from 12% (FashionNetwork). Hollister grew 11% to $746.6 million and the Abercrombie brands 12% to $688.8 million; APAC sales rose 24%. The company now expects about 7% growth in the fourth quarter, citing fewer promotions and disciplined inventory.
+_Note: Also covered by CNBC and Sourcing Journal (not readable this run). Image link is USTR's share graphic, not downloaded (workspace network blocked)._
 
-Sources: [fashionnetwork.com](https://ww.fashionnetwork.com/news/Abercrombie-fitch-co-sees-net-sales-climb-11-to-1-4-billion-in-q3,1887818.html) · [wwd.com](https://wwd.com/business-news/retail/abercrombie-fitch-q3-raised-outlook-1239463752/)
+### 2. Shein's Q3 profit rises as cost cuts offset a 28% drop in European revenue
 
-Influence score: 6/10 · Engagement seen: none visible · Published: 2026-11-24
+Shein's net revenue fell 5.9% to $10.3 billion in the quarter to September, but adjusted net profit rose about 27% to $790 million and adjusted EBIT 45.6% to $948 million as operating costs fell 7.1%. Europe revenue dropped 27.6% to EUR2.98 billion after the EU removed the EUR150 duty exemption and added a EUR3 duty per item category; US revenue fell 9.4% to $2.37 billion, while active customers grew to 291 million from 265 million. Management expects Europe to stay under pressure from the EU's new EUR2 handling fee (from 1 November) and is shifting to local fulfilment, which covered over 40% of European deliveries. Reported net profit of $4.65 billion includes a large non-cash fair-value gain.
 
-_Note: Article image shows models; not stored._
+**Why it matters for On-Model/PiktID:** Ultra-fast fashion is now margin-led, not volume-led; leaner catalogue operations and cheaper per-SKU imagery are part of that playbook.
 
-### 10. Kohl's returns to growth in Q3 on private labels, while Sephora shop-in-shops slip
+Sources: [investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-shein-q3-2026-profit-rises-as-europe-weighs-on-sales-93CH-5050483) · [aastocks.com](https://www.aastocks.com/en/stocks/news/aafn-con/now.1556584/latest-news)
 
-Kohl's net sales rose 1.3% to $3.5 billion with comparable sales up 1.2%, net income jumped to $254 million and gross margin widened 145 basis points to 41% (Retail Dive). Proprietary brands and store improvements drove gains, but Sephora shop-in-shops fell nearly 2%; CEO Michael Bender defended the partnership as a traffic driver.
+Influence score: 8/10 · Engagement seen: none visible · Published: 2026-11-25
 
-Sources: [retaildive.com](https://www.retaildive.com/news/kohls-turns-corner-q3-sephora-falls/875593/) · [fashionnetwork.com](https://ww.fashionnetwork.com/news/Kohl-s-returns-to-sales-growth-as-turnaround-gains-strength-in-q3,1887768.html)
+_Note: FashionNetwork also covered it (not readable this run). Investing.com lead image is a Reuters photo; not stored._
 
-Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-24
+### 5. Bangladesh sets a 36% higher garment minimum wage; unions say it falls short (update)
 
-### 11. Retailers head into Black Friday wary of outages as AI speeds up the discovery of software flaws
+Bangladesh's garment wage board agreed on 25 November to raise the minimum monthly wage from 12,500 to 17,000 taka (about $137), a 36% rise, with higher grades up to 21,500 taka; it applies from December, with new pay from January (FashionUnited; Al Jazeera, which cites 17,500 taka). Workers had demanded 30,000-32,000 taka, and the Clean Clothes Campaign called the rise insufficient and urged brands to raise purchase prices. The labour representative on the board urged workers back to factories after weeks of protests that the BGMEA says cost an estimated $428 million.
 
-After a run of lengthy outages at Microsoft, JPMorgan Chase, United Airlines, Apple and others, retailers are weighing the usual holiday code freeze against urgent patches for vulnerabilities that AI tools now find faster (Retail Dive). Gartner's Brad Jashinsky says most retailers avoid releases in this period but cannot wait when such a flaw appears; Gartner's CIO survey shows retail IT budgets up only 3.5%.
+Sources: [fashionunited.uk](https://fashionunited.uk/news/business/new-bangladesh-minimum-wage-falls-short-of-workers-demands-prompts-renewed-protests/2026112591556) · [aljazeera.com](https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest)
 
-Sources: [retaildive.com](https://www.retaildive.com/news/black-friday-retailers-tech-outages-ai/875541/)
+Influence score: 7/10 · Engagement seen: none visible · Published: 2026-11-25
 
-Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-24
+_Note: Update to the 24 and 25 Nov items: the wage is now set. Sources differ on the headline figure (17,000 vs 17,500 taka) and on the demand (30,000 vs 32,000). News photos show workers; not stored._
 
-_Note: Article image shows shoppers; not stored._
+### 8. The Interline: measure Black Friday by incremental demand, not the sales spike
+
+In an Interline opinion piece, Pattern's Luke Elliott argues headline Black Friday sales don't show whether promotions created demand or just pulled it forward. He suggests October as a baseline, measuring through mid-January, comparing Amazon with the brand's own site, finding the minimum effective discount per SKU and tracking whether promo buyers come back at full price. He also flags the EU's lowest-30-day-price rule as a timing constraint.
+
+Sources: [theinterline.com](https://www.theinterline.com/2026/11/25/beyond-the-sales-spike-measuring-black-fridays-value-for-fashion-brands/)
+
+Influence score: 4/10 · Engagement seen: none visible · Published: 2026-11-25
+
+_Note: Opinion piece. Lead image not checked; not stored._
 
 ## Brands, launches & deals
 
-### 4. Marc Jacobs made $509M in its last full year under LVMH, and most of the sale price went to repay LVMH loans
-
-An SEC filing reported by WWD shows Marc Jacobs had 2025 revenue of $509 million, operating profit of $106.8 million and comprehensive income of $71.1 million. Of the roughly $900 million paid by G-III Apparel Group and WHP Global for the brand, $525 million went to repay loans owed to LVMH. Licensing brought in $32.1 million; the new owners plan to keep Marc Jacobs' runway shows, revive Marc by Marc Jacobs and expand licensing.
-
-**Why it matters for On-Model/PiktID:** A licensing-led reset means more product categories and licensees producing content; scalable, consistent catalogue imagery becomes a licensing tool.
-
-Sources: [wwd.com](https://wwd.com/business-news/financial/marc-jacobs-giii-whp-global-revenue-strategy-1239464631/)
-
-Influence score: 7/10 · Engagement seen: none visible · Published: 2026-11-24
-
-_Note: Article image is a backstage photo with people; not stored._
-
-### 12. Jacquemus and Moon Boot release felt Icon Low boots today, their third collaboration
-
-Jacquemus and Moon Boot release two felt versions of the Icon Low on 25 November, in 'Cardinal' red and 'Java' brown with beige felt laces and gold hardware, alongside earlier Icon Yeti and striped-felt styles (WWD/FN). They sell on Jacquemus.com, in Jacquemus stores, at selected retailers and on Moonboot.com; Moon Boot also dropped collaborations with Moncler Grenoble and Guest in Residence this month.
-
-![Jacquemus and Moon Boot release felt Icon Low boots today, their third collaboration](images/2026/11-25/jacquemus-moon-boot-felt-icon-low.jpg)
-
-[Full resolution](https://drive.google.com/file/d/1mOb1OwHCZji8X_hvLID2QmNtaQC2YJ52/view) · image source: [wwd.com](https://wwd.com/wp-content/uploads/2026/11/JACQUEMUS-MOON-BOOTS_45_STILLS_1.jpg) (internal reference only)
-
-Sources: [wwd.com](https://wwd.com/footwear-news/shoe-industry-news/jacquemus-moon-boot-icon-low-felt-release-date-1239464764/)
-
-Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-24
-
-_Note: Product still courtesy of Jacquemus (via WWD). The article's lead image includes a model and was not stored._
-
-### 13. El Corte Inglés widens its Skims rollout and adds NikeSkims in Madrid and Barcelona
-
-Spain's El Corte Inglés is adding the NikeSkims activewear line to its Castellana (Madrid) and Plaza de Cataluña (Barcelona) stores and online, after earlier Skims launches in Madrid's Serrano and Marbella; it is the line's exclusive multibrand stockist in Spain, alongside Nike's own stores (FashionNetwork). The range covers training, yoga, Pilates, outdoor and everyday pieces.
-
-![El Corte Inglés widens its Skims rollout and adds NikeSkims in Madrid and Barcelona](images/2026/11-25/nikeskims-el-corte-ingles.jpg)
-
-[Full resolution](https://drive.google.com/file/d/1g4Az8OQusL6WXyFIruvGXyscuaFnYDLE/view) · image source: [media.fashionnetwork.com](https://media.fashionnetwork.com/m/7717/8964/1818/446a/b094/aba8/aefe/7ff0/b0eb/05b6/05b6.png) (internal reference only)
-
-Sources: [fashionnetwork.com](https://ww.fashionnetwork.com/news/El-corte-ingles-deepens-its-partnership-with-skims-launches-label-s-joint-collection-with-nike,1887765.html)
-
-Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-24
-
-_Note: Store image courtesy of El Corte Inglés (via FashionNetwork); mannequins only._
+_No qualifying items tonight._
 
 ## Celebrity & red carpet
 
-### 3. Vogue Korea's 'Best Dressed 2026' lists set off a wave of K-pop fashion posts on X
+### 3. Veruschka, the 1960s supermodel of 'Blow-Up' and 13 American Vogue covers, dies at 87
 
-Vogue Korea published a set of 'Best Dressed 2026' stories on 24 November. Its 'Korean stars on the world stage' list includes G-Dragon at Coachella in a Chanel fall/winter 2026 fur coat by Matthieu Blazy, Jennie in a custom Ann Demeulemeester look at Lollapalooza Chicago, Rosé in a gold Saint Laurent spring 2027 look at the CFDA Awards, Jisoo in Dior at the Cruise 2027 show, Lisa in an Iris van Herpen 'Omen' look at Coachella, BTS's Paris tour outfits by six houses (Gucci, Dior, Balenciaga, Celine, Louis Vuitton, Givenchy), CORTIS, ILLIT's Wonhee in Chanel and TWICE's Sana in a minimal black Prada dress. Fan and news accounts pushed the picks across X overnight.
+German model Vera von Lehndorff, known as Veruschka, died at home in Berlin on 24 November, her sister confirmed. Discovered in Florence in 1959, she became one of the best-paid models of her era, shot by Richard Avedon and Irving Penn, appeared on 13 American Vogue covers and played herself in Antonioni's 1966 film 'Blow-Up'. From the mid-1970s she worked on body-painting photography with artist Holger Truelzsch, and returned to the runway for Giles Deacon in 2011. Ground News counts more than 100 outlets covering her death; photographer Nigel Barker and former partner Franco Rubartelli posted tributes.
 
-Sources: [vogue.co.kr](https://www.vogue.co.kr/2026/11/24/2026-%eb%b2%a0%ec%8a%a4%ed%8a%b8-%eb%93%9c%eb%a0%88%ec%84%9c-%ec%84%b8%ea%b3%84-%ec%86%8d-%ed%95%9c%ea%b5%ad-%ec%85%80%eb%9f%bd/) · [x.com](https://x.com/AboutMusicYT/status/2125161250183077974) · [x.com](https://x.com/AboutMusicYT/status/2125163766727737837) · [x.com](https://x.com/TheePopCore/status/2125173774370881818) · [x.com](https://x.com/TheePopCore/status/2125179730920185886)
+Sources: [yahoo.com](https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/legendary-supermodel-veruschka-one-fashions-201958468.html) · [yahoo.com](https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/legendary-supermodels-death-sparks-emotional-223053899.html) · [ground.news](https://ground.news/article/veruschka-mesmerizing-supermodel-of-the-1960s-and-70s-dies-at-87)
 
-Influence score: 8/10 · Engagement seen: x aboutmusicyt bts views: 171,161, x aboutmusicyt bts likes: 15,915, x aboutmusicyt wonhee views: 152,226, x theepopcore sana views: 51,737, x theepopcore jennie views: 40,734 · Published: 2026-11-24
+Influence score: 8/10 · Engagement seen: ground_news_sources: 112 · Published: 2026-11-25
 
-_Note: No photos stored (real people)._
-
-### 14. A Vanity Fair line about Taylor Swift's three pairs of Uggs turns into a footwear-and-class debate
-
-In Vanity Fair's profile of Taylor Swift, a former schoolmate recalls Swift owning Ugg boots in brown, black and blue at a time when one pair cost half her own mother's paycheck. Footwear News (WWD) notes the remark sparked fan backlash, with some fans urging Ugg to sign Swift, and revisits 2003, when Ugg launched baby-blue and pink Classics at about $110-160 and Oprah's 'Favorite Things' list sent demand soaring.
-
-Sources: [wwd.com](https://wwd.com/footwear-news/shoe-features/taylor-swift-ugg-boots-2000s-millennial-fashion-1239464654/)
-
-Influence score: 5/10 · Engagement seen: none visible · Published: 2026-11-24
-
-_Note: No photos stored (real people)._
+_Note: Sources: Parade and Hello! via Yahoo; Ground News aggregation. WWD obituary not readable this run. No photos stored (real person)._
 
 ## Social trends (X/TikTok)
 
-### 6. Jungkook's Chanel Beauty video for Vogue Korea passes 100K views on X within an hour
-
-Vogue Korea posted a sponsored Chanel Beauty feature with BTS's Jungkook, Chanel's global fragrance and beauty ambassador since December 2025, linking his look to Chanel's Les Exclusifs fragrance line. Within about an hour the magazine's post and several fan reposts of the video each passed 59,000 to 110,000 views, making it the top fashion-related content in our X searches.
-
-Sources: [x.com](https://x.com/VogueKorea/status/2125405424409309535) · [x.com](https://x.com/dreamjeons/status/2125394507369767112) · [x.com](https://x.com/archiveforJK/status/2125395144744501304) · [koreatimes.co.kr](https://www.koreatimes.co.kr/entertainment/k-pop/20251212/bts-jung-kook-named-chanel-beautys-new-global-ambassador)
-
-Influence score: 7/10 · Engagement seen: x voguekorea views: 59,474, x voguekorea likes: 8,788, x voguekorea reposts: 5,357, x dreamjeons views: 109,747, x dreamjeons likes: 11,294, x archiveforjk views: 92,487, x archiveforjk likes: 10,601 · Published: 2026-11-25
-
-_Note: Verified via Vogue Korea's own post; ambassadorship from Korea Times (Dec 2025). No photos stored (real person)._
+_No qualifying items tonight._
 
 ## TikTok search insights
 
-- Creator Search Insights' keyword and content-gap view still isn't offered on TikTok web for this account, so no search-keyword or content-gap figures tonight. TikTok Studio > Inspiration > Trending (Beauty & Style, all regions) used instead; figures are the pairs shown (likely views / likes).
-
-- #skincare #facemask (blackheads): 12M / 763K (as shown)
-- #fashion #diy #tiktokawardsuk (creator nominated for TikTok Awards UK fashion creator of the year): 3.5M / 446K (as shown)
-- #viral #fyp (transformation): 3M / 184K (as shown)
-- #hairstyle: 1.9M / 23K (as shown)
-- #hairstyle: 1.6M / 6.5K (as shown)
-- #PeloMujer #CaidaDelPelo (women's hair loss): 1.4M / 32K (as shown)
-- #barber transformation haircut: 1.1M / 158K (as shown)
-- What a gentleman wears to meet her parents (menswear outfit): 1.1M / 90K (as shown)
-
-- Gap On-Model could fill: the one fashion entry is again a DIY 'anything can be fashion' maker (a TikTok Awards UK nominee), plus a menswear 'what to wear' explainer. Quick flat-garment-to-outfit styling explainers are still missing from the trending set.
+- TikTok Creator Search Insights: unavailable. The browser connector this digest uses for TikTok needs reconnecting, so no trending keywords or content-gap searches tonight.
 
 ## Sources checked
 
-- X: signed in. Searches for fashion (Top, 500+ likes), outfit/red carpet/Dior/Chanel/Prada/Gucci/Balenciaga/Vogue (Top, 3,000+ likes), AI fashion / virtual try-on / AI models / fashion tech / AI campaign / AI-generated (Top, 100+ likes; no fashion news, mostly generic AI-tool posts); Explore trending (Italy: only Ferragni, already covered yesterday).
-- TikTok: signed in. Creator Search Insights searched (no tool entry on web); TikTok Studio Inspiration trending.
-- TikTok Creator Search Insights: unavailable on web (keyword/gap view).
-- News: The Interline (only The Edit podcast of 24 Nov, topics already covered or older), Vogue Business, Vogue Korea, TechCrunch, FashionNetwork, WWD / Sourcing Journal / Footwear News, Retail Dive, Modern Retail, Just Style, Glossy, Business of Fashion (paywalled; headlines). Not reached: FashionUnited (listing didn't load), Drapers, The Verge, Hypebeast, Highsnobiety. WebFetch isn't available in this run; all pages were opened in the browser.
-- Not used: Daydream overnight shopping agent and Zalando Extended (17 Nov, older), Fermat $8M seed (18 Nov), Ross Stores outlook (20 Nov), ThredUp on TikTok Shop (20 Nov), Klarna Search & Compare expansion (minor), Dick's comments on Nike's Jordan reset, Balmain menswear (10 Nov), Vogue Japan / SixTONES award (music-led).
-- Images: workspace network blocks direct downloads, so original files were fetched through the browser unchanged; 3 uploaded to the [Drive day folder](https://drive.google.com/drive/folders/1jAUrhZaU5IEEmaOdGATNOYrh4MeYdixU) and previewed here. No photos of real people stored (Vogue fakes art, Marc Jacobs, Bangladesh, Abercrombie, Authentic, Retail Dive, Jacquemus lead image, Vogue Korea, Jungkook, Taylor Swift skipped).
+- x.com: not checked (browser connector needs reconnecting)
+- tiktok.com: not checked (browser connector needs reconnecting)
+- TikTok Creator Search Insights: unavailable
+- theinterline.com (2 new posts on 25 Nov)
+- fashionunited.uk
+- ustr.gov, flexport.com
+- investing.com, aastocks.com (Shein results)
+- digitalcommerce360.com (Adobe data)
+- aljazeera.com
+- yahoo.com (Parade, Hello!), ground.news
+- wwd.com / Sourcing Journal: not readable (fetch blocked)
+- fashionnetwork.com: not readable (fetch blocked)
+- retaildive.com, modernretail.co, techcrunch.com: listings not readable; one Retail Dive article read (older)
+- businessoffashion.com, vogue.com/business, drapersonline.com, just-style.com, theverge.com, hypebeast.com, highsnobiety.com: search results only, nothing new in window
+- Images: none stored (workspace network blocks image downloads; no browser); Drive: reachable, no uploads
+- Not used: Artiso pre-seed (4 Nov), Fermat seed (17 Nov), ChatGPT virtual try-on (1 Oct), Amazon text-to-shop (9 Nov), lululemon Gore-Tex at BEAMS (5 Nov): all older. NYT Photoshop restriction and Stella McCartney/Joan Collins campaign: source pages not readable, left out.
 
 ## Possible LinkedIn angles
 
-- 'On a product page, plausible is misrepresentation' (Odunayo Ojo, Vogue Business). Fidelity, not realism, is the bar for AI product imagery.
-- Most wholesale contracts don't mention AI product images yet. Brands should ask retailers how their imagery is made and who signs off on accuracy.
-- Meta's Muse now shops ASOS, M&S, JD and Debenhams for UK users. When an agent picks for the shopper, the product image has to be right first time.
+- Tariffs up to 35% on Vietnam and 18% on Bangladesh are proposed: where can fashion brands still cut cost? Content production is one of the few lines they fully control.
+- AI-referred retail traffic +127% (Adobe): when the first visit comes from an assistant, the product image has to convert on arrival.
+- L'Oreal and LVMH worry about AI images looking the same everywhere. The fix is brand-trained, controllable imagery, not less AI.
