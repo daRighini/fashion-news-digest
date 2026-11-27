@@ -1,0 +1,415 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T03:51:26+01:00",
+  "drive_day_folder_url": "https://drive.google.com/drive/folders/13m6g3TYi4WSSEpyYIwRBswHlhmPG3Zot",
+  "sources_checked": [
+    "x.com (signed in: Explore trending (Italy); searches 'fashion since:2026-11-26' (Top), AI fashion / virtual try-on / AI model fashion (Top), 'outfit min_faves:5000' (Top); few fresh fashion-news posts)",
+    "tiktok.com (signed in: searches 'fashion news', 'AI fashion'; nothing new in window with meaningful reach)",
+    "TikTok Creator Search Insights: unavailable (tiktok.com/csi redirects to the home feed on web)",
+    "theinterline.com (podcast of 26 Nov)",
+    "businessoffashion.com (headlines/descriptions; paywalled)",
+    "vogue.com / Vogue Business",
+    "wwd.com",
+    "fashionunited.uk (listing; articles paywalled)",
+    "fashionnetwork.com",
+    "drapersonline.com",
+    "retaildive.com",
+    "modernretail.co (nothing new in window)",
+    "retailtechinnovationhub.com",
+    "hypebeast.com",
+    "semafor.com",
+    "WebSearch (just-style, Sourcing Journal, TechCrunch, The Verge: nothing new in window)",
+    "Not reached: highsnobiety.com (time)",
+    "Google Drive: day folder 2026/11-27 created, 3 original images uploaded"
+  ],
+  "tiktok_search_insights": null,
+  "items": [
+    {
+      "id": "2026-11-27-temu-eu-consumer-commitments",
+      "rank": 1,
+      "category": "E-commerce & retail business",
+      "headline": "Temu signs binding EU pledge to screen fake reviews, label real discounts and drop its spin-the-wheel gamification",
+      "summary": "The European Commission said the EU network of consumer protection authorities (CPC) has accepted binding commitments from Temu after complaints dating back to November 2024. Reviews will be checked for authenticity before publication with a fake-review detection system, price displays must separate genuine discounts from comparisons with a reference price, and all taxes and fees must be shown before checkout. Refunds are to be processed within 14 days, the cancellation form will be available in all EU languages, and mandatory game-like elements such as the entry 'wheel of fortune' are being removed. Separate Digital Services Act cases continue, including the €200M fine over illegal products.",
+      "why_it_matters": "Tighter EU rules on reviews and 'real' discounts raise the bar for honest product presentation on marketplaces; accurate product imagery is part of the same trust agenda.",
+      "influence_score": 7,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Temu"
+        ],
+        "people": [],
+        "companies": [
+          "Temu",
+          "European Commission"
+        ],
+        "events": [
+          "EU CPC coordinated action"
+        ]
+      },
+      "source_urls": [
+        "https://uk.fashionnetwork.com/news/Temu-backs-down-pledges-greater-transparency-on-prices-and-reviews,1888704.html",
+        "https://fashionunited.uk/news/business/temu-agrees-to-end-fake-reviews-and-misleading-discounts-under-eu-pressure/2026112691592"
+      ],
+      "image": {
+        "preview_path": "images/2026/11-27/temu-eu-consumer-commitments.jpg",
+        "drive_url": "https://drive.google.com/file/d/1OdZjd1Hw8NB7OpCUwHsM8JUqecHRnwh0/view",
+        "drive_file_id": "1OdZjd1Hw8NB7OpCUwHsM8JUqecHRnwh0",
+        "original_url": "https://media.fashionnetwork.com/m/833d/f09b/598d/3873/985d/43af/9f2c/edad/c580/429c/429c.jpg",
+        "width": 501,
+        "height": 501,
+        "bytes": 37340
+      },
+      "published_at": "2026-11-26",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-27-shein-india-slow-start",
+      "rank": 2,
+      "category": "E-commerce & retail business",
+      "headline": "Shein's India comeback with Reliance stalls at about 6M monthly users, as Shein also agrees a $100M FTC settlement in the US",
+      "summary": "Bloomberg reports (via FashionNetwork and BoF) that Shein's February 2025 relaunch in India through Mukesh Ambani's Reliance Retail is struggling: Sensor Tower estimates about 6 million monthly active users in October, roughly flat since January, against about 100 million for Walmart-owned Myntra. Reliance runs the operation and has not received Shein's proprietary design-to-production technology, so it built vendor and production processes from scratch with smaller Indian manufacturers, causing extra training, waste and slower turnaround. Separately, Shein will pay $100M under a proposed FTC order over alleged broken fast-shipping promises, suppressed critical reviews and unsupported cotton-sourcing and audit claims; Shein does not admit liability.",
+      "why_it_matters": "Shows that Shein's edge is its speed-to-market tech stack, not the brand; fast, cheap content creation is part of that loop.",
+      "influence_score": 7,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Shein",
+          "Myntra"
+        ],
+        "people": [
+          "Mukesh Ambani",
+          "Isha Ambani"
+        ],
+        "companies": [
+          "Shein",
+          "Reliance Retail",
+          "Walmart",
+          "Sensor Tower",
+          "Federal Trade Commission"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://ww.fashionnetwork.com/news/Shein-s-slow-india-start-lays-bare-limits-of-billionaire-ambani-s-retail-might,1888427.html",
+        "https://www.businessoffashion.com/news/retail/sheins-return-to-india-struggles-to-recapture-its-former-glory/",
+        "https://www.retaildive.com/news/shein-to-pay-100m-in-ftc-settlement-over-deceptive-practices-claims/875748/"
+      ],
+      "image": {
+        "preview_path": "images/2026/11-27/shein-india-slow-start.jpg",
+        "drive_url": "https://drive.google.com/file/d/1LJJgLIyUyr3ohCzCtb2gL99XmpG8CV-w/view",
+        "drive_file_id": "1LJJgLIyUyr3ohCzCtb2gL99XmpG8CV-w",
+        "original_url": "https://media.fashionnetwork.com/m/6f31/d010/e0af/cff8/0f6f/2306/ffb0/61bd/2bca/8386/8386.jpg",
+        "width": 501,
+        "height": 501,
+        "bytes": 39991
+      },
+      "published_at": "2026-11-26",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-27-voyado-ai-black-friday-survey",
+      "rank": 3,
+      "category": "Fashion tech & AI",
+      "headline": "Voyado survey: 48% of European shoppers will use AI to hunt Black Friday deals, but only a third will let it place the order",
+      "summary": "Retail-tech firm Voyado says 48% of European shoppers expect to use AI assistants to find prices or offers during Black Friday and the holiday period, and 38% for gift ideas. Trust stops short of the wallet: 51% are not at all comfortable sharing card details with an assistant, and only 33% are comfortable with AI placing an order even after approving item and price. Before buying an AI-recommended product, 64% want to check the total price on the retailer's site, 42% the product details and fit, and 40% the delivery date; search engines (27%) still lead as a starting point, with AI assistants (18%) level with retailer sites and apps (17%).",
+      "why_it_matters": "AI gets the product shortlisted, but the product page closes the sale: shoppers go to the PDP to check fit and details, where on-model imagery does the work.",
+      "influence_score": 7,
+      "engagement": {},
+      "entities": {
+        "brands": [],
+        "people": [],
+        "companies": [
+          "Voyado"
+        ],
+        "events": [
+          "Black Friday 2026"
+        ]
+      },
+      "source_urls": [
+        "https://uk.fashionnetwork.com/news/Shoppers-use-ai-to-find-black-friday-bargains-but-a-brand-s-or-retailer-s-webstore-clinches-the-deal-report,1888383.html"
+      ],
+      "image": null,
+      "published_at": "2026-11-25",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-27-louis-vuitton-yuja-wang-the-louis-concert",
+      "rank": 4,
+      "category": "Celebrity & red carpet",
+      "headline": "Louis Vuitton turns its Shanghai 'ship' into a concert hall for Yuja Wang; livestream nears 100M views, Jackson Wang's post tops 200K",
+      "summary": "Pianist and LV ambassador Yuja Wang played Brahms's Piano Concerto No. 2 with the Mahler Chamber Orchestra inside a glass sphere next to The Louis, the brand's boat-shaped landmark in Shanghai, the first classical concert held there (WWD). Guests included Hélène Mercier-Arnault, Pietro Beccari and ambassadors Jackson Wang, Liu Yifei and Ouyang Nana; the 1.5-hour livestream on WeChat, Xiaohongshu, Weibo and state media was approaching 100 million views at publication. Wang performed in an emerald-green minidress with Christian Louboutin stilettos. On X, Jackson Wang's 'Tonight' post tagging Louis Vuitton passed 201K views and 13K likes.",
+      "why_it_matters": null,
+      "influence_score": 7,
+      "engagement": {
+        "x_views": 201000,
+        "x_likes": 13000,
+        "x_reposts": 5700,
+        "x_replies": 2100,
+        "livestream_views_reported": "almost 100 million (WWD)"
+      },
+      "entities": {
+        "brands": [
+          "Louis Vuitton",
+          "Christian Louboutin"
+        ],
+        "people": [
+          "Yuja Wang",
+          "Jackson Wang",
+          "Liu Yifei",
+          "Ouyang Nana",
+          "Hélène Mercier-Arnault",
+          "Pietro Beccari"
+        ],
+        "companies": [
+          "LVMH"
+        ],
+        "events": [
+          "The Louis – Music for the City"
+        ]
+      },
+      "source_urls": [
+        "https://wwd.com/fashion-news/designer-luxury/louis-vuitton-the-louis-yuja-wang-concert-1239467077/",
+        "https://x.com/JacksonWang852/status/2125896324956787008"
+      ],
+      "image": null,
+      "published_at": "2026-11-26",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-27-gap-cognition-devin-black-friday",
+      "rank": 5,
+      "category": "Fashion tech & AI",
+      "headline": "Gap Inc. puts Cognition's Devin coding agent on Black Friday duty to find and fix site issues",
+      "summary": "Gap Inc. is using Devin, the AI software-engineering agent from Cognition, to keep its e-commerce sites running through Black Friday and Cyber Week (RTIH). In a 'site scan' process Devin watches for signs of customer struggle or system faults, investigates root causes and writes tested code fixes that engineers review and publish. Gap says it logged more than 75 million online sessions and over 5 million orders in last year's nine-day holiday window, peaking above 1,500 orders a minute, and estimates Devin has already recovered millions in sales otherwise lost to downtime.",
+      "why_it_matters": "A large apparel group is putting AI agents into production e-commerce operations, not just marketing; buyers are getting comfortable with agentic tools in the core stack.",
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Gap"
+        ],
+        "people": [
+          "Sven Gerjets"
+        ],
+        "companies": [
+          "Gap Inc.",
+          "Cognition"
+        ],
+        "events": [
+          "Black Friday 2026",
+          "Cyber Week"
+        ]
+      },
+      "source_urls": [
+        "https://retailtechinnovationhub.com/home/2026/11/26/gap-inc-taps-cognitions-devin-ai-tool-to-help-keep-holiday-shopping-running-smoothly"
+      ],
+      "image": null,
+      "published_at": "2026-11-26",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-27-zegna-parma-footwear-leather-plant",
+      "rank": 6,
+      "category": "Brands, launches & deals",
+      "headline": "Zegna Group starts production at its new footwear and leather goods plant near Parma for Zegna, Thom Browne and Tom Ford Fashion",
+      "summary": "The Ermenegildo Zegna Group has begun operations at a footwear and leather goods centre in Sala Baganza, near Parma, that will make products for all three of its brands and grow to more than 300 employees (WWD, FashionUnited). First announced in February 2024, the site was designed by Antonio Citterio Patricia Viel, is ringed by 400 trees and has a 1.3 MWp solar installation; its formal inauguration is planned for the first half of 2027. It extends a vertically integrated chain that already includes Lanificio Zegna, Tessitura di Novara, Bonotto and Dondi.",
+      "why_it_matters": null,
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Zegna",
+          "Thom Browne",
+          "Tom Ford Fashion"
+        ],
+        "people": [
+          "Gildo Zegna"
+        ],
+        "companies": [
+          "Ermenegildo Zegna Group",
+          "ACPV Architects Antonio Citterio Patricia Viel"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://wwd.com/business-news/business-features/ermenegildo-zegna-group-new-footwear-leather-goods-plant-1239466752/",
+        "https://fashionunited.uk/news/business/zegna-bets-on-made-in-italy-with-new-footwear-and-leather-goods-facility/2026112691593"
+      ],
+      "image": {
+        "preview_path": "images/2026/11-27/zegna-parma-footwear-leather-plant.jpg",
+        "drive_url": "https://drive.google.com/file/d/1WThhSnNZn6ju-xWsjgUpNa6X5Uf1YcrI/view",
+        "drive_file_id": "1WThhSnNZn6ju-xWsjgUpNa6X5Uf1YcrI",
+        "original_url": "https://wwd.com/wp-content/uploads/2026/11/PHOTO-2026-11-26-12-06-49.jpg",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 281972
+      },
+      "published_at": "2026-11-26",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-27-urbn-record-q3",
+      "rank": 7,
+      "category": "E-commerce & retail business",
+      "headline": "Urbn posts record Q3 sales of $1.67B, led by Free People and Urban Outfitters",
+      "summary": "Urbn, owner of Urban Outfitters, Free People and Anthropologie, grew net sales 8.9% to a record $1.67 billion in the quarter to 31 October, with net income up 15% to $134.1 million (Drapers). Comparable retail sales rose 8.5% at Free People, 5.8% at Urban Outfitters and 1.7% at Anthropologie. Nine-month sales rose 10.2% to $4.81 billion and net income 33% to $490 million.",
+      "why_it_matters": null,
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Urban Outfitters",
+          "Free People",
+          "Anthropologie"
+        ],
+        "people": [],
+        "companies": [
+          "Urbn"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://www.drapersonline.com/news/urban-outfitters-hails-record-third-quarter-sales"
+      ],
+      "image": null,
+      "published_at": "2026-11-26",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-27-moncler-rick-owens-fw26",
+      "rank": 8,
+      "category": "Brands, launches & deals",
+      "headline": "Moncler and Rick Owens return with a studded, Geo-quilted FW26 outerwear collection",
+      "summary": "Moncler x Rick Owens Fall/Winter 2026 centres on quilted outerwear with a graphic 'Geo Quilting' pattern, metal studs, oversized Tour pockets and a 'Mega Strap' for carrying a jacket across the body (Hypebeast). The palette is black, metallic Palladium, Cloud Grey and a muted 'Grease' tone, styled with Thyra sunglasses and Trailgrip Pentalace boots. Owens shot the campaign himself, casting Warhol-era film actor Joe Dallesandro; the collection is sold via HBX, Moncler and Rick Owens stores and online.",
+      "why_it_matters": null,
+      "influence_score": 6,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Moncler",
+          "Rick Owens",
+          "HBX"
+        ],
+        "people": [
+          "Rick Owens",
+          "Joe Dallesandro"
+        ],
+        "companies": [
+          "Moncler"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://hypebeast.com/2026/11/moncler-rick-owens-fall-winter-fw-2026-collaboration-collection-release-info"
+      ],
+      "image": null,
+      "published_at": "2026-11-26",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-27-macys-100th-parade-postponed",
+      "rank": 9,
+      "category": "E-commerce & retail business",
+      "headline": "Storms push Macy's 100th Thanksgiving Day Parade to Saturday 28 November",
+      "summary": "Macy's moved its 100th Thanksgiving Day Parade in New York from Thursday to Saturday 28 November at 8:30 a.m. ET because of severe storms across the Northeast (Retail Dive). The parade, which began in 1924, has only been paused once before (1942-44, during the war); the centenary edition took about five years to plan and comes with a line of limited-edition parade merchandise and brand collaborations. Macy's Inc. reports Q3 results on 2 December.",
+      "why_it_matters": null,
+      "influence_score": 5,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Macy's",
+          "Bloomingdale's",
+          "Bluemercury"
+        ],
+        "people": [
+          "Will Coss",
+          "Tony Spring",
+          "Zohran Mamdani"
+        ],
+        "companies": [
+          "Macy's Inc."
+        ],
+        "events": [
+          "Macy's Thanksgiving Day Parade 2026"
+        ]
+      },
+      "source_urls": [
+        "https://www.retaildive.com/news/macys-100th-thanksgiving-day-parade-postponed/875808/"
+      ],
+      "image": null,
+      "published_at": "2026-11-25",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-27-fynd-n-brown-boltic",
+      "rank": 10,
+      "category": "Fashion tech & AI",
+      "headline": "India's Fynd lands its first big UK retail client, N Brown, for AI-built integration platform Boltic",
+      "summary": "Fynd, an AI-native retail-tech company from India, will supply its Boltic workflow-automation and integration (iPaaS) platform to N Brown, owner of JD Williams, Simply Be and Jacamo (RTIH). Roll-out starts at Ambrose Wilson and then moves across the group's other brands as part of N Brown's technology modernisation.",
+      "why_it_matters": "Mid-market fashion groups are rebuilding their data plumbing; clean product data flows are what make automated image production plug in.",
+      "influence_score": 4,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "JD Williams",
+          "Simply Be",
+          "Jacamo",
+          "Ambrose Wilson"
+        ],
+        "people": [
+          "Sreeraman Mohan Girija",
+          "Chris Williamson"
+        ],
+        "companies": [
+          "Fynd",
+          "N Brown"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://retailtechinnovationhub.com/home/2026/11/25/indian-ai-specialist-fynd-bags-first-major-retail-customer-win-in-the-uk-as-n-brown-comes-onboard"
+      ],
+      "image": null,
+      "published_at": "2026-11-25",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-27-interline-carbonfact-impact-assessment",
+      "rank": 11,
+      "category": "Fashion tech & AI",
+      "headline": "The Interline: after a shakeout, fashion's impact-assessment tools are consolidating around science-based platforms",
+      "summary": "In a new podcast episode with Carbonfact's Laurent, The Interline's Ben Hanson argues that sustainability-tech demand stalled as EU rules ended up softer than expected and shopper behaviour did not change, leading to market consolidation. The vendors left are data-centric platforms with clear methodologies; Carbonfact says its numbers are used mainly to guide internal decisions, with consumer-facing disclosure as a second use, and stresses water, chemicals and land use alongside carbon.",
+      "why_it_matters": null,
+      "influence_score": 4,
+      "engagement": {},
+      "entities": {
+        "brands": [],
+        "people": [
+          "Ben Hanson"
+        ],
+        "companies": [
+          "The Interline",
+          "Carbonfact"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://www.theinterline.com/2026/11/26/the-science-of-fashion-impact-assessment-and-the-market-value-of-disclosure/"
+      ],
+      "image": null,
+      "published_at": "2026-11-26",
+      "verified": true,
+      "is_update": false
+    }
+  ]
+}

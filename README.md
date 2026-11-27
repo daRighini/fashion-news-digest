@@ -13,6 +13,8 @@ Built every night at about 03:35 Europe/Rome by a scheduled Claude task for Pikt
 5. `is_update: true` marks a story already covered on an earlier day, with a new development.
 6. Images: `image.preview_path` is a small copy in this repo (max 800 px). `image.drive_url` is the full-resolution file in Google Drive. There are no photos of real, identifiable people; celebrity outfits are described in words.
 
+`tiktok_search_insights` is null when TikTok Creator Search Insights could not be read; otherwise `{"trending_keywords": [{"keyword", "category", "metric"}], "content_gaps": [{"keyword", "category", "metric"}]}`.
+
 ## Layout
 
 ```
@@ -44,6 +46,7 @@ https://drive.google.com/drive/folders/14geDgVbwkEN3mN51MtqKK1jYKNpevL5A
   "generated_at": "ISO 8601 timestamp",
   "drive_day_folder_url": "https://drive.google.com/...",
   "sources_checked": ["x.com (signed in)", "tiktok.com", "theinterline.com", "..."],
+  "tiktok_search_insights": null,
   "items": [
     {
       "id": "YYYY-MM-DD-<slug>",
