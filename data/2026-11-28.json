@@ -1,0 +1,392 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T02:55:00Z",
+  "drive_day_folder_url": null,
+  "sources_checked": [
+    "x.com (signed in: Explore trending (Italy); searches 'fashion since:2026-11-27 min_faves:2000' (Top), AI fashion / virtual try-on / AI model / fashion tech (Top), 'Valentino' trend (not fashion: MotoGP))",
+    "tiktok.com (signed in: search 'zara khaite/kolor'; nothing new in window with meaningful reach)",
+    "TikTok Creator Search Insights: unavailable (searching it on web shows only an AI summary and tutorial videos, not the tool)",
+    "theinterline.com (weekly analysis 27 Nov)",
+    "businessoffashion.com (headlines; paywalled)",
+    "vogue.com / Vogue Business (headlines; paywalled)",
+    "wwd.com",
+    "uk.fashionnetwork.com",
+    "drapersonline.com",
+    "retaildive.com (nothing new in window)",
+    "retailtechinnovationhub.com (nothing fashion-specific new)",
+    "hypebeast.com",
+    "fashion-press.net",
+    "dazeddigital.com",
+    "en.sedaily.com",
+    "nglobenews.com",
+    "investing.com (Reuters)",
+    "WebSearch (Just Style, Sourcing Journal, TechCrunch, The Verge, AI fashion funding: nothing new in window)",
+    "Not reached: highsnobiety.com, modernretail.co (time)",
+    "Google Drive: folder reachable; no uploads tonight (original image files could not be moved from the browser into the workspace)"
+  ],
+  "tiktok_search_insights": null,
+  "items": [
+    {
+      "id": "2026-11-28-black-friday-online-record-adobe",
+      "rank": 1,
+      "category": "E-commerce & retail business",
+      "headline": "US Black Friday heads for a record $13B+ online as malls report full car parks but no stampedes",
+      "summary": "Adobe Analytics counted $9.7B in US online spending by 6:30 p.m. ET on Black Friday, up 12.8% on last year, and now expects a record $13.0-13.4B for the day, above its $12.9B forecast; Thanksgiving Day itself hit $7.1B (+10.4%). Salesforce puts US online sales at $5.9B for the first half of the day and forecasts $18.7B (+4%) on its own method. In stores, WWD heard of full parking lots and lines at Hollister, Abercrombie & Fitch, Skims, Aritzia, Ugg, Nike and The North Face, with Macy's discounting 40-70% and executives still tracking to mid-single-digit holiday growth. In the UK, Drapers reports more fashion brands opting out: 35% of small businesses are skipping Black Friday this year versus 22% in 2025 (MoneySuperMarket).",
+      "why_it_matters": "Record online volume at heavy discounts means PDP content has to be ready for peak traffic without extra shoot budget; the next test is Cyber Monday, projected at $15.1B.",
+      "influence_score": 8,
+      "engagement": {
+        "x_trending": "'Black Friday' in X Explore trending (Italy)"
+      },
+      "entities": {
+        "brands": [
+          "Hollister",
+          "Abercrombie & Fitch",
+          "Skims",
+          "Aritzia",
+          "Macy's",
+          "Nordstrom",
+          "Ugg",
+          "Nike",
+          "The North Face",
+          "Finisterre"
+        ],
+        "people": [],
+        "companies": [
+          "Adobe",
+          "Salesforce",
+          "Westfield",
+          "CBL Properties",
+          "Tanger"
+        ],
+        "events": [
+          "Black Friday 2026",
+          "Thanksgiving 2026"
+        ]
+      },
+      "source_urls": [
+        "https://nglobenews.com/en/article/us-black-friday-online-sales-13-billion-adobe-2026-11-27",
+        "https://wwd.com/business-news/retail/black-friday-turnout-picks-up-as-the-day-progresses-1239467491/",
+        "https://www.drapersonline.com/news/the-fashion-retailers-rethinking-black-friday"
+      ],
+      "image": null,
+      "published_at": "2026-11-27",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-28-bain-ai-agents-black-friday-share",
+      "rank": 2,
+      "category": "Fashion tech & AI",
+      "headline": "Bain: AI shopping agents handled just 0.4% of global e-commerce transactions over Black Friday",
+      "summary": "Purchases completed by AI agents made up only 0.4% of global online transactions (0.2% by value), Bain & Company said on 27 November, as reported by Seoul Economic Daily. More shoppers use AI to search (54% of US adults, up from 47%, in a Morning Consult survey for Visa), but only 23% trust it to buy and pay. Visa's test of 22 assistants found 42.8% failed, most often by buying something that did not match the request, and half of 200 big retail sites checked by Human Forward block agents such as ChatGPT, Gemini and Meta's Muse.",
+      "why_it_matters": "Agents are a discovery channel, not yet a checkout: the shopper still lands on the product page, and agents that pick the wrong item show why precise, accurate product imagery and attributes matter.",
+      "influence_score": 8,
+      "engagement": {},
+      "entities": {
+        "brands": [],
+        "people": [],
+        "companies": [
+          "Bain & Company",
+          "Visa",
+          "Morning Consult",
+          "American Express",
+          "Human Forward",
+          "Amazon",
+          "Walmart",
+          "Target",
+          "Meta",
+          "OpenAI",
+          "Google"
+        ],
+        "events": [
+          "Black Friday 2026"
+        ]
+      },
+      "source_urls": [
+        "https://en.sedaily.com/world/2026/11/28/ai-shopping-agents-account-for-just-04-percent-of-sales-on"
+      ],
+      "image": null,
+      "published_at": "2026-11-28",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-28-interline-ssense-ai-product-imagery",
+      "rank": 3,
+      "category": "Fashion tech & AI",
+      "headline": "The Interline on SSENSE: generative product imagery breaks the e-commerce promise when it's run as a cost cut",
+      "summary": "The Interline's weekly analysis uses the SSENSE case (designers Reese Cooper, Gerrit Jacob and Sage Toda-Nation flagged listing images that changed details, seams and silhouettes after SSENSE closed its studio) to argue the problem is strategy, not the technology. It notes SSENSE's 'virtual try-on' label really meant synthetic on-model photography, and that large retailers already use generated images successfully, with many UK shoppers seeing them without noticing. Its conclusion: workable generative image pipelines still need art direction, review and QA, and savings come from reusable workflows rather than from cutting people, citing Zalando and Photoroom as examples.",
+      "why_it_matters": "This is the clearest industry framing yet of On-Model's pitch: garment fidelity and QA, not just cheaper images; useful for outreach to retailers worried about the SSENSE backlash.",
+      "influence_score": 8,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "SSENSE",
+          "Reese Cooper",
+          "Gerrit Jacob",
+          "Etsy",
+          "Zalando"
+        ],
+        "people": [
+          "Reese Cooper",
+          "Gerrit Jacob",
+          "Sage Toda-Nation"
+        ],
+        "companies": [
+          "SSENSE",
+          "The Interline",
+          "Zalando",
+          "Photoroom",
+          "Etsy"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://www.theinterline.com/2026/11/27/ssense-ai-product-imagery/"
+      ],
+      "image": null,
+      "published_at": "2026-11-27",
+      "verified": true,
+      "is_update": true
+    },
+    {
+      "id": "2026-11-28-bangladesh-orders-shift-india",
+      "rank": 4,
+      "category": "E-commerce & retail business",
+      "headline": "Zara, H&M, M&S and others moved about $254M of orders out of Bangladesh in early November, mostly to India",
+      "summary": "Three Bangladeshi factory owners told Reuters that brands including Zara, H&M, Marks & Spencer and Celio diverted around $254M of orders between 1 and 18 November, close to a tenth of monthly volume, as wage protests disrupted output. The BGMEA puts production losses above $400M; Vietnam, Cambodia and Indonesia are also gaining. Indian textile stocks rallied on the report, with Gokaldas Exports up as much as 11%. Inditex declined to comment; M&S, H&M and Celio did not respond.",
+      "why_it_matters": null,
+      "influence_score": 7,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Zara",
+          "H&M",
+          "Marks & Spencer",
+          "Celio"
+        ],
+        "people": [],
+        "companies": [
+          "Inditex",
+          "BGMEA",
+          "Gokaldas Exports",
+          "Trident"
+        ],
+        "events": [
+          "Bangladesh garment wage protests"
+        ]
+      },
+      "source_urls": [
+        "https://www.investing.com/news/stock-market-news/exclusiveglobal-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest-5053435",
+        "https://www.businessoffashion.com/news/global-markets/global-brands-shift-250-million-in-orders-from-bangladesh-amid-unrest/"
+      ],
+      "image": null,
+      "published_at": "2026-11-27",
+      "verified": true,
+      "is_update": true
+    },
+    {
+      "id": "2026-11-28-zara-kolor-world-uniform",
+      "rank": 5,
+      "category": "Brands, launches & deals",
+      "headline": "Zara x kolor 'World Uniform' capsule lands 3 December, with kolor's first kidswear",
+      "summary": "Zara has teamed up with Tokyo label kolor, now led by creative director Taro Horiuchi, on a women's, men's and children's capsule called 'World Uniform', on sale from 3 December online and in selected stores, plus concept spaces in Milan and New York. The pieces rework uniforms, workwear and tailoring: a beige-and-khaki hybrid trench, a leather-look military jacket patched with pinstripe, an offset-collar black and purple cardigan and paint-splattered double-knee work pants. Fashion Press's post on X drew about 765K views; X's auto-translation rendered the brand as 'KHAITE'.",
+      "why_it_matters": "Zara's designer-collab cadence (Galliano, Chavarria, now kolor) needs consistent on-model content across markets on launch day, including kidswear.",
+      "influence_score": 7,
+      "engagement": {
+        "x_post": "https://x.com/fashionpressnet/status/2126269827807588697",
+        "x_views": 765867,
+        "x_likes": 6792,
+        "x_reposts": 990,
+        "x_bookmarks": 1807
+      },
+      "entities": {
+        "brands": [
+          "Zara",
+          "kolor"
+        ],
+        "people": [
+          "Taro Horiuchi"
+        ],
+        "companies": [
+          "Inditex"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://uk.fashionnetwork.com/news/Zara-joins-forces-with-japanese-brand-kolor-for-new-collection,1888850.html",
+        "https://www.fashion-press.net/news/153981",
+        "https://www.vogue.com/article/the-scoop-with-kolors-taro-horiuchi-on-his-zara-collab",
+        "https://x.com/fashionpressnet/status/2126269827807588697"
+      ],
+      "image": null,
+      "published_at": "2026-11-27",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-28-puig-artessence-parfums-de-marly",
+      "rank": 6,
+      "category": "Brands, launches & deals",
+      "headline": "Puig buys 75% of Parfums de Marly and Initio owner Artessence for about €1.2B",
+      "summary": "Puig will acquire 75% of Paris-based Artessence Group from Advent International and founder Julien Sprecher, valuing the whole company at about $1.9B enterprise value; Sprecher keeps 25%, with options that let Puig reach 100% over time. Artessence expects $420-440M revenue and $180-190M EBITDA this financial year. The niche brands join Byredo and Penhaligon's in Puig's artistic-fragrance portfolio; closing is expected in Q2 2027.",
+      "why_it_matters": null,
+      "influence_score": 7,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Parfums de Marly",
+          "Initio Parfums Privés",
+          "Byredo",
+          "Penhaligon's"
+        ],
+        "people": [
+          "Julien Sprecher",
+          "Marc Puig",
+          "Jose Manuel Albesa"
+        ],
+        "companies": [
+          "Puig",
+          "Artessence Group",
+          "Advent International"
+        ],
+        "events": []
+      },
+      "source_urls": [
+        "https://uk.fashionnetwork.com/news/Puig-acquires-75-of-artessence-for-1-2-billion-euros,1889018.html",
+        "https://www.businessoffashion.com/articles/beauty/puig-agrees-to-acquire-parfums-de-marly-and-initio-parfums-prives-for-12-billion/",
+        "https://wwd.com/beauty-industry-news/fragrance/puig-acquire-75-percent-parfums-de-marly-initio-1-2-billion-1239467775/"
+      ],
+      "image": {
+        "preview_path": "images/2026/11-28/puig-artessence-parfums-de-marly.jpg",
+        "drive_url": null,
+        "drive_file_id": null,
+        "original_url": "https://media.fashionnetwork.com/m/06db/1000/db41/3d83/7584/ab9f/f6a5/12e5/ae02/6738/6738.jpg",
+        "image_link": "https://media.fashionnetwork.com/m/06db/1000/db41/3d83/7584/ab9f/f6a5/12e5/ae02/6738/6738.jpg",
+        "width": 502,
+        "height": 502,
+        "bytes": null,
+        "note": "Preview made from a browser capture of the 501 px original; original file could not be moved into the workspace, so no Drive upload."
+      },
+      "published_at": "2026-11-28",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-28-the-body-y2k-costumes",
+      "rank": 7,
+      "category": "Social trends (X/TikTok)",
+      "headline": "Netflix's 'The Body' keeps Y2K costume talk going on X, with designer moodboards passing 95K views",
+      "summary": "A fan post sharing costume designer Mirren Gordon-Crozier's character moodboards (via i-D) for Elise, Anya and Lisbeth gathered about 6.9K likes and 95K views on X within hours. Set in 2004, the hit Netflix series dresses its cheer squad in rhinestones, velour tracksuits, fur-trimmed leather and pedal pushers; Gordon-Crozier told Dazed she built a separate board per character, drawing on early-2000s Blumarine, Marc Jacobs and Chloé. Vogue Business is also running a piece on the show and the teen-drama fashion machine.",
+      "why_it_matters": "Screen-driven Y2K demand is a quick-turn merchandising cue; brands chasing it need fast styled imagery for revived silhouettes.",
+      "influence_score": 6,
+      "engagement": {
+        "x_post": "https://x.com/saintdemie/status/2126383627990917124",
+        "x_views": 95241,
+        "x_likes": 6966,
+        "x_reposts": 891,
+        "x_bookmarks": 1111
+      },
+      "entities": {
+        "brands": [
+          "Blumarine",
+          "Marc Jacobs",
+          "Chloé",
+          "Netflix"
+        ],
+        "people": [
+          "Mirren Gordon-Crozier"
+        ],
+        "companies": [
+          "Netflix",
+          "i-D",
+          "Dazed",
+          "Vogue Business"
+        ],
+        "events": [
+          "The Body (Netflix series)"
+        ]
+      },
+      "source_urls": [
+        "https://x.com/saintdemie/status/2126383627990917124",
+        "https://www.dazeddigital.com/fashion/article/71388/1/the-body-netflix-costume-design-mirren-gordon-crozier-interview-y2k-fashion",
+        "https://www.vogue.com/article/the-body-and-the-teen-drama-fashion-machine"
+      ],
+      "image": null,
+      "published_at": "2026-11-27",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-28-jennifer-lopez-thanksgiving-special-outfits",
+      "rank": 8,
+      "category": "Celebrity & red carpet",
+      "headline": "Jennifer Lopez's CBS Thanksgiving special turns into a showgirl wardrobe parade",
+      "summary": "For 'The JLo Show: Live in Las Vegas' on CBS, stylists Rob Zangardi and Mariel Haenn dressed Lopez in looks by Charbel Zoé, The Blonds and Victoria's Secret's Adam Selman (WWD). She opened in Charbel Zoé cobalt blue: a sheer, crystal-embellished high-neck gown with a feathered bolero, then a beaded mesh cut-out bodysuit with a cancan skirt and pale-blue tulle petticoat, fishnets and crystal lace-up boots. Later came a blush feather-trimmed robe over lingerie-style pieces, a custom fuchsia-purple illusion-neck gown by The Blonds with embellished opera gloves and an Atelier Biser boa, and an early-2000s callback in a cropped jacket and fringed low-rise mini.",
+      "why_it_matters": null,
+      "influence_score": 5,
+      "engagement": {},
+      "entities": {
+        "brands": [
+          "Charbel Zoé",
+          "The Blonds",
+          "Victoria's Secret",
+          "Atelier Biser"
+        ],
+        "people": [
+          "Jennifer Lopez",
+          "Rob Zangardi",
+          "Mariel Haenn",
+          "Adam Selman"
+        ],
+        "companies": [
+          "CBS"
+        ],
+        "events": [
+          "The JLo Show: Live in Las Vegas"
+        ]
+      },
+      "source_urls": [
+        "https://wwd.com/pop-culture/celebrity-news/jennifer-lopez-thanksgiving-special-outfits-2026-1239467554/"
+      ],
+      "image": null,
+      "published_at": "2026-11-27",
+      "verified": true,
+      "is_update": false
+    },
+    {
+      "id": "2026-11-28-france-bill-2824-modelling-agencies",
+      "rank": 9,
+      "category": "E-commerce & retail business",
+      "headline": "France's Bill No. 2824 would curb model debt to agencies and force action on harassment",
+      "summary": "A cross-party bill tabled in May by MPs Erwan Balanant and Sandrine Rousseau, still awaiting a parliamentary slot, would bring modelling agencies under labour-code limits on deductions from pay, targeting the practice of advancing travel, housing and portfolio costs and then recovering them from earnings (FashionNetwork). It would also require agencies to open internal investigations into harassment claims and, with the model's consent, file complaints. It follows Kering and LVMH's updated model charter.",
+      "why_it_matters": "Tighter rules and costs around human model shoots are part of the backdrop to brands weighing AI and licensed digital models; worth tracking, not overselling.",
+      "influence_score": 4,
+      "engagement": {},
+      "entities": {
+        "brands": [],
+        "people": [
+          "Erwan Balanant",
+          "Sandrine Rousseau",
+          "Ekaterina Ozhiganova"
+        ],
+        "companies": [
+          "Kering",
+          "LVMH",
+          "IMG Models",
+          "Model Law"
+        ],
+        "events": [
+          "Bill No. 2824"
+        ]
+      },
+      "source_urls": [
+        "https://uk.fashionnetwork.com/news/Bill-no-2824-the-legislation-that-could-upend-france-s-modelling-industry,1888767.html"
+      ],
+      "image": null,
+      "published_at": "2026-11-27",
+      "verified": true,
+      "is_update": false
+    }
+  ]
+}
